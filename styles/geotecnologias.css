@@ -1,0 +1,485 @@
+/* =====================================================================
+   NEOGEO — GEOTECNOLOGIAS
+   Direção de arte específica da página, preservando header/footer globais
+   ===================================================================== */
+
+.geo-page {
+  background: #fff;
+}
+
+.geo-kicker {
+  display: inline-block;
+  margin-bottom: 0.8rem;
+  color: var(--color-brand-blue);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.geo-action {
+  margin-top: 1.6rem;
+}
+
+.geo-action .btn {
+  max-width: 100%;
+  height: auto;
+  min-height: 40px;
+  padding: 0.8rem 1.4rem;
+  line-height: 1.4;
+  text-align: center;
+  white-space: normal;
+}
+
+/* ---------- Hero ---------- */
+.geo-hero {
+  background: #fff;
+  padding: clamp(3.5rem, 7vw, 7rem) 0;
+}
+
+.geo-hero-grid {
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.geo-hero-copy {
+  max-width: 62ch;
+}
+
+.geo-hero h1 {
+  margin: 0 0 1.5rem;
+  color: #000;
+  font-size: clamp(2.2rem, 4.2vw, 3.875rem);
+  font-weight: 800;
+  line-height: 1.04;
+  letter-spacing: -0.03em;
+}
+
+.geo-hero h1 span {
+  color: var(--color-brand-blue);
+}
+
+.geo-hero-copy p {
+  max-width: 56ch;
+  margin: 0 0 1rem;
+  color: var(--color-text-gray);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.geo-hero-media {
+  position: relative;
+  min-height: 440px;
+  border-radius: 20px;
+  background: #000;
+  overflow: hidden;
+}
+
+.geo-hero-media::before {
+  content: "";
+  position: absolute;
+  left: 8%;
+  top: 10%;
+  right: -10%;
+  height: 5px;
+  background: var(--color-brand-blue);
+  box-shadow:
+    0 18px 0 rgba(34, 125, 194, 0.8),
+    0 36px 0 rgba(34, 125, 194, 0.45);
+}
+
+/* ---------- Introdução ---------- */
+.geo-intro {
+  background: var(--color-bg-page);
+  padding: clamp(3.5rem, 7vw, 7rem) 0;
+}
+
+.geo-intro-grid {
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.geo-intro-copy {
+  max-width: 54ch;
+}
+
+.geo-intro h2 {
+  margin: 0 0 1.25rem;
+  color: #000;
+  font-size: clamp(2rem, 3.4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.geo-intro h2 span {
+  color: var(--color-brand-blue);
+}
+
+.geo-intro-copy p {
+  margin: 0 0 1rem;
+  color: var(--color-text-gray);
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+.geo-intro-copy p:last-child {
+  margin-bottom: 0;
+}
+
+.geo-intro-visual {
+  position: relative;
+  min-height: 400px;
+  border-radius: 20px;
+  background: #000;
+  overflow: hidden;
+}
+
+.geo-intro-visual::before {
+  content: "";
+  position: absolute;
+  left: 9%;
+  top: 10%;
+  right: -12%;
+  height: 5px;
+  background: var(--color-brand-blue);
+  box-shadow:
+    0 18px 0 rgba(34, 125, 194, 0.8),
+    0 36px 0 rgba(34, 125, 194, 0.45);
+}
+
+/* ---------- Blocos de métodos ---------- */
+.geo-method-block {
+  background: #fff;
+  padding: clamp(3.5rem, 7vw, 7rem) 0;
+}
+
+.geo-method-block--alt {
+  background: var(--color-bg-page);
+}
+
+.geo-method-grid {
+  display: grid;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.geo-method-copy {
+  max-width: 58ch;
+}
+
+.geo-method-copy h2 {
+  margin: 0 0 1.25rem;
+  color: #000;
+  font-size: clamp(1.9rem, 3.2vw, 2.8rem);
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+}
+
+.geo-method-copy h2 span {
+  color: var(--color-brand-blue);
+}
+
+.geo-method-copy p {
+  margin: 0 0 1rem;
+  color: var(--color-text-gray);
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+.geo-method-copy p:last-child {
+  margin-bottom: 0;
+}
+
+.geo-method-list h3 {
+  margin: 0 0 1rem;
+  color: var(--color-brand-navy);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.4;
+  text-transform: uppercase;
+}
+
+.geo-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.geo-chips li {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  padding: 0.55rem 0.95rem;
+  border: 1px solid #d7dde3;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--color-brand-navy);
+  font-size: 0.82rem;
+  font-weight: 500;
+  line-height: 1.35;
+}
+
+.geo-method-block--alt .geo-chips li {
+  background: #fff;
+}
+
+/* ---------- Integração multimétodo ---------- */
+.geo-integracao {
+  background: #000;
+  color: #fff;
+  padding: clamp(4rem, 7vw, 7rem) 0;
+}
+
+.geo-integracao-grid {
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.geo-integracao-copy {
+  max-width: 54ch;
+}
+
+.geo-integracao .geo-kicker {
+  color: #8fc8f0;
+}
+
+.geo-integracao h2 {
+  margin: 0 0 1.25rem;
+  color: #fff;
+  font-size: clamp(2.1rem, 3.6vw, 3.2rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.geo-integracao p {
+  margin: 0 0 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+.geo-integracao p:last-child {
+  margin-bottom: 0;
+}
+
+.geo-integracao-media {
+  position: relative;
+  min-height: 380px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 20px;
+  background:
+    linear-gradient(135deg, rgba(34, 125, 194, 0.16), transparent 55%),
+    #111315;
+  overflow: hidden;
+}
+
+.geo-integracao-media::before {
+  content: "";
+  position: absolute;
+  left: 8%;
+  top: 10%;
+  right: -10%;
+  height: 5px;
+  background: var(--color-brand-blue);
+  box-shadow:
+    0 18px 0 rgba(34, 125, 194, 0.55),
+    0 36px 0 rgba(34, 125, 194, 0.3);
+}
+
+/* ---------- Processo ---------- */
+.geo-processo {
+  background: var(--color-bg-page);
+  padding: clamp(3.5rem, 7vw, 7rem) 0;
+}
+
+.geo-processo-grid {
+  display: grid;
+  gap: 2.5rem;
+  align-items: start;
+}
+
+.geo-processo-media {
+  position: relative;
+  min-height: 420px;
+  border-radius: 20px;
+  background: #000;
+  overflow: hidden;
+}
+
+.geo-processo-media::before {
+  content: "";
+  position: absolute;
+  left: 8%;
+  top: 10%;
+  right: -12%;
+  height: 5px;
+  background: var(--color-brand-blue);
+  box-shadow:
+    0 18px 0 rgba(34, 125, 194, 0.8),
+    0 36px 0 rgba(34, 125, 194, 0.45);
+}
+
+.geo-processo-copy {
+  max-width: 56ch;
+}
+
+.geo-processo h2 {
+  margin: 0 0 1.5rem;
+  color: #000;
+  font-size: clamp(2rem, 3.4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.geo-steps {
+  display: grid;
+  gap: 0;
+}
+
+.geo-step {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+  gap: 1rem;
+  padding: 1.15rem 0;
+  border-top: 1px solid rgba(19, 53, 94, 0.16);
+}
+
+.geo-step > span {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border: 1px solid rgba(19, 53, 94, 0.25);
+  border-radius: 50%;
+  color: var(--color-brand-blue);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.geo-step h3 {
+  margin: 0 0 0.3rem;
+  color: #111;
+  font-size: 0.98rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.geo-step p {
+  margin: 0;
+  color: var(--color-text-gray);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+/* ---------- CTA final ---------- */
+.geo-cta {
+  background: #fff;
+  padding: clamp(4rem, 8vw, 7rem) 0;
+}
+
+.geo-cta-grid {
+  display: grid;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.geo-cta-copy {
+  max-width: 54ch;
+}
+
+.geo-cta h2 {
+  margin: 0 0 1.25rem;
+  color: #000;
+  font-size: clamp(2.2rem, 4vw, 3.5rem);
+  font-weight: 700;
+  line-height: 1.05;
+  letter-spacing: -0.025em;
+}
+
+.geo-cta p {
+  margin: 0 0 1rem;
+  color: var(--color-text-gray);
+  font-size: 0.98rem;
+  line-height: 1.7;
+}
+
+.geo-cta-media {
+  min-height: 380px;
+  border-radius: 20px;
+  background: #000;
+}
+
+/* ---------- Responsivo ---------- */
+@media (min-width: 900px) {
+  .geo-hero-grid {
+    grid-template-columns: 45% 55%;
+    gap: 3.5rem;
+    align-items: center;
+  }
+
+  .geo-hero-media {
+    min-height: 520px;
+  }
+
+  .geo-intro-grid {
+    grid-template-columns: 0.82fr 1.18fr;
+    gap: 4rem;
+  }
+
+  .geo-intro-visual {
+    min-height: 500px;
+  }
+
+  .geo-method-grid {
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 4rem;
+  }
+
+  .geo-processo-grid {
+    grid-template-columns: 0.9fr 1.1fr;
+    gap: 4rem;
+  }
+
+  .geo-processo-media {
+    min-height: 560px;
+  }
+
+  .geo-integracao-grid {
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 4rem;
+  }
+
+  .geo-integracao-media {
+    min-height: 460px;
+  }
+
+  .geo-cta-grid {
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 4rem;
+  }
+
+  .geo-cta-media {
+    min-height: 460px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .geo-hero {
+    padding-top: clamp(4rem, 6vw, 6rem);
+    padding-bottom: clamp(4rem, 6vw, 6rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .geo-action .btn {
+    transition: none;
+  }
+}

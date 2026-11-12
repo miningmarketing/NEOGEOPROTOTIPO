@@ -1,0 +1,448 @@
+{
+    "folder":  "geotecnologias",
+    "hub":  "../geotecnologias.html",
+    "hubLabel":  "Geotecnologias",
+    "otherLabel":  "geotecnologias",
+    "kicker":  "Geotecnologias",
+    "source":  "copy/Copys-extraido.txt",
+    "hero":  {
+                 "title":  "Diferentes métodos para investigar o que não está visível na superfície.",
+                 "paragraphs":  [
+                                    "A geofísica permite estudar o subsolo a partir de suas propriedades físicas, utilizando métodos indiretos e não invasivos para identificar estruturas, materiais, descontinuidades e mudanças em profundidade.",
+                                    "Na Neogeo, combinamos diferentes tecnologias de acordo com o objetivo de cada projeto, as características da área e o nível de detalhamento necessário para a investigação."
+                                ]
+             },
+    "introBlock":  {
+                       "kicker":  "Como investigamos",
+                       "title":  "O método é uma escolha técnica.",
+                       "highlight":  "O ponto de partida é o problema.",
+                       "paragraphs":  [
+                                          "Não existe uma tecnologia única para todos os projetos.",
+                                          "Uma investigação pode exigir a análise de propriedades elétricas, propagação de ondas sísmicas, variações do campo magnético, respostas eletromagnéticas ou diferentes combinações entre métodos.",
+                                          "Por isso, cada campanha é planejada considerando o que precisa ser identificado, a profundidade de interesse, as condições de campo e as informações já disponíveis sobre a área."
+                                      ]
+                   },
+    "integration":  {
+                        "kicker":  "Investigação multimétodo",
+                        "title":  "Quando uma única leitura não é suficiente.",
+                        "lead":  "Diferentes tecnologias podem responder a diferentes partes do mesmo problema.",
+                        "paragraphs":  [
+                                           "Por isso, projetos podem combinar métodos geofísicos e integrar seus resultados a dados geológicos, geotécnicos, topográficos e outras informações disponíveis sobre a área.",
+                                           "Essa abordagem permite construir uma interpretação mais consistente do contexto investigado."
+                                       ]
+                    },
+    "processTitle":  "Como a tecnologia entra no projeto",
+    "process":  [
+                    {
+                        "title":  "Entendimento do objetivo",
+                        "text":  "A investigação começa pelo que o projeto precisa compreender."
+                    },
+                    {
+                        "title":  "Definição da estratégia",
+                        "text":  "Selecionamos os métodos e a configuração de aquisição mais adequados ao cenário."
+                    },
+                    {
+                        "title":  "Aquisição em campo",
+                        "text":  "Os dados são coletados conforme o planejamento técnico e os controles definidos para o projeto."
+                    },
+                    {
+                        "title":  "Processamento e interpretação",
+                        "text":  "As informações são processadas, analisadas e integradas ao contexto da investigação."
+                    },
+                    {
+                        "title":  "Entrega dos resultados",
+                        "text":  "Os dados são transformados em produtos e informações técnicas para apoiar as próximas etapas do projeto."
+                    }
+                ],
+    "cta":  {
+                "title":  "Ainda não sabe qual tecnologia o seu projeto precisa?",
+                "paragraphs":  [
+                                   "Você não precisa chegar com o método definido.",
+                                   "Conte para nossa equipe o objetivo da investigação, as características da área e o que precisa ser compreendido. A partir dessas informações, podemos avaliar tecnicamente a demanda e orientar os próximos passos."
+                               ],
+                "label":  "Quero falar sobre meu projeto"
+            },
+    "items":  [
+                  {
+                      "slug":  "metodos-eletricos-e-eletromagneticos.html",
+                      "title":  "Métodos elétricos e eletromagnéticos",
+                      "subtitle":  "Investigar o subsolo a partir de suas propriedades elétricas e eletromagnéticas.",
+                      "headlineHtml":  "Investigar o subsolo a partir de suas \u003cspan\u003epropriedades elétricas e eletromagnéticas.\u003c/span\u003e",
+                      "lead":  "Eletrorresistividade, polarização induzida e outras técnicas de investigação das propriedades elétricas e eletromagnéticas do subsolo.",
+                      "intro":  [
+                                    "Esses métodos permitem identificar contrastes nas propriedades físicas do subsolo, associadas à composição dos materiais, presença de fluidos, estruturas geológicas e zonas mineralizadas.",
+                                    "São aplicáveis a diferentes contextos de exploração mineral, hidrogeologia, geotecnia, engenharia e estudos ambientais.",
+                                    "As respostas geofísicas desses métodos são influenciadas por diferentes características dos materiais investigados, como grau de saturação, conteúdo argiloso, porosidade, conectividade dos poros saturados, além da presença, concentração e conectividade de minerais eletricamente condutivos e polarizáveis, especialmente minerais metálicos."
+                                ],
+                      "introTitle":  "Investigar o subsolo a partir de suas propriedades elétricas e eletromagnéticas.",
+                      "listTitle":  "Métodos disponíveis",
+                      "list":  [
+                                   "Eletrorresistividade (RES)",
+                                   "Polarização Induzida (IP)",
+                                   "Potencial Espontâneo (SP)",
+                                   "Magnetotelúrico (MT) e Áudio Magnetotelúrico (AMT)",
+                                   "Eletromagnético no Domínio do Tempo (TDEM)",
+                                   "Radar de Penetração no Solo (GPR) e UltraGPR"
+                               ],
+                      "listLinks":  {
+                                        "Radar de Penetração no Solo (GPR) e UltraGPR":  "radar-e-investigacao-de-alta-resolucao.html"
+                                    },
+                      "cta":  "Quero conhecer os métodos elétricos e eletromagnéticos",
+                      "crosslink":  {
+                                        "title":  "Radar de Penetração no Solo (GPR) e UltraGPR",
+                                        "text":  "O conteúdo técnico de Radar de Penetração no Solo (GPR) e UltraGPR é apresentado na página Radar e investigação de alta resolução.",
+                                        "label":  "Conhecer a página de Radar e investigação de alta resolução",
+                                        "href":  "radar-e-investigacao-de-alta-resolucao.html"
+                                    },
+                      "details":  [
+                                      {
+                                          "id":  "eletrorresistividade",
+                                          "title":  "Eletrorresistividade (RES)",
+                                          "paragraphs":  [
+                                                             "A eletrorresistividade investiga o subsolo por meio da aplicação de corrente elétrica e da medição das diferenças de potencial entre eletrodos, avaliando a capacidade do meio de resistir a passagem de corrente elétrica (eletricidade). Fundamentada na Lei de Ohm, permite estimar a resistividade dos materiais, propriedade sensível à composição, porosidade, saturação, salinidade e grau de alteração das rochas e solos. Suas modalidades incluem o Caminhamento Elétrico (CE), que investiga variações laterais e em profundidade ao longo de perfis (2D), e a Sondagem Elétrica Vertical (SEV), voltada à caracterização da distribuição vertical de camadas em um ponto predeterminado (1D).",
+                                                             "Os produtos gerados, que traduzem a resposta de resistividade do meio, podem ser apresentados em perfis em profundidade (1D), mapas (2D), seções (2D) e modelos tridimensionalizados (3D), conforme a modalidade e a configuração de aquisição adotadas.",
+                                                             "O método é aplicável a estudos de engenharia e geotecnia, incluindo investigações de fundações, barragens, pilhas, taludes e túneis, além da pesquisa de água subterrânea, por meio de investigações de aquíferos intergranulares, fraturados e cársticos. Complementarmente, pode ser utilizado na investigação de cavidades (naturais ou antrópicas), zonas fraturadas e caminhos de infiltração.",
+                                                             "Na exploração mineral, auxilia na diferenciação e delimitação de contatos geológicos, mantos de alteração e estruturas de interesse, orientando a seleção de alvos e o planejamento de sondagens diretas, além de ser aplicável ao planejamento de lavra em determinados contextos. Sua aplicação é especialmente favorável quando existem contrastes de propriedades elétricas entre o alvo investigado e o meio no qual está inserido."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "polarizacao-induzida",
+                                          "title":  "Polarização Induzida (IP)",
+                                          "paragraphs":  [
+                                                             "A Polarização Induzida (IP) avalia a capacidade dos materiais em subsuperfície de armazenar carga, similar à uma bateria ou capacitor, conhecida como cargabilidade.",
+                                                             "A cargabilidade de um material é medida a partir de ciclos de aplicação e interrupção da corrente elétrica. Durante determinados intervalos, uma corrente elétrica artificial é aplicada ao meio, enquanto, em outros, essa corrente é interrompida. Nos intervalos em que a corrente é interrompida, o decaimento da tensão é medido ao longo de subintervalos de tempo. A área sob a curva de decaimento da tensão, permite estimar a cargabilidade do material, relacionada à sua capacidade de armazenar energia elétrica.",
+                                                             "Os produtos gerados podem incluir perfis em profundidade (1D), mapas (2D), seções (2D) e modelos tridimensionais de cargabilidade. Esse método é frequentemente integrado aos dados de resistividade. Na exploração mineral, a Polarização Induzida (IP) é recorrente em investigações de alvos com sulfetos disseminados ou a presença de grafita. Em estudos geotécnicos, hidrogeológicos e ambientais, complementa a caracterização de materiais argilosos, zonas de alteração e áreas potencialmente afetadas por contaminação."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "potencial-espontaneo",
+                                          "title":  "Potencial Espontâneo (SP)",
+                                          "paragraphs":  [
+                                                             "O Potencial Espontâneo (SP) mede diferenças naturais de potencial elétrico (voltagem) na superfície do terreno. As variações desse potencial natural são resultado de processos associados à composição química dos materiais, ao movimento de fluidos em subsuperfície e à presença de gradientes eletroquímicos, como aqueles relacionados às reações de oxirredução. Esses processos podem ser influenciados pela movimentação de água em subsuperfície (e.g., infiltração e surgência) e pela disponibilidade hídrica, uma vez que a concentração e a mobilidade dos íons dissolvidos nas águas subterrâneas são a principal influência nas medidas de potencial elétrico.",
+                                                             "Os produtos incluem perfis de potencial natural, apresentados ao longo de alinhamentos de investigação. A integração de diversos perfis permite a elaboração de mapas de potencial natural, a partir dos quais podem ser interpretadas zonas anômalas. O método auxilia na investigação de infiltrações e percolação de água em barragens, pilhas, diques e taludes, no mapeamento de fluxos subterrâneos e em estudos hidrogeológicos. Na exploração mineral, apoia a localização de corpos sulfetados e grafitosos associados à geração de anomalias eletroquímicas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "tdem",
+                                          "title":  "Eletromagnético no Domínio do Tempo (TDEM)",
+                                          "paragraphs":  [
+                                                             "O método Eletromagnético no Domínio do Tempo (TDEM) utiliza a variação rápida da corrente elétrica em uma bobina ou espira transmissora para gerar um campo magnético primário e induzir correntes elétricas no subsolo. Após a interrupção abrupta da corrente no transmissor, as correntes induzidas no terreno geram um campo magnético secundário, cujo decaimento é registrado ao longo do tempo. O processamento e a modelagem desse decaimento permitem estimar a distribuição da resistividade (ou condutividade) elétrica em profundidade, sem a necessidade de contato elétrico direto com o terreno.",
+                                                             "Os produtos gerados incluem curvas de decaimento do campo magnético secundário e mapas de resposta eletromagnética, que podem representar a intensidade do campo secundário ou estimativas da condutividade elétrica do meio. Os resultados também podem ser apresentados por meio de modelos unidimensionais (1D) e seções bidimensionais (2D) de resistividade ou condutividade elétrica. O método é amplamente aplicado à pesquisa de água subterrânea, à investigação de intrusão salina e salinização de aquíferos, à caracterização de coberturas geológicas e ao mapeamento de corpos condutivos, como depósitos de sulfetos maciços e grafita. Também auxilia em estudos geotécnicos e ambientais que demandam a delimitação de unidades geoelétricas e a identificação de zonas com contrastes de condutividade elétrica."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "mt-amt",
+                                          "title":  "Magnetotelúrico (MT) e Áudio Magnetotelúrico (AMT)",
+                                          "paragraphs":  [
+                                                             "Os métodos Magnetotelúrico (MT) e Audiomagnetotelúrico (AMT) apresentam princípios físicos semelhantes aos dos demais métodos eletromagnéticos, porém utilizam fontes naturais de campos eletromagnéticos. As interações eletromagnéticas que ocorrem na atmosfera e na magnetosfera terrestre, geram campos eletromagnéticos naturais que se propagam pelo interior da Terra, permitindo investigar a distribuição da resistividade (ou condutividade) elétrica em subsuperfície.",
+                                                             "A distinção entre os métodos se dá apenas pela faixa de frequência alvo, sendo o MT ou LMT correspondentes a frequências menores que 1 Hz, favorecendo investigação de estruturas profundas (de centenas de metros a dezenas de quilômetros). Já o AMT trabalha com frequências maiores que 1 Hz, proporcionando maior resolução e sensibilidade às porções rasas e intermediárias do subsolo.",
+                                                             "Os produtos gerados incluem curvas de resistividade aparente e fase, seções e modelos de resistividade 1D, 2D ou 3D, acompanhados de interpretação geológico-estrutural. Na exploração mineral, os métodos auxiliam no mapeamento de falhas, contatos litológicos, zonas de alteração e condutores associados a mineralizações. Também são amplamente aplicados à pesquisa hidrogeológica, ao mapeamento de recursos geotérmicos e à caracterização regional de estruturas geológicas relevantes para obras de infraestrutura."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "metodos-sismicos.html",
+                      "title":  "Métodos sísmicos",
+                      "subtitle":  "Entender o comportamento do subsolo a partir da propagação de ondas.",
+                      "headlineHtml":  "Entender o comportamento do subsolo a partir da \u003cspan\u003epropagação de ondas.\u003c/span\u003e",
+                      "lead":  "Análise de ondas sísmicas para caracterizar materiais, investigar estruturas e acompanhar mudanças no subsolo.",
+                      "intro":  [
+                                    "Os métodos sísmicos são baseados na propagação de ondas mecânicas, como as ondas sonoras. O modo de propagação e a velocidade dessas ondas dependem das propriedades mecânicas do meio, como densidade (massa por unidade de volume), módulo de cisalhamento (resistência do material à deformação por cisalhamento) e módulo de compressão (resistência do material à compressão).",
+                                    "Essas propriedades podem ser combinadas de diferentes formas para avaliar as características do meio, bem como para determinar propriedades derivadas, como a impedância acústica, frequentemente utilizada para descrever os fenômenos de propagação, transmissão, reflexão e refração das ondas sísmicas.",
+                                    "A partir dessas informações, é possível apoiar estudos de caracterização geológica e geotécnica, investigação de interfaces e avaliação das propriedades mecânicas do terreno."
+                                ],
+                      "introTitle":  "Entender o comportamento do subsolo a partir da propagação de ondas.",
+                      "listTitle":  "Métodos disponíveis",
+                      "list":  [
+                                   "Sísmica de Refração",
+                                   "Sísmica de Reflexão",
+                                   "MASW",
+                                   "MAM",
+                                   "HVSR",
+                                   "Análise do Ruído Ambiente (Interferometria e Microssísmica)"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer os métodos sísmicos",
+                      "details":  [
+                                      {
+                                          "id":  "sismica-de-refracao",
+                                          "title":  "Sísmica de Refração",
+                                          "paragraphs":  [
+                                                             "A Sísmica de Refração analisa os tempos de chegada das ondas sísmicas geradas por uma fonte controlada e registradas por geofones. Fundamentada na propagação das ondas e na Lei de Snell, permite estimar velocidades sísmicas e reconhecer contrastes associados à litologia, à rigidez, ao grau de alteração e de fraturamento e, em determinadas condições, ao grau de saturação.",
+                                                             "Os produtos gerados incluem seções de distribuição das velocidades sísmicas, convencionalmente associadas às ondas compressivas (Vp), estimativas das profundidades das principais interfaces sísmicas e interpretações geológico-geotécnicas voltadas à caracterização do manto de alteração e à identificação do topo rochoso. O método apoia estudos de fundações, barragens, pilhas, túneis, taludes e condições de escavabilidade, contribuindo para a caracterização das condições do maciço e do subsolo. Na mineração, auxilia na caracterização de coberturas, no reconhecimento do embasamento rochoso e na avaliação geotécnica de áreas destinadas à implantação e operação de estruturas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "sismica-de-reflexao",
+                                          "title":  "Sísmica de Reflexão",
+                                          "paragraphs":  [
+                                                             "A Sísmica de Reflexão registra as ondas sísmicas que retornam à superfície após serem refletidas em interfaces que apresentam contrastes de impedância acústica, definida pelo produto entre a densidade e a velocidade sísmica do meio. A análise dos tempos de chegada, das amplitudes e da continuidade das reflexões permite investigar a geometria das camadas e das estruturas geológicas presentes no subsolo.",
+                                                             "Os produtos gerados incluem seções sísmicas em tempo ou profundidade, volumes 3D e mapas de horizontes e estruturas interpretadas. O método é aplicado ao mapeamento de falhas, contatos e corpos geológicos de interesse mineral, além da investigação da geometria e arquitetura de bacias sedimentares e de estruturas relacionadas a aquíferos. Em estudos geotécnicos, apoia a caracterização de interfaces, descontinuidades e estruturas relevantes para grandes obras."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "masw",
+                                          "title":  "MASW (Multichannel Analysis of Surface Waves) — Análise Multicanal de Ondas Superficiais",
+                                          "paragraphs":  [
+                                                             "O MASW (Multichannel Analysis of Surface Waves) analisa a dispersão das ondas de superfície, cuja velocidade varia em função da frequência em meios estratificados. A característica dispersiva das ondas Rayleigh permite obter curvas de velocidade em função da frequência de propagação. A identificação e extração das velocidades correspondentes ao modo fundamental de propagação, geralmente associado às maiores amplitudes de energia, permitem a construção das chamadas curvas de dispersão. A modelagem geofísica dessas curvas permite estimar a distribuição da velocidade das ondas de cisalhamento (Vs) em profundidade. Adicionalmente, a partir dos valores de Vs e de informações sobre a densidade dos materiais, é possível estimar o módulo de cisalhamento a pequenas deformações (G₀ ou Gmáx), também denominado módulo de rigidez dinâmica, parâmetro relevante para análises geotécnicas e avaliações do comportamento dinâmico dos maciços.",
+                                                             "Os produtos gerados incluem curvas de dispersão, perfis de Vs, seções compostas por múltiplos perfis e estimativas de Vs30, quando a profundidade de investigação é suficiente. O método auxilia na classificação sísmica de terrenos, em estudos de fundações, pavimentos, aterros e barragens, além de contribuir para a identificação de camadas de menor rigidez e a caracterização das condições geotécnicas do terreno para a implantação de estruturas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "mam",
+                                          "title":  "MAM (Microtremor Array Method) — Análise de Microtremores em Arranjo",
+                                          "paragraphs":  [
+                                                             "O MAM (Microtremor Array Method), também conhecido como MASW passivo, utiliza arranjos de sensores para registrar vibrações ambientais, ou microtremores, produzidos por fontes naturais e atividades humanas. Técnicas de processamento, como a autocorrelação espacial e a análise no domínio frequência–número de onda, permitem obter curvas de velocidade das ondas superficiais. A modelagem geofísica dessas curvas possibilita estimar a distribuição da velocidade das ondas de cisalhamento (Vs) com a profundidade e identificar contrastes de rigidez entre diferentes camadas do subsolo, geralmente, em maiores profundidades que o MASW.",
+                                                             "Os produtos gerados incluem curvas de dispersão, perfis de Vs, seções e modelos estratificados, podendo complementar levantamentos MASW por meio da obtenção de informações associadas a maiores comprimentos de onda e, potencialmente, maiores profundidades de investigação. O método é aplicado à caracterização de coberturas sedimentares, estudos de resposta sísmica local, investigações de fundações e avaliação de grandes estruturas. Também auxilia na caracterização geotécnica de áreas de mineração e no reconhecimento de interfaces e contrastes de propriedades em maiores profundidades."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "hvsr",
+                                          "title":  "HVSR (Horizontal-to-Vertical Spectral Ratio) — Razão Espectral Horizontal/Vertical",
+                                          "paragraphs":  [
+                                                             "O método HVSR (Horizontal-to-Vertical Spectral Ratio) analisa a razão entre os espectros das componentes horizontais e vertical das vibrações ambientais. Seu principal resultado é a identificação da frequência fundamental do terreno, quando há um pico espectral claro e confiável associado às condições geológicas locais. A resposta é sensível à estrutura de velocidades e aos contrastes de impedância entre as coberturas e o substrato, demarcando as regiões de maior probabilidade para contato entre materiais.",
+                                                             "Os produtos gerados incluem curvas H/V e mapas de frequência ou período fundamental. Integrado a dados de velocidade sísmica e informações geológicas, o método pode auxiliar na estimativa da espessura das coberturas e na identificação da profundidade do substrato. Suas aplicações abrangem estudos de resposta sísmica local, microzonamento, planejamento de fundações e reconhecimento do embasamento, inclusive em áreas de mineração."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "ruido-ambiente",
+                                          "title":  "Análise do Ruído Ambiente (Interferometria e Microssísmica)",
+                                          "paragraphs":  [
+                                                             "A análise de Ruído Ambiente por Interferometria Sísmica, comumente conhecida como Microssísmica, consiste em uma técnica geofísica passiva que utiliza registros contínuos das vibrações naturais e antrópicas presentes no ambiente para avaliar alterações nas propriedades elásticas dos materiais em subsuperfície. Por meio da correlação cruzada dos sinais registrados em diferentes períodos, é possível identificar variações relativas das velocidades de propagação das ondas sísmicas (dv/v), que podem estar associadas a mudanças nas condições de saturação, pressão de poros, estado de tensões e integridade do maciço. Dessa forma, a técnica permite o monitoramento temporal das condições geomecânicas, contribuindo para a identificação de alterações no comportamento dos materiais investigados.",
+                                                             "Os produtos gerados incluem catálogos de eventos microssísmicos e séries temporais de variação relativa das velocidades sísmicas (dv/v). A aplicação integrada das técnicas de monitoramento microssísmico e interferometria sísmica permite acompanhar alterações nas condições geomecânicas de minas subterrâneas, escavações, pilares, taludes, barragens e pilhas. Quando associadas a dados de instrumentação e modelos geológico-geotécnicos, essas informações contribuem para a identificação de zonas potencialmente afetadas por processos de deformação, liquefação, fraturamento e dano, subsidiando a avaliação da estabilidade dos maciços e a gestão de riscos geotécnicos."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "metodos-potenciais.html",
+                      "title":  "Métodos potenciais",
+                      "subtitle":  "Mapear variações naturais das propriedades físicas do terreno.",
+                      "headlineHtml":  "Mapear variações naturais das \u003cspan\u003epropriedades físicas do terreno.\u003c/span\u003e",
+                      "lead":  "Magnetometria, gravimetria e gamaespectrometria para compor a investigação geológica e mineral.",
+                      "intro":  [
+                                    "Os métodos geofísicos de fontes naturais investigam as variações das propriedades físicas dos materiais a partir da medição de campos ou emissões naturais. Dentre eles, destacam-se os métodos potenciais, como a Magnetometria e a Gravimetria, que investigam variações nos campos magnético e gravitacional, respectivamente, além da gamaespectrometria, que utiliza a radiação gama natural emitida pelos materiais geológicos para caracterizar sua composição radiométrica.",
+                                    "Os contrastes identificados por esses métodos auxiliam na interpretação de estruturas geológicas, na identificação de corpos minerais e na diferenciação de unidades litológicas e de materiais com diferentes graus de intemperismo, especialmente em projetos de exploração mineral e mapeamento geológico."
+                                ],
+                      "introTitle":  "Mapear variações naturais das propriedades físicas do terreno.",
+                      "listTitle":  "Métodos disponíveis",
+                      "list":  [
+                                   "Magnetometria",
+                                   "Gravimetria",
+                                   "Gamaespectrometria"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer os métodos potenciais",
+                      "details":  [
+                                      {
+                                          "id":  "magnetometria",
+                                          "title":  "Magnetometria",
+                                          "paragraphs":  [
+                                                             "A Magnetometria é um método geofísico que investiga as variações espaciais do campo magnético terrestre decorrentes das propriedades magnéticas dos materiais geológicos em subsuperfície. Por meio de aquisições terrestres ou aerolevantadas, permite identificar e delimitar unidades geológicas, contatos litológicos e estruturas com diferentes respostas magnéticas, contribuindo para a caracterização geológica e estrutural da área investigada.",
+                                                             "Os produtos incluem mapas de anomalias magnéticas, mapas de realce, interpretações estruturais e modelos 3D de fontes magnéticas. Na exploração mineral, o método auxilia no mapeamento de litologias, falhas, intrusões e mineralizações associadas a minerais magnéticos. No contexto da pesquisa mineral, especialmente na prospecção de depósitos de minério de ferro, o desenvolvimento dos sistemas aerotransportados de aquisição geofísica por drones representou um importante avanço tecnológico. Já em investigações antrópicas pode ser utilizado para identificar materiais metálicos enterrados ou submersos. Esses sistemas possibilitam maior produtividade operacional, elevada densidade de amostragem espacial e maior segurança em áreas de difícil acesso, além de favorecerem a cobertura sistemática de extensas regiões."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "gravimetria",
+                                          "title":  "Gravimetria",
+                                          "paragraphs":  [
+                                                             "A Gravimetria mede pequenas variações da aceleração da gravidade relacionadas à distribuição de massas no subsolo. Fundamentada na Lei da Gravitação Universal, permite investigar contrastes de densidade entre materiais, após correções dos efeitos de posição, altitude, relevo e variações temporais. As anomalias revelam excessos ou déficits de massa em relação ao entorno.",
+                                                             "Os produtos incluem mapas de anomalias Bouguer e residuais, perfis e modelos 2D e 3D de distribuição de contrastes de densidade. Na exploração mineral, o método apoia a investigação de corpos densos, estruturas e bacias. Em geotecnia, especialmente com Microgravimetria, auxilia na pesquisa de cavidades, vazios, zonas de descompressão e irregularidades do substrato."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "gamaespectrometria",
+                                          "title":  "Gamaespectrometria",
+                                          "paragraphs":  [
+                                                             "A gamaespectrometria mede a intensidade da radiação gama natural emitida pelos materiais próximos à superfície. A análise do espectro eletromagnético medido permite estimar as concentrações de potássio, urânio equivalente e tório equivalente. Os contrastes radiométricos auxiliam na diferenciação de litologias, solos e processos de alteração e intemperismo.",
+                                                             "Os produtos incluem mapas de Contagem Total de Radiação, K, eU e eTh, bem como razões entre canais e composições ternárias. O método apoia o mapeamento geológico, a identificação de alterações hidrotermais e, consequentemente, a seleção de alvos minerais. Também contribui para estudos de solos, coberturas e radioatividade ambiental, fornecendo informações complementares à caracterização de áreas de engenharia."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "radar-e-investigacao-de-alta-resolucao.html",
+                      "title":  "Radar e investigação de alta resolução",
+                      "subtitle":  "Radar de Penetração no Solo (GPR) e UltraGPR",
+                      "headlineHtml":  "Radar de Penetração no Solo (GPR) e \u003cspan\u003eUltraGPR\u003c/span\u003e",
+                      "lead":  "Geotecnologias de GPR para investigar estruturas, objetos e interferências no subsolo, com diferentes configurações de levantamento.",
+                      "intro":  [
+                                    "O Radar de Penetração no Solo (Ground Penetrating Radar — GPR) é um método eletromagnético de alta frequência que transmite ondas eletromagnéticas e registra suas reflexões em interfaces com contrastes nas propriedades elétricas dos materiais. As tecnologias incluem GPR terrestre, GPR 3D, com aquisição em malhas densas ou sistemas multicanais, e GPR aerotransportado, utilizando drones. O UltraGPR é uma adaptação do método que utiliza antenas de baixa frequência e tecnologia de aquisição voltada à investigação de interfaces geológicas de maior escala, podendo alcançar profundidades de até 70 metros em condições geológicas favoráveis.",
+                                    "Equipamentos de maior frequência são geralmente aplicados a estudos de engenharia e geotecnia, enquanto os de menor frequência são mais utilizados em estudos geológicos. Essas informações apoiam a exploração mineral, o planejamento de sondagens e a caracterização geotécnica de áreas destinadas a barragens, cavas, pilhas e outras estruturas."
+                                ],
+                      "introTitle":  "Radar de Penetração no Solo (GPR) e UltraGPR",
+                      "listTitle":  "Tecnologias disponíveis",
+                      "list":  [
+                                   "GPR terrestre",
+                                   "GPR 3D",
+                                   "GPR aerotransportado",
+                                   "UltraGPR"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero falar sobre meu projeto",
+                      "details":  [
+                                      {
+                                          "id":  "gpr",
+                                          "title":  "GPR (Radar de Penetração no Solo)",
+                                          "paragraphs":  [
+                                                             "Os produtos gerados incluem radargramas, seções interpretadas em profundidade, mapas de interfaces e anomalias e, conforme a configuração de aquisição, cortes horizontais e volumes 3D. O GPR auxilia na localização de redes enterradas, na avaliação de pavimentos e estruturas de concreto e na investigação de fundações e possíveis vazios."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "ultragpr",
+                                          "title":  "UltraGPR",
+                                          "paragraphs":  [
+                                                             "O UltraGPR destaca-se na avaliação da espessura de solos, coberturas e mantos de alteração, no mapeamento do topo rochoso, na identificação de determinados depósitos minerais (bauxita e pegmatitos litiníferos) e na investigação de contatos, descontinuidades e possíveis cavidades em terrenos cársticos."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "levantamentos-aereos-com-drones.html",
+                      "title":  "Levantamentos aéreos com drones",
+                      "subtitle":  "Dados geofísicos e geoespaciais adquiridos de uma nova perspectiva.",
+                      "headlineHtml":  "Dados geofísicos e geoespaciais adquiridos de \u003cspan\u003euma nova perspectiva.\u003c/span\u003e",
+                      "lead":  "Levantamentos geofísicos e mapeamento com drones, incluindo magnetometria, gamaespectrometria, GPR, LiDAR e aerofotogrametria.",
+                      "intro":  [
+                                    "O uso de drones amplia as possibilidades de levantamento em grandes áreas, regiões de difícil acesso e projetos que exigem maior agilidade de aquisição.",
+                                    "As plataformas podem receber diferentes sensores e tecnologias para gerar informações geofísicas, topográficas e tridimensionais do terreno."
+                                ],
+                      "introTitle":  "Dados geofísicos e geoespaciais adquiridos de uma nova perspectiva.",
+                      "listTitle":  "Geotecnologias disponíveis",
+                      "list":  [
+                                   "Magnetometria com drone",
+                                   "Gamaespectrometria com drone",
+                                   "GPR aerotransportado",
+                                   "LiDAR",
+                                   "Aerofotogrametria"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer os levantamentos com drones",
+                      "details":  [
+                                      {
+                                          "id":  "magnetometria-com-drone",
+                                          "title":  "Magnetometria com drone",
+                                          "paragraphs":  [
+                                                             "A Magnetometria com drone utiliza sensores embarcados ou suspensos para medir variações do campo magnético terrestre ao longo de linhas de voo planejadas. As anomalias refletem contrastes de magnetização associados à suscetibilidade magnética e à magnetização remanente das rochas. O controle da altura, do posicionamento e das interferências da plataforma permite obter dados detalhados para a caracterização geológica.",
+                                                             "Os produtos incluem mapas de anomalias magnéticas, mapas de realce, interpretações estruturais e modelos 3D de fontes magnéticas. Na exploração mineral, o método auxilia no reconhecimento de litologias, falhas, intrusões e mineralizações associadas a minerais magnéticos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "gamaespectrometria-com-drone",
+                                          "title":  "Gamaespectrometria com drone",
+                                          "paragraphs":  [
+                                                             "A Gamaespectrometria com drone mede a intensidade e a energia da radiação gama natural emitida pelos materiais próximos à superfície. A análise dos espectros permite estimar as concentrações de potássio (K), urânio equivalente (eU) e tório equivalente (eTh). Os contrastes radiométricos revelam diferenças de composição entre solos e rochas e ajudam a reconhecer processos de alteração e intemperismo.",
+                                                             "Os produtos incluem mapas de Contagem Total de Radiação, K, eU e eTh, bem como razões entre canais e composições ternárias. O método apoia o mapeamento geológico, a identificação de alterações hidrotermais e, consequentemente, a seleção de alvos minerais. Também contribui para estudos de solos, coberturas e radioatividade ambiental, fornecendo informações complementares à caracterização de áreas de engenharia."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "gpr-aerotransportado",
+                                          "title":  "GPR aerotransportado",
+                                          "paragraphs":  [
+                                                             "O GPR aerotransportado utiliza antenas transportadas por drones para transmitir ondas eletromagnéticas e registrar reflexões em interfaces do subsolo. A resposta é sensível aos contrastes nas propriedades elétricas dos materiais, principalmente na permissividade dielétrica. Os tempos de retorno permitem estimar profundidades mediante calibração da velocidade, enquanto a condutividade do terreno e a altura de voo influenciam a atenuação e o alcance do sinal.",
+                                                             "Os produtos incluem radargramas georreferenciados, seções interpretadas, mapas de interfaces e anomalias e, conforme a aquisição, representações tridimensionais. O método tem sido empregado na investigação e caracterização do substrato em ambientes aquáticos, especialmente em áreas submersas de difícil acesso ou com restrições à navegabilidade, nas quais a utilização de embarcações e equipamentos convencionais de aquisição pode apresentar limitações operacionais. A utilização de sistemas GPR aerotransportados amplia as possibilidades de investigação nessas condições, permitindo maior flexibilidade e segurança operacional."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "lidar-com-drone",
+                                          "title":  "LiDAR com Drone",
+                                          "paragraphs":  [
+                                                             "O LiDAR (Light Detection and Ranging) utiliza pulsos laser e seus tempos de retorno para calcular distâncias. Ao combinando essas medidas com a posição e a orientação do sensor, é possível reconstruir as superfícies nas quais os feixes foram refletidos. O levantamento registra a geometria tridimensional do terreno, da vegetação e das construções. A classificação dos retornos permite distinguir essas superfícies e representar o relevo sob a vegetação quando há pontos suficientes provenientes de reflexões no solo.",
+                                                             "Os produtos incluem nuvens de pontos classificadas, Modelos Digitais de Terreno e Superfície (MDT/MDS), curvas de nível, perfis e mapas de declividade."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "aerofotogrametria",
+                                          "title":  "Aerofotogrametria",
+                                          "paragraphs":  [
+                                                             "A aerofotogrametria utiliza fotografias aéreas sobrepostas para reconstruir a geometria tridimensional das superfícies. Por meio de relações projetivas, identificação de pontos comuns e triangulação, determina posições, formas e dimensões. A técnica registra a geometria e a aparência das feições visíveis, permitindo reconhecer diferenças de cor, textura e relevo relevantes à interpretação do terreno.",
+                                                             "Os produtos incluem ortofotos, ortomosaicos, nuvens de pontos, Modelos Digitais de Superfície (MDS) e modelos 3D texturizados. Modelos de terreno podem ser obtidos quando o solo está suficientemente visível. Apoia o cadastro de estruturas, acompanhamento de obras, estudos de drenagem e cálculos volumétricos. Na mineração, auxilia no mapeamento de afloramentos, frentes de lavra, cavas e pilhas e na avaliação de mudanças superficiais ao longo do tempo."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "perfilagem-geofisica.html",
+                      "title":  "Perfilagem geofísica",
+                      "subtitle":  "Investigar as propriedades das formações ao longo da profundidade.",
+                      "headlineHtml":  "Investigar as propriedades das formações \u003cspan\u003eao longo da profundidade.\u003c/span\u003e",
+                      "lead":  "Medições em poços e furos de sondagem para caracterizar as propriedades físicas das formações geológicas.",
+                      "intro":  [
+                                    "A perfilagem geofísica utiliza instrumentos inseridos em poços ou furos de sondagem para medir diferentes propriedades físicas das formações geológicas in situ. Essas informações ajudam a caracterizar materiais e complementar dados obtidos por sondagens e outras técnicas de investigação."
+                                ],
+                      "introTitle":  "Investigar as propriedades das formações ao longo da profundidade.",
+                      "listTitle":  "Perfis disponíveis",
+                      "list":  [
+                                   "Perfilagem de densidade (gama-gama)",
+                                   "Perfilagem de gama natural",
+                                   "Perfilagem de suscetibilidade magnética",
+                                   "Perfilagem de resistividade elétrica",
+                                   "Perfilagem de polarização induzida (IP/cargabilidade)",
+                                   "Perfilagem sônica"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer a perfilagem geofísica",
+                      "details":  [
+                                      {
+                                          "id":  "densidade-gama-gama",
+                                          "title":  "Perfilagem de Densidade (Gama-Gama)",
+                                          "paragraphs":  [
+                                                             "A perfilagem gama-gama utiliza uma fonte de radiação e detectores para medir a interação dos fótons com os materiais ao redor do furo, principalmente pelo espalhamento Compton. A resposta está relacionada à densidade eletrônica e, mediante calibração e correções das condições do furo, permite estimar a densidade aparente da formação, sensível à composição mineral, porosidade e presença de fluidos.",
+                                                             "Os produtos incluem perfis contínuos de densidade, delimitação de contatos e correlações entre furos. Na mineração, apoiam a caracterização de unidades e intervalos mineralizados e as estimativas de tonelagem, quando integrados e validados com dados de amostras. Em geotecnia, complementam a caracterização dos materiais e, associados às velocidades sísmicas, permitem calcular impedância acústica e parâmetros elásticos dinâmicos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "gama-natural",
+                                          "title":  "Perfilagem de Gama Natural",
+                                          "paragraphs":  [
+                                                             "A perfilagem de gama natural registra a radiação gama emitida espontaneamente pelas formações, sem utilizar fonte radioativa externa. A medição representa a contribuição conjunta, principalmente, do potássio-40 (K) e das séries de decaimento do urânio (equivalente U) e do tório (equivalente Th). Os contrastes de intensidade permitem reconhecer diferenças radiométricas associadas à composição dos materiais atravessados.",
+                                                             "Os produtos incluem perfis de contagem gama, identificação de contatos e correlações estratigráficas entre furos. O método auxilia na diferenciação de litologias, no reconhecimento de determinadas camadas argilosas e na identificação de intervalos radiometricamente anômalos. Em exploração mineral, hidrogeologia e geotecnia, complementa a descrição das sondagens e a interpretação das unidades geológicas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "suscetibilidade-magnetica",
+                                          "title":  "Perfilagem de Suscetibilidade Magnética",
+                                          "paragraphs":  [
+                                                             "A perfilagem de suscetibilidade magnética utiliza uma sonda indutiva para avaliar a resposta dos materiais à aplicação de um campo magnético. A propriedade expressa a facilidade de magnetização e varia conforme a concentração e o tipo de minerais magnéticos presentes. O registro permite reconhecer contrastes magnéticos ao longo das formações atravessadas.",
+                                                             "Os produtos incluem perfis contínuos de suscetibilidade, delimitação de contatos e correlações entre furos. Na exploração mineral, o método auxilia na identificação de unidades magnéticas, intervalos mineralizados e mudanças associadas à alteração hidrotermal. Também fornece informações para calibrar modelos magnetométricos de superfície e complementar a caracterização litológica em projetos geotécnicos. Adicionalmente, os resultados podem ser integrados a descrições litológicas, análises geoquímicas e modelos geológicos tridimensionais, complementando a caracterização litológica em projetos de exploração mineral e investigações geotécnicas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "resistividade-eletrica",
+                                          "title":  "Perfilagem de Resistividade Elétrica",
+                                          "paragraphs":  [
+                                                             "A perfilagem de resistividade elétrica aplica corrente e mede diferenças de potencial por meio de arranjos de eletrodos instalados na sonda. Fundamentada na Lei de Ohm, investiga contrastes de resistividade relacionados à composição, porosidade, saturação, salinidade e presença de argilas ou minerais condutores. A configuração da ferramenta determina a resolução e o volume investigado ao redor do furo.",
+                                                             "Os produtos incluem perfis de resistividade aparente e, conforme a ferramenta e o processamento, estimativas corrigidas da resistividade da formação. O método apoia a identificação de contatos, intervalos aquíferos e zonas potencialmente fraturadas ou alteradas. Na exploração mineral, auxilia na caracterização de intervalos condutores e na calibração de modelos elétricos e eletromagnéticos. Em geotecnia, complementa a avaliação das condições do maciço."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "polarizacao-induzida",
+                                          "title":  "Perfilagem de Polarização Induzida (IP/cargabilidade)",
+                                          "paragraphs":  [
+                                                             "A perfilagem de Polarização Induzida (IP) investiga a capacidade dos materiais geológicos adjacentes ao furo de desenvolver e dissipar uma polarização elétrica em resposta à aplicação de uma corrente elétrica, permitindo caracterizar variações nas propriedades elétricas dos materiais em subsuperfície. No domínio do tempo, a cargabilidade é calculada a partir do decaimento da tensão após o desligamento da corrente. A resposta é sensível a minerais polarizáveis, argilas e interações eletroquímicas entre grãos e fluidos.",
+                                                             "Os produtos incluem perfis de cargabilidade, curvas de decaimento e interpretações integradas à resistividade e à geologia. Na exploração mineral, o método auxilia na identificação de intervalos polarizáveis compatíveis com sulfetos disseminados e na calibração de levantamentos de IP de superfície. Em geotecnia e hidrogeologia, complementa a caracterização de materiais argilosos e zonas de alteração."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "sonica",
+                                          "title":  "Perfilagem Sônica",
+                                          "paragraphs":  [
+                                                             "A perfilagem sônica utiliza emissores e receptores acústicos para medir os tempos de propagação das ondas nas formações adjacentes ao furo. Permite determinar velocidades de ondas compressionais (Vp) e, com ferramentas apropriadas, de ondas de cisalhamento (Vs). Essas propriedades são influenciadas pelas características físicas e mecânicas dos materiais, como rigidez, densidade, porosidade, saturação e fraturamento dos materiais permitindo identificar variações nas condições geológicas e geomecânicas ao longo do furo.",
+                                                             "Os produtos incluem perfis de tempo de trânsito, velocidades acústicas e, conforme a ferramenta, registros de formas de onda. Integrados à densidade, permitem estimar parâmetros elásticos dinâmicos e impedância acústica. As aplicações abrangem a caracterização geomecânica de maciços para minas, túneis e fundações, além da calibração de modelos sísmicos e das relações entre tempo e profundidade."
+                                                         ]
+                                      }
+                                  ]
+                  }
+              ]
+}

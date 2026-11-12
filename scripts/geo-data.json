@@ -1,0 +1,345 @@
+{
+  "folder": "geotecnologias",
+  "hub": "../geotecnologias.html",
+  "hubLabel": "Geotecnologias",
+  "otherLabel": "geotecnologias",
+  "listEyebrow": "Escopo",
+  "items": [
+    {
+      "slug": "metodos-eletricos-e-eletromagneticos.html",
+      "title": "Métodos elétricos e eletromagnéticos",
+      "desc": "Métodos elétricos e eletromagnéticos da Neogeo para investigar a distribuição elétrica do subsolo.",
+      "lead": "Corrente e campos eletromagnéticos para ler a distribuição elétrica do subsolo.",
+      "paragraphs": [
+        "Os métodos elétricos e eletromagnéticos medem como o subsolo responde à passagem de corrente elétrica ou à variação de campos eletromagnéticos. Essa resposta está ligada à composição, à porosidade, à saturação, à salinidade e à presença de materiais condutivos.",
+        "A escolha do método depende do alvo, da profundidade e das condições de campo. Em muitos projetos, diferentes arranjos são combinados para reduzir ambiguidades e sustentar a interpretação."
+      ],
+      "listTitle": "Métodos disponíveis",
+      "list": [
+        "Eletrorresistividade (RES)",
+        "Polarização Induzida (IP)",
+        "Potencial Espontâneo (SP)",
+        "Eletromagnético no domínio do tempo (TDEM)",
+        "Magnetotelúrico e audiomagnetotelúrico (MT/AMT)",
+        "GPR e UltraGPR"
+      ],
+      "detailsTitle": "Cada método em detalhe",
+      "details": [
+        {
+          "title": "Eletrorresistividade (RES)",
+          "paragraphs": [
+            "A eletrorresistividade investiga o subsolo por meio da aplicação de corrente elétrica e da medição das diferenças de potencial entre eletrodos, estimando a resistividade dos materiais. O parâmetro é sensível à composição, à porosidade, à saturação, à salinidade e ao grau de alteração.",
+            "Inclui o Caminhamento Elétrico (CE), voltado à identificação de variações laterais e em profundidade, com aquisição 2D, e a Sondagem Elétrica Vertical (SEV), que investiga a distribuição vertical das camadas, com aquisição 1D."
+          ]
+        },
+        {
+          "title": "Polarização Induzida (IP)",
+          "paragraphs": [
+            "A Polarização Induzida avalia a capacidade dos materiais de armazenar carga, a cargabilidade, medida a partir do decaimento da tensão após a interrupção da corrente. O método é frequentemente integrado à resistividade.",
+            "É aplicado na identificação de sulfetos disseminados, grafita, materiais argilosos e zonas de alteração, entre outros alvos com resposta polarizável."
+          ]
+        },
+        {
+          "title": "Potencial Espontâneo (SP)",
+          "paragraphs": [
+            "O Potencial Espontâneo mede diferenças naturais de potencial elétrico na superfície, associadas à composição química, ao movimento de fluidos e a gradientes eletroquímicos.",
+            "Auxilia na investigação de infiltrações e percolação em barragens, pilhas, diques e taludes, além de contribuir para a leitura de fluxos subterrâneos."
+          ]
+        },
+        {
+          "title": "Eletromagnético no domínio do tempo (TDEM)",
+          "paragraphs": [
+            "O TDEM utiliza a variação rápida de corrente em uma bobina transmissora para induzir correntes no subsolo e registrar o decaimento do campo magnético secundário. O método permite estimar a resistividade e a condutividade em profundidade sem contato elétrico direto.",
+            "É aplicado em estudos de água subterrânea, intrusão salina, mapeamento de condutores e outras investigações em que o contraste elétrico é o parâmetro de interesse."
+          ]
+        },
+        {
+          "title": "Magnetotelúrico e audiomagnetotelúrico (MT/AMT)",
+          "paragraphs": [
+            "O MT e o AMT utilizam fontes naturais de campos eletromagnéticos para investigar a distribuição da resistividade elétrica no subsolo. O MT e o LMT alcançam estruturas profundas, enquanto o AMT oferece maior resolução nas porções rasas e intermediárias.",
+            "A combinação das diferentes faixas de frequência permite compor uma leitura desde a proximidade da superfície até grandes profundidades."
+          ]
+        },
+        {
+          "title": "GPR e UltraGPR",
+          "paragraphs": [
+            "O GPR transmite ondas eletromagnéticas de alta frequência e registra as reflexões em interfaces com contraste elétrico, oferecendo alta resolução em investigações rasas.",
+            "O UltraGPR utiliza antenas de baixa frequência para investigar interfaces de maior escala, podendo alcançar até 70 m em condições favoráveis."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "metodos-sismicos.html",
+      "title": "Métodos sísmicos",
+      "desc": "Métodos sísmicos da Neogeo para investigar rigidez, geometria e interfaces do subsolo.",
+      "lead": "Ondas elásticas para investigar rigidez, geometria e interfaces do subsolo.",
+      "paragraphs": [
+        "Os métodos sísmicos geram ondas elásticas no subsolo e registram seu comportamento ao atravessar diferentes materiais. A velocidade de propagação e as reflexões e refrações observadas permitem estimar a distribuição e as propriedades mecânicas das camadas.",
+        "São métodos versáteis, aplicados tanto em investigações rasas quanto em estudos de maior profundidade, sempre em função do objetivo e da resolução necessária."
+      ],
+      "listTitle": "Métodos disponíveis",
+      "list": [
+        "Sísmica de Refração",
+        "Sísmica de Reflexão",
+        "Análise Multicanal de Ondas Superficiais (MASW)",
+        "Análise Multicanal de Microtremores (MAM)",
+        "Razão Espectral H/V (HVSR)",
+        "Ruído sísmico"
+      ],
+      "detailsTitle": "Cada método em detalhe",
+      "details": [
+        {
+          "title": "Sísmica de Refração",
+          "paragraphs": [
+            "A Sísmica de Refração utiliza a chegada de ondas refratadas em interfaces com contraste de velocidade para estimar a espessura e a velocidade das camadas. É um método consolidado para investigações rasas e para a caracterização de materiais.",
+            "Os resultados apoiam a definição de profundidade do topo rochoso, a compartimentação do subsolo e o planejamento de escavações e fundações."
+          ]
+        },
+        {
+          "title": "Sísmica de Reflexão",
+          "paragraphs": [
+            "A Sísmica de Reflexão registra ondas refletidas em interfaces geológicas e permite imagear estruturas em profundidade com boa continuidade lateral. É indicada para investigações de maior porte e para o detalhamento de geometrias complexas.",
+            "O processamento dos dados busca realçar as reflexões e construir seções que auxiliem na interpretação estrutural e estratigráfica."
+          ]
+        },
+        {
+          "title": "Análise Multicanal de Ondas Superficiais (MASW)",
+          "paragraphs": [
+            "O MASW analisa a dispersão das ondas superficiais para estimar a distribuição da velocidade de ondas cisalhantes com a profundidade. O método é amplamente utilizado na caracterização geotécnica de forma não invasiva.",
+            "Os resultados contribuem para a classificação de materiais, a avaliação de rigidez e a definição de modelos de velocidade para projetos de engenharia."
+          ]
+        },
+        {
+          "title": "Análise Multicanal de Microtremores (MAM)",
+          "paragraphs": [
+            "O MAM utiliza o ruído ambiente e a análise multicanal para investigar a estrutura de velocidades do subsolo. É uma alternativa em áreas onde fontes ativas têm limitações.",
+            "A técnica amplia a leitura de camadas mais profundas e complementa os modelos obtidos com métodos sísmicos ativos."
+          ]
+        },
+        {
+          "title": "Razão Espectral H/V (HVSR)",
+          "paragraphs": [
+            "O HVSR analisa a razão entre as componentes horizontal e vertical do ruído sísmico para estimar a frequência fundamental do terreno e indicar contrastes de impedância.",
+            "É um método rápido e não invasivo, útil no reconhecimento de áreas e na avaliação de efeitos de sítio."
+          ]
+        },
+        {
+          "title": "Ruído sísmico",
+          "paragraphs": [
+            "O registro de ruído sísmico aproveita vibrações naturais e antrópicas para caracterizar o subsolo sem a necessidade de fontes ativas. A análise pode ser feita com arranjos e técnicas de correlação.",
+            "O método é indicado para reconhecimento e complementação de investigações, especialmente em áreas urbanas e de acesso restrito."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "metodos-potenciais.html",
+      "title": "Métodos potenciais",
+      "desc": "Gravimetria, magnetometria e gamaespectrometria da Neogeo para mapear contrastes do subsolo.",
+      "lead": "Campos naturais de gravidade e magnetismo para mapear contrastes do subsolo.",
+      "paragraphs": [
+        "Os métodos potenciais medem variações naturais dos campos gravitacional e magnético causadas por contrastes de densidade e de susceptibilidade magnética. São métodos não invasivos, indicados para reconhecimento regional e para orientar investigações de maior detalhe.",
+        "A interpretação combina modelagem, dados geológicos e, quando necessário, integração com outros métodos geofísicos."
+      ],
+      "listTitle": "Métodos disponíveis",
+      "list": [
+        "Gravimetria",
+        "Magnetometria",
+        "Gamaespectrometria"
+      ],
+      "detailsTitle": "Cada método em detalhe",
+      "details": [
+        {
+          "title": "Gravimetria",
+          "paragraphs": [
+            "A gravimetria mede pequenas variações do campo gravitacional associadas a contrastes de densidade no subsolo. É aplicada no mapeamento de estruturas, corpos densos e geometrias de larga escala.",
+            "Os dados permitem construir modelos de distribuição de massa e apoiar a interpretação geológica e a locação de investigações mais detalhadas."
+          ]
+        },
+        {
+          "title": "Magnetometria",
+          "paragraphs": [
+            "A magnetometria mede variações do campo magnético terrestre relacionadas à distribuição de minerais magnéticos, especialmente a magnetita. É um método rápido e eficiente para reconhecimento e mapeamento estrutural.",
+            "Os resultados auxiliam na identificação de corpos, falhas, contatos e zonas de alteração, além de orientar a integração com outros métodos."
+          ]
+        },
+        {
+          "title": "Gamaespectrometria",
+          "paragraphs": [
+            "A gamaespectrometria mede a radiação gama natural emitida por potássio, urânio e tório, permitindo mapear a distribuição desses elementos na superfície.",
+            "É aplicada no mapeamento geológico, na identificação de zonas de alteração e no reconhecimento de áreas com assinaturas radiométricas distintas."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "radar-e-investigacao-de-alta-resolucao.html",
+      "title": "Radar e investigação de alta resolução",
+      "desc": "GPR e UltraGPR da Neogeo para investigar estruturas, objetos e interferências no subsolo.",
+      "lead": "Investigar estruturas, objetos e interferências no subsolo.",
+      "paragraphs": [
+        "O Radar de Penetração no Solo (GPR) é um método eletromagnético de alta frequência que transmite ondas eletromagnéticas e registra suas reflexões em interfaces com contrastes nas propriedades elétricas dos materiais.",
+        "O UltraGPR é uma adaptação do método que utiliza antenas de baixa frequência e tecnologia de aquisição voltada à investigação de interfaces geológicas de maior escala, podendo alcançar profundidades de até 70 metros em condições geológicas favoráveis."
+      ],
+      "listTitle": "Geotecnologias disponíveis",
+      "list": [
+        "GPR terrestre",
+        "GPR 3D",
+        "GPR aerotransportado",
+        "UltraGPR"
+      ],
+      "detailsTitle": "Cada tecnologia em detalhe",
+      "details": [
+        {
+          "title": "GPR",
+          "paragraphs": [
+            "O GPR transmite pulsos eletromagnéticos de alta frequência e registra as reflexões produzidas em interfaces com contraste de propriedades elétricas. A alta resolução permite identificar alvos rasos com precisão.",
+            "É utilizado no mapeamento de tubulações, armaduras, cavidades, camadas de pavimento e outras estruturas enterradas, com aquisição rápida e não invasiva."
+          ]
+        },
+        {
+          "title": "UltraGPR",
+          "paragraphs": [
+            "O UltraGPR utiliza antenas de baixa frequência para investigar interfaces de maior escala e alcançar maiores profundidades. Em condições favoráveis, pode atingir até 70 m.",
+            "É indicado para o reconhecimento de contatos, estruturas e feições profundas que não seriam alcançadas pelo GPR convencional."
+          ]
+        },
+        {
+          "title": "GPR 3D",
+          "paragraphs": [
+            "A aquisição em malha permite construir volumes tridimensionais e visualizar estruturas, tubulações e interferências em diferentes planos.",
+            "Os modelos 3D facilitam a interpretação espacial e o planejamento de escavações e intervenções."
+          ]
+        },
+        {
+          "title": "GPR aerotransportado",
+          "paragraphs": [
+            "O GPR embarcado em drones amplia a cobertura em áreas de difícil acesso e reduz o tempo de aquisição em grandes extensões.",
+            "É indicado para reconhecimento de feições rasas e para a integração com levantamentos topográficos e geofísicos."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "levantamentos-aereos-com-drones.html",
+      "title": "Levantamentos aéreos com drones",
+      "desc": "Levantamentos com drones: magnetometria, gamaespectrometria, GPR aerotransportado, LiDAR e aerofotogrametria.",
+      "lead": "Dados geofísicos e geoespaciais adquiridos de uma nova perspectiva.",
+      "paragraphs": [
+        "Drones e aerolevantamentos permitem adquirir dados de grandes áreas com rapidez, segurança e alta densidade de informação. Os sensores embarcados podem apoiar desde o mapeamento topográfico até a identificação de feições e anomalias.",
+        "A integração com métodos geofísicos de superfície e com dados de campo amplia a leitura do terreno e melhora a priorização de áreas."
+      ],
+      "listTitle": "Geotecnologias disponíveis",
+      "list": [
+        "Magnetometria com drone",
+        "Gamaespectrometria com drone",
+        "GPR aerotransportado",
+        "LiDAR",
+        "Aerofotogrametria"
+      ],
+      "detailsTitle": "Cada recurso em detalhe",
+      "details": [
+        {
+          "title": "Aerofotogrametria e modelos digitais de terreno",
+          "paragraphs": [
+            "A aerofotogrametria com drones gera ortomosaicos e modelos digitais de terreno de alta resolução. Os produtos apoiam o mapeamento de feições, o cálculo de volumes e o acompanhamento de áreas.",
+            "A aquisição é rápida e pode ser repetida com frequência, o que favorece estudos de evolução e monitoramento."
+          ]
+        },
+        {
+          "title": "LiDAR e nuvens de pontos",
+          "paragraphs": [
+            "O LiDAR embarcado em drones produz nuvens de pontos densas, capazes de representar a superfície e a vegetação com grande detalhe. É útil na identificação de feições sutis e no mapeamento de áreas de difícil acesso.",
+            "Os dados podem ser integrados a levantamentos topográficos e a modelos geológicos para uma leitura mais completa do terreno."
+          ]
+        },
+        {
+          "title": "Magnetometria aerotransportada",
+          "paragraphs": [
+            "A magnetometria aerotransportada permite cobrir grandes áreas com alta densidade de dados e boa continuidade lateral. É aplicada no reconhecimento de estruturas, corpos magnéticos e domínios geológicos.",
+            "A integração com magnetometria terrestre e dados geológicos melhora a interpretação e a locação de alvos."
+          ]
+        },
+        {
+          "title": "Gamaespectrometria aerotransportada",
+          "paragraphs": [
+            "A gamaespectrometria aerotransportada mapeia a distribuição superficial de potássio, urânio e tório em grandes extensões. Os dados auxiliam no mapeamento geológico e na identificação de zonas de alteração.",
+            "A combinação com outros sensores amplia a capacidade de discriminação de unidades e de feições de interesse."
+          ]
+        },
+        {
+          "title": "GPR aerotransportado",
+          "paragraphs": [
+            "O GPR embarcado em drones permite adquirir dados de radar em áreas extensas e de difícil acesso, com rapidez e segurança.",
+            "Os resultados apoiam o reconhecimento de feições rasas e a integração com os demais levantamentos geofísicos e topográficos."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "perfilagem-geofisica.html",
+      "title": "Perfilagem geofísica",
+      "desc": "Perfilagem geofísica da Neogeo para investigar propriedades das formações ao longo da profundidade.",
+      "lead": "Investigar as propriedades das formações ao longo da profundidade.",
+      "paragraphs": [
+        "A perfilagem de poços realiza medições contínuas ao longo da perfuração, registrando propriedades físicas das rochas e dos fluidos. É uma etapa valiosa para calibrar a interpretação de superfície e detalhar a estratigrafia.",
+        "Os perfis podem ser combinados conforme o objetivo, desde a litologia até a avaliação de porosidade, saturação e qualidade da água."
+      ],
+      "listTitle": "Perfis disponíveis",
+      "list": [
+        "Densidade (gama-gama)",
+        "Gama natural",
+        "Suscetibilidade magnética",
+        "Resistividade elétrica",
+        "Polarização induzida",
+        "Sônico"
+      ],
+      "detailsTitle": "Cada perfil em detalhe",
+      "details": [
+        {
+          "title": "Raio gama",
+          "paragraphs": [
+            "O perfil de raio gama registra a radioatividade natural das formações, principalmente associada ao potássio, ao urânio e ao tório. É utilizado na identificação de litologias e na correlação entre poços.",
+            "A resposta auxilia na distinção de camadas argilosas e arenosas e no detalhamento da estratigrafia."
+          ]
+        },
+        {
+          "title": "Resistividade",
+          "paragraphs": [
+            "O perfil de resistividade mede a oposição do meio à passagem de corrente elétrica e é sensível à presença de fluidos e à porosidade. Permite identificar zonas saturadas e avaliar a qualidade da água.",
+            "A combinação com outros perfis melhora a interpretação de litologia e de contatos entre formações."
+          ]
+        },
+        {
+          "title": "Suscetibilidade magnética",
+          "paragraphs": [
+            "O perfil de suscetibilidade magnética mede a resposta das formações à magnetização e auxilia na identificação de litologias e minerais magnéticos.",
+            "A informação complementa o mapeamento geológico e a correlação com dados de magnetometria de superfície."
+          ]
+        },
+        {
+          "title": "Densidade",
+          "paragraphs": [
+            "O perfil de densidade mede a densidade aparente das formações e permite estimar a porosidade. É aplicado na caracterização de reservatórios e na identificação de litologias.",
+            "A integração com outros perfis sustenta modelos mais consistentes do subsolo."
+          ]
+        },
+        {
+          "title": "Polarização induzida",
+          "paragraphs": [
+            "O perfil de polarização induzida registra a cargabilidade das formações e auxilia na identificação de zonas com sulfetos, grafita e materiais polarizáveis.",
+            "A leitura conjunta com a resistividade amplia a interpretação de litologias e de zonas mineralizadas."
+          ]
+        },
+        {
+          "title": "Sônico",
+          "paragraphs": [
+            "O perfil sônico mede o tempo de trânsito das ondas elásticas nas formações, fornecendo informações sobre porosidade e propriedades mecânicas. É aplicado na caracterização geotécnica e na calibração de modelos sísmicos.",
+            "O perfil contribui para a avaliação de rigidez e para a integração entre dados de poço e de superfície."
+          ]
+        }
+      ]
+    }
+  ]
+}

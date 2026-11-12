@@ -1,0 +1,429 @@
+{
+  "folder": "solucoes",
+  "hub": "../solucoes.html",
+  "hubLabel": "Aplicações",
+  "otherLabel": "aplicações",
+  "listEyebrow": "Aplicações",
+  "items": [
+    {
+      "slug": "geotecnia.html",
+      "title": "Geotecnia",
+      "desc": "Aplicações da geofísica Neogeo em geotecnia: pilhas, barragens, taludes, cavas, túneis e monitoramento.",
+      "lead": "Mais informação para compreender estruturas geotécnicas e condições do terreno.",
+      "paragraphs": [
+        "A geofísica constitui uma importante ferramenta complementar às investigações geotécnicas, pois permite a obtenção de informações contínuas sobre as condições do subsolo, contribuindo para a caracterização dos materiais, a identificação de variações litológicas e geotécnicas, o reconhecimento de zonas de fraqueza em maciços e a delimitação de feições e heterogeneidades subsuperficiais nas fundações.",
+        "Esses dados podem contribuir para avaliações relacionadas à estabilidade, caracterização e monitoramento de estruturas geotécnicas, bem como pilhas, barragens, diques e cavas."
+      ],
+      "listTitle": "Aplicações em geotecnia",
+      "list": [
+        "Pilhas de estéril e rejeito",
+        "Barragens e diques",
+        "Taludes e encostas",
+        "Cavas e minas subterrâneas",
+        "Túneis",
+        "Áreas de subsidência",
+        "Monitoramento geotécnico",
+        "Caracterização geológico-geotécnica"
+      ],
+      "detailsTitle": "Cada aplicação em detalhe",
+      "details": [
+        {
+          "title": "Pilhas de estéril e rejeito",
+          "paragraphs": [
+            "A geofísica apoia a caracterização da geometria, da espessura e das condições de fundação de pilhas, além de investigar umidade e caminhos preferenciais de percolação. A integração de métodos sísmicos, elétricos e potenciais contribui para a leitura contínua do maciço."
+          ]
+        },
+        {
+          "title": "Barragens e diques",
+          "paragraphs": [
+            "Investigações geofísicas auxiliam na identificação de zonas de fraqueza, contatos e possíveis caminhos de percolação em barragens e diques. Levantamentos periódicos permitem acompanhar alterações nas propriedades físicas ao longo do tempo."
+          ]
+        },
+        {
+          "title": "Taludes e encostas",
+          "paragraphs": [
+            "Os métodos sísmicos fornecem informações sobre rigidez e geometria dos materiais, enquanto os métodos elétricos ajudam a identificar variações de umidade e zonas de alteração. Aerolevantamentos complementam a leitura da superfície e das feições."
+          ]
+        },
+        {
+          "title": "Cavas e minas subterrâneas",
+          "paragraphs": [
+            "A geofísica contribui para o reconhecimento de estruturas, descontinuidades e heterogeneidades em cavas e minas subterrâneas. Os dados apoiam o planejamento de lavra, a estabilidade e a segurança das operações."
+          ]
+        },
+        {
+          "title": "Túneis",
+          "paragraphs": [
+            "A caracterização geofísica apoia a avaliação das condições de escavação, a identificação de zonas de fraqueza e a previsão de interfaces. Métodos sísmicos, elétricos e de radar podem ser combinados conforme a profundidade e o acesso."
+          ]
+        },
+        {
+          "title": "Áreas de subsidência",
+          "paragraphs": [
+            "A investigação de áreas de subsidência busca identificar vazios, cavidades, zonas de compressão e estruturas associadas a movimentos do terreno. A integração de métodos e o monitoramento permitem acompanhar a evolução das feições."
+          ]
+        },
+        {
+          "title": "Monitoramento geotécnico",
+          "paragraphs": [
+            "O monitoramento geofísico acompanha variações nas propriedades físicas de estruturas e do subsolo ao longo do tempo. Levantamentos repetidos e sensores permanentes ajudam a identificar tendências e anomalias."
+          ]
+        },
+        {
+          "title": "Caracterização geológico-geotécnica",
+          "paragraphs": [
+            "A caracterização integra métodos sísmicos, elétricos, potenciais e de radar para construir um modelo contínuo do subsolo. O resultado apoia a definição de unidades, a avaliação de rigidez e o planejamento de investigações diretas."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "exploracao-mineral.html",
+      "title": "Exploração Mineral",
+      "desc": "Aplicações da geofísica Neogeo na exploração de ferro, ouro, cobre, níquel, lítio, terras raras e outros bens minerais.",
+      "lead": "Investigar melhor antes de avançar.",
+      "paragraphs": [
+        "A pesquisa e a prospecção mineral constituem etapas fundamentais para a identificação, caracterização e avaliação de depósitos minerais. Nesse contexto, a geofísica desempenha um papel estratégico ao empregar métodos indiretos e não invasivos para identificar, delimitar e modelar corpos mineralizados, com base nos contrastes de propriedades físicas dos materiais geológicos.",
+        "Os resultados contribuem para o direcionamento de investigações de detalhe, a definição de alvos prioritários e o planejamento de campanhas de sondagem, reduzindo incertezas geológicas e apoiando decisões ao longo da exploração e produção mineral."
+      ],
+      "listTitle": "Aplicações em diferentes contextos minerais",
+      "list": [
+        "Minério de ferro",
+        "Ouro em veios",
+        "Ouro disseminado",
+        "Cobre",
+        "Níquel",
+        "Zinco e chumbo",
+        "Lítio",
+        "Terras raras",
+        "Manganês",
+        "Fosfato",
+        "Potássio",
+        "Bauxita",
+        "Grafita",
+        "Urânio"
+      ],
+      "detailsTitle": "Cada contexto mineral em detalhe",
+      "details": [
+        {
+          "title": "Minério de ferro",
+          "paragraphs": [
+            "A magnetometria é empregada no mapeamento de corpos associados à magnetita; a gravimetria contribui para contrastes de densidade; a eletrorresistividade auxilia na distinção entre materiais friáveis e compactos."
+          ]
+        },
+        {
+          "title": "Ouro em veios",
+          "paragraphs": [
+            "A eletrorresistividade pode indicar veios de quartzo e zonas alteradas; a polarização induzida é útil na detecção de sulfetos associados; a magnetometria e a gamaespectrometria apoiam o mapeamento estrutural e hidrotermal."
+          ]
+        },
+        {
+          "title": "Ouro disseminado",
+          "paragraphs": [
+            "A polarização induzida é aplicada na identificação de sulfetos disseminados; a resistividade, a magnetometria e a gamaespectrometria complementam a leitura; o AMT pode apoiar investigações mais profundas."
+          ]
+        },
+        {
+          "title": "Cobre",
+          "paragraphs": [
+            "A exploração de cobre utiliza combinações de polarização induzida, resistividade, magnetometria, gamaespectrometria, eletromagnetismo, AMT e gravimetria, conforme o tipo de depósito e o contraste esperado."
+          ]
+        },
+        {
+          "title": "Níquel",
+          "paragraphs": [
+            "Em depósitos sulfetados, eletromagnetismo, polarização induzida e magnetometria auxiliam na identificação de corpos condutivos; em depósitos lateríticos, métodos elétricos e sísmicos ajudam a mapear o perfil de alteração e a espessura do regolito."
+          ]
+        },
+        {
+          "title": "Zinco e chumbo",
+          "paragraphs": [
+            "A investigação integra gravimetria, polarização induzida, eletromagnetismo, AMT, resistividade, magnetometria e gamaespectrometria para identificar corpos e estruturas associadas."
+          ]
+        },
+        {
+          "title": "Lítio",
+          "paragraphs": [
+            "Em pegmatitos, resistividade, GPR, magnetometria e gamaespectrometria auxiliam no mapeamento de corpos e zonas alteradas; em salmouras, métodos eletromagnéticos e AMT contribuem para a caracterização da condutividade."
+          ]
+        },
+        {
+          "title": "Terras raras",
+          "paragraphs": [
+            "A investigação envolve o mapeamento do regolito e das estruturas, com resistividade, eletromagnetismo, métodos sísmicos, GPR e UltraGPR, além da gamaespectrometria para assinaturas de tório."
+          ]
+        },
+        {
+          "title": "Manganês",
+          "paragraphs": [
+            "A geofísica contribui com resistividade, polarização induzida, eletromagnetismo, gravimetria e magnetometria para o mapeamento de corpos e rochas hospedeiras."
+          ]
+        },
+        {
+          "title": "Fosfato",
+          "paragraphs": [
+            "Magnetometria e gravimetria apoiam o mapeamento de estruturas e corpos; a gamaespectrometria e a resistividade complementam a caracterização."
+          ]
+        },
+        {
+          "title": "Potássio",
+          "paragraphs": [
+            "Os depósitos de potássio podem ser investigados com a integração de métodos potenciais, elétricos e radiométricos, adequados ao contexto geológico e ao tipo de mineralização."
+          ]
+        },
+        {
+          "title": "Bauxita",
+          "paragraphs": [
+            "A investigação utiliza resistividade, GPR e gravimetria para caracterizar o perfil de alteração, os contatos e a geometria dos corpos."
+          ]
+        },
+        {
+          "title": "Grafita",
+          "paragraphs": [
+            "Eletromagnetismo, resistividade, polarização induzida e magnetometria são aplicados na identificação de corpos condutivos e zonas grafíticas."
+          ]
+        },
+        {
+          "title": "Urânio",
+          "paragraphs": [
+            "A gamaespectrometria é central na identificação de assinaturas radiométricas; resistividade, eletromagnetismo e magnetometria complementam o mapeamento; a perfilagem gama apoia a caracterização em poços."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "engenharia.html",
+      "title": "Engenharia",
+      "desc": "Aplicações da geofísica Neogeo em engenharia: fundações, interferências, vazios e espessura do solo.",
+      "lead": "Conhecer o subsolo antes de construir, intervir ou avançar.",
+      "paragraphs": [
+        "Em projetos de engenharia, a investigação geofísica pode contribuir para a caracterização das condições subsuperficiais e para a identificação de estruturas, interferências, vazios e variações do terreno.",
+        "O objetivo é ampliar as informações disponíveis para apoiar o planejamento e as decisões técnicas do projeto."
+      ],
+      "listTitle": "Aplicações em engenharia",
+      "list": [
+        "Investigação de fundações",
+        "Mapeamento de interferências subterrâneas",
+        "Identificação de vazios, cavidades e zonas de fraqueza",
+        "Determinação da espessura do solo e profundidade do embasamento"
+      ],
+      "detailsTitle": "Cada aplicação em detalhe",
+      "details": [
+        {
+          "title": "Investigação de fundações",
+          "paragraphs": [
+            "A geofísica amplia a caracterização do subsolo onde serão implantadas fundações, indicando espessuras, contatos e heterogeneidades. Os dados complementam sondagens e apoiam o dimensionamento e o planejamento."
+          ]
+        },
+        {
+          "title": "Mapeamento de interferências subterrâneas",
+          "paragraphs": [
+            "O GPR e outros métodos eletromagnéticos auxiliam no mapeamento de tubulações, cabos, fundações antigas e outras interferências enterradas. A detecção prévia reduz riscos em escavações e intervenções."
+          ]
+        },
+        {
+          "title": "Identificação de vazios, cavidades e zonas de fraqueza",
+          "paragraphs": [
+            "A identificação de vazios, cavidades e zonas de fraqueza combina métodos de alta resolução, como GPR, resistividade e microgravimetria, conforme o alvo e a profundidade."
+          ]
+        },
+        {
+          "title": "Determinação da espessura do solo e profundidade do embasamento",
+          "paragraphs": [
+            "Métodos sísmicos e elétricos permitem estimar a espessura do solo e a profundidade do embasamento, apoiando escavações, fundações e o planejamento de obras."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hidrogeologia.html",
+      "title": "Hidrogeologia",
+      "desc": "Aplicações da geofísica Neogeo em hidrogeologia: água subterrânea, aquíferos, interface doce-salina e contaminação.",
+      "lead": "Investigar a água subterrânea e seu comportamento no subsolo.",
+      "paragraphs": [
+        "Os métodos geofísicos auxiliam na identificação e caracterização de estruturas e condições geológicas associadas à ocorrência, ao armazenamento e à circulação da água subterrânea, como zonas de fraturamento, falhas, contatos geológicos e regiões potencialmente saturadas.",
+        "Essas informações contribuem para a compreensão das condições hidrogeológicas do subsolo, subsidiando projetos de prospecção, caracterização de aquíferos, monitoramento e investigações ambientais."
+      ],
+      "listTitle": "Aplicações em hidrogeologia",
+      "list": [
+        "Prospecção de água subterrânea e locação de poços",
+        "Identificação de zonas de recarga e descarga",
+        "Investigação de aquíferos fraturados e porosos",
+        "Mapeamento da interface entre água doce e água salina",
+        "Investigação de áreas contaminadas",
+        "Mapeamento de plumas de contaminação",
+        "Apoio ao rebaixamento do nível d’água e desaguamento de minas"
+      ],
+      "detailsTitle": "Cada aplicação em detalhe",
+      "details": [
+        {
+          "title": "Prospecção de água subterrânea e locação de poços",
+          "paragraphs": [
+            "A geofísica auxilia na identificação de zonas fraturadas, falhas, contatos e regiões potencialmente saturadas, orientando a locação de poços e reduzindo incertezas."
+          ]
+        },
+        {
+          "title": "Identificação de zonas de recarga e descarga",
+          "paragraphs": [
+            "A investigação contribui para reconhecer zonas de recarga e descarga a partir de contrastes de umidade, condutividade e estrutura geológica."
+          ]
+        },
+        {
+          "title": "Investigação de aquíferos fraturados e porosos",
+          "paragraphs": [
+            "Métodos elétricos, eletromagnéticos e sísmicos apoiam a caracterização de aquíferos fraturados e porosos, incluindo profundidade, espessura e continuidade."
+          ]
+        },
+        {
+          "title": "Mapeamento da interface entre água doce e água salina",
+          "paragraphs": [
+            "O TDEM e outros métodos eletromagnéticos são aplicados no mapeamento da interface entre água doce e água salina, em razão do contraste de condutividade."
+          ]
+        },
+        {
+          "title": "Investigação de áreas contaminadas",
+          "paragraphs": [
+            "A geofísica auxilia na identificação de zonas contaminadas e de caminhos preferenciais de migração, integrando resistividade, polarização induzida e eletromagnetismo."
+          ]
+        },
+        {
+          "title": "Mapeamento de plumas de contaminação",
+          "paragraphs": [
+            "O mapeamento de plumas de contaminação utiliza contrastes elétricos e eletromagnéticos para delimitar a extensão e acompanhar a evolução da pluma."
+          ]
+        },
+        {
+          "title": "Apoio ao rebaixamento do nível d’água e desaguamento de minas",
+          "paragraphs": [
+            "A caracterização de estruturas, aquíferos e zonas de circulação apoia o planejamento do rebaixamento do nível d’água e do desaguamento de minas."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "arqueologia.html",
+      "title": "Arqueologia",
+      "desc": "Aplicações da geofísica Neogeo em arqueologia: GPR, magnetometria, resistividade e integração de métodos.",
+      "lead": "Investigar o subsolo preservando o contexto da área.",
+      "paragraphs": [
+        "Em investigações arqueológicas, localizar estruturas enterradas sem escavações extensivas é importante para preservar o patrimônio e direcionar os trabalhos de campo.",
+        "Estruturas como fundações antigas, muros, pisos, sepultamentos, fossas e vestígios de ocupação podem apresentar contrastes nas propriedades eletromagnéticas, na resistividade elétrica e na suscetibilidade magnética em relação aos materiais do terreno. A geofísica permite investigar esses contrastes de forma não invasiva, auxiliando no reconhecimento da distribuição espacial e da organização dos possíveis vestígios arqueológicos."
+      ],
+      "listTitle": "Métodos aplicados",
+      "list": [
+        "GPR",
+        "Magnetometria",
+        "Eletrorresistividade",
+        "Integração de métodos"
+      ],
+      "detailsTitle": "Cada método em detalhe",
+      "details": [
+        {
+          "title": "GPR",
+          "paragraphs": [
+            "O GPR é indicado para localizar estruturas rasas, pisos, fundações e fossas, com alta resolução e sem escavação."
+          ]
+        },
+        {
+          "title": "Magnetometria",
+          "paragraphs": [
+            "A magnetometria identifica anomalias associadas a materiais queimados, metais, fossas e estruturas, apoiando o mapeamento de áreas de interesse."
+          ]
+        },
+        {
+          "title": "Eletrorresistividade",
+          "paragraphs": [
+            "A resistividade elétrica ajuda a distinguir materiais, solos alterados e estruturas enterradas, complementando o GPR em diferentes condições de solo."
+          ]
+        },
+        {
+          "title": "Integração de métodos",
+          "paragraphs": [
+            "A integração de GPR, magnetometria e resistividade permite reconhecer a distribuição espacial dos vestígios e priorizar escavações, preservando o contexto arqueológico."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hidrossedimentologia.html",
+      "title": "Hidrossedimentologia",
+      "desc": "Aplicações da geofísica Neogeo em hidrossedimentologia: batimetria, perfilador sísmico, GPR e dinâmica sedimentar.",
+      "lead": "Investigar a dinâmica dos sedimentos e a evolução dos ambientes aquáticos.",
+      "paragraphs": [
+        "A investigação em ambientes aquáticos permite acompanhar a dinâmica de erosão, transporte e deposição de sedimentos e rejeitos de mineração em rios, reservatórios, lagos e outros ambientes submersos.",
+        "Essas investigações contribuem para avaliar processos de assoreamento, alterações na geometria do leito, distribuição de depósitos sedimentares e evolução da capacidade de armazenamento de reservatórios, subsidiando o planejamento de dragagens, a gestão de recursos hídricos e o acompanhamento de impactos ambientais."
+      ],
+      "listTitle": "Métodos aplicados",
+      "list": [
+        "Batimetria",
+        "Perfilador sísmico de subsuperfície (SBP)",
+        "GPR",
+        "Integração de dados"
+      ],
+      "detailsTitle": "Cada método em detalhe",
+      "details": [
+        {
+          "title": "Batimetria",
+          "paragraphs": [
+            "A batimetria caracteriza a geometria do leito e apoia o cálculo de volumes e o acompanhamento do assoreamento."
+          ]
+        },
+        {
+          "title": "Perfilador sísmico de subsuperfície (SBP)",
+          "paragraphs": [
+            "O perfilador sísmico de subsuperfície (SBP) imageia as camadas sedimentares submersas e ajuda a identificar depósitos, erosão e interfaces."
+          ]
+        },
+        {
+          "title": "GPR",
+          "paragraphs": [
+            "O GPR pode complementar a investigação de sedimentos e estruturas em ambientes aquáticos rasos, conforme a condutividade da água."
+          ]
+        },
+        {
+          "title": "Integração de dados",
+          "paragraphs": [
+            "A integração de batimetria, SBP e dados complementares permite avaliar a dinâmica sedimentar, a capacidade de armazenamento e o planejamento de dragagens."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "monitoramento.html",
+      "title": "Monitoramento",
+      "desc": "Monitoramento geofísico de barragens, pilhas, taludes, plumas de contaminação e microssísmico.",
+      "lead": "Acompanhar mudanças ao longo do tempo.",
+      "paragraphs": [
+        "O comportamento do subsolo e das estruturas pode variar ao longo do tempo em resposta a processos naturais, intervenções humanas e mudanças nas condições ambientais. O monitoramento geofísico, por meio de medições contínuas ou levantamentos periódicos, permite identificar e acompanhar alterações nas propriedades físicas dos materiais.",
+        "A integração dos dados geofísicos com instrumentos de monitoramento convencionais amplia a compreensão espacial e temporal dos processos investigados, auxiliando na identificação de anomalias, na avaliação de tendências e no reconhecimento de possíveis condições de risco."
+      ],
+      "listTitle": "Aplicações de monitoramento",
+      "list": [
+        "Monitoramento de barragens, pilhas e taludes",
+        "Monitoramento de plumas de contaminação",
+        "Monitoramento microssísmico"
+      ],
+      "detailsTitle": "Cada aplicação em detalhe",
+      "details": [
+        {
+          "title": "Monitoramento de barragens, pilhas e taludes",
+          "paragraphs": [
+            "O monitoramento geofísico acompanha variações de umidade, resistividade, rigidez e geometria, complementando instrumentos convencionais."
+          ]
+        },
+        {
+          "title": "Monitoramento de plumas de contaminação",
+          "paragraphs": [
+            "Levantamentos periódicos permitem acompanhar a evolução de plumas e identificar mudanças nos caminhos de migração."
+          ]
+        },
+        {
+          "title": "Monitoramento microssísmico",
+          "paragraphs": [
+            "O monitoramento microssísmico registra eventos de baixa magnitude associados a fraturas, movimentos e processos no subsolo, apoiando a avaliação de estabilidade."
+          ]
+        }
+      ]
+    }
+  ]
+}

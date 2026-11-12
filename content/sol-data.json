@@ -1,0 +1,602 @@
+{
+    "folder":  "solucoes",
+    "hub":  "../solucoes.html",
+    "hubLabel":  "Aplicações",
+    "otherLabel":  "aplicações",
+    "kicker":  "Aplicações",
+    "source":  "copy/Copys-extraido.txt",
+    "hero":  {
+                 "title":  "Geofísica aplicada aos desafios do seu projeto.",
+                 "paragraphs":  [
+                                    "Cada área apresenta condições, riscos e perguntas diferentes.",
+                                    "A Neogeo desenvolve investigações geofísicas para apoiar projetos de geotecnia, exploração mineral, engenharia, hidrogeologia, arqueologia e monitoramento, combinando métodos e estratégias de acordo com o objetivo de cada estudo."
+                                ]
+             },
+    "introBlock":  {
+                       "kicker":  "Onde aplicamos",
+                       "title":  "O problema vem antes do método.",
+                       "highlight":  "",
+                       "paragraphs":  [
+                                          "Escolher uma tecnologia é consequência de entender o que precisa ser investigado.",
+                                          "Por isso, começamos pelo objetivo do projeto, pelas características da área e pelas informações que precisam ser obtidas. A partir desse contexto, definimos os métodos geofísicos e a estratégia mais adequada para cada investigação."
+                                      ]
+                   },
+    "integration":  {
+                        "kicker":  "Abordagem integrada",
+                        "title":  "Mais de um caminho para responder ao mesmo problema.",
+                        "lead":  "Diferentes aplicações podem trabalhar juntas.",
+                        "paragraphs":  [
+                                           "Um mesmo projeto pode envolver mais de uma área de atuação e exigir diferentes métodos de investigação.",
+                                           "Por isso, a Neogeo pode integrar tecnologias, dados geológicos, informações geotécnicas e diferentes estratégias de aquisição para construir uma leitura mais completa do contexto investigado."
+                                       ]
+                    },
+    "processTitle":  "Como desenvolvemos as aplicações",
+    "process":  [
+                    {
+                        "title":  "Entendemos o problema",
+                        "text":  "Identificamos o objetivo da investigação, as condições da área e as informações necessárias."
+                    },
+                    {
+                        "title":  "Avaliamos o contexto técnico",
+                        "text":  "Consideramos profundidade, dimensões do alvo, características geológicas, condições de acesso e dados disponíveis."
+                    },
+                    {
+                        "title":  "Definimos a estratégia",
+                        "text":  "Selecionamos os métodos e a configuração de investigação mais adequados ao cenário."
+                    },
+                    {
+                        "title":  "Executamos e interpretamos",
+                        "text":  "Realizamos a aquisição, o processamento e a integração dos dados."
+                    },
+                    {
+                        "title":  "Entregamos informações para apoiar a decisão",
+                        "text":  "Os resultados são apresentados de acordo com os objetivos definidos para o projeto."
+                    }
+                ],
+    "cta":  {
+                "title":  "Qual é o desafio do seu projeto?",
+                "paragraphs":  [
+                                   "Você não precisa saber antecipadamente qual tecnologia utilizar.",
+                                   "Conte para nossa equipe o que precisa ser investigado, onde está a área e qual é o objetivo do estudo. A partir dessas informações, podemos entender a demanda e avaliar os próximos passos."
+                               ],
+                "label":  "Quero falar sobre meu projeto"
+            },
+    "items":  [
+                  {
+                      "slug":  "geotecnia.html",
+                      "title":  "Geotecnia",
+                      "subtitle":  "Mais informação para compreender estruturas geotécnicas e condições do terreno.",
+                      "headlineHtml":  "Mais informação para compreender \u003cspan\u003eestruturas geotécnicas e condições do terreno.\u003c/span\u003e",
+                      "lead":  "Investigação e monitoramento de barragens, pilhas, taludes e outras estruturas para apoiar a caracterização geológico-geotécnica.",
+                      "intro":  [
+                                    "A geofísica constitui uma importante ferramenta complementar às investigações geotécnicas, pois permite a obtenção de informações contínuas sobre as condições do subsolo, contribuindo para a caracterização dos materiais, a identificação de variações litológicas e geotécnicas, o reconhecimento de zonas de fraqueza em maciços (antrópicos ou naturais) e a delimitação de feições e heterogeneidades subsuperficiais nas fundações.",
+                                    "Esses dados podem contribuir para avaliações relacionadas à estabilidade, caracterização e monitoramento de estruturas geotécnicas, bem como pilhas, barragens, diques e cavas."
+                                ],
+                      "introTitle":  "Mais informação para compreender estruturas geotécnicas e condições do terreno.",
+                      "listTitle":  "Aplicações em geotecnia",
+                      "list":  [
+                                   "Pilhas de estéril e rejeito",
+                                   "Barragens e diques",
+                                   "Taludes e encostas",
+                                   "Cavas e minas subterrâneas",
+                                   "Túneis",
+                                   "Áreas de subsidência",
+                                   "Monitoramento geotécnico",
+                                   "Caracterização geológico-geotécnica."
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações para Geotecnia",
+                      "details":  [
+                                      {
+                                          "id":  "pilhas-de-esteril-e-rejeito",
+                                          "title":  "Pilhas de estéril e rejeito",
+                                          "paragraphs":  [
+                                                             "Em pilhas de estéril e rejeito, a ausência de registros históricos detalhados sobre a espessura dos materiais depositados, a geometria da base e as condições originais do terreno de fundação pode dificultar a caracterização geotécnica dessas estruturas. Nesse contexto, os métodos MASW (Multichannel Analysis of Surface Waves) e Sísmica de Refração (SR) podem contribuir para a investigação do subsolo, por meio da identificação de contrastes nas velocidades das ondas de cisalhamento (Vs) e compressionais (Vp), respectivamente. Esses contrastes permitem diferenciar materiais com distintas propriedades geomecânicas, identificar zonas de menor rigidez e/ou maior grau de alteração e auxiliar na delimitação dos contatos entre os materiais depositados, os solos naturais e o substrato rochoso. Quando existem contrastes de velocidade suficientemente definidos e condições adequadas de investigação, esses métodos podem contribuir para a estimativa da espessura dos depósitos, a definição da geometria basal da pilha e a reconstrução indireta das condições do terreno original, especialmente quando integrados a sondagens e informações históricas disponíveis.",
+                                                             "Outro problema comum é a distribuição heterogênea da água, com a formação de zonas saturadas e de caminhos preferenciais de percolação. A Eletrorresistividade (RES), por meio da técnica de campo do Caminhamento Elétrico (CE), permite investigar contrastes de resistividade associados à umidade, à composição dos materiais e à salinidade dos fluidos. O Potencial Espontâneo (SP) pode complementar a investigação, especialmente na identificação de anomalias associadas ao fluxo de água no subsolo. Esses resultados auxiliam na definição de setores prioritários para investigação e instrumentação, bem como na avaliação das condições de drenagem e de possíveis zonas de percolação.",
+                                                             "Variações de granulometria, disposição dos materiais e grau de compactação também podem produzir setores com comportamentos geotécnicos distintos. Os levantamentos LiDAR e aerofotogramétricos permitem registrar a geometria superficial e suas variações ao longo do tempo. A integração dessas informações apoia a avaliação de heterogeneidades, o acompanhamento de processos como recalques e erosões e o planejamento de investigações e intervenções geotécnicas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "barragens-e-diques",
+                                          "title":  "Barragens e Diques",
+                                          "paragraphs":  [
+                                                             "Em barragens e diques, a geofísica aplicada auxilia no mapeamento de caminhos preferenciais de percolação, zonas de maior umidade e heterogeneidades no corpo do aterro e na fundação. A Eletrorresistividade (RES) identifica contrastes associados à saturação, à variação granulométrica/composição dos materiais e à condutividade dos fluidos porosos, enquanto o Potencial Espontâneo (SP) registra potenciais eletrocinéticos gerados pelo próprio fluxo da água (potencial de fluxo). A integração de ambos permite reconhecer setores com anomalias de infiltração e orientar com maior precisão inspeções de campo, ensaios diretos e a instrumentação auscultatória.",
+                                                             "As irregularidades no topo rochoso, zonas de fraturamento, alívio de tensão ou alteração do maciço e variações nos materiais da fundação afetam diretamente o comportamento mecânico e a segurança da estrutura. A Sísmica de Refração (SR) investiga essas feições a partir de contrastes de velocidade de ondas P (Vp), enquanto o MASW (Multichannel Analysis of Surface Waves) mapeia a distribuição de velocidade das ondas cisalhantes (Vs), parâmetro diretamente relacionado à rigidez a pequenas deformações. Quando integrados às sondagens diretas, esses métodos auxiliam na setorização geotécnica e na delimitação de zonas que demandam intervenção ou ensaios específicos.",
+                                                             "A execução de campanhas periódicas de Eletrorresistividade (RES) permite acompanhar variações dinâmicas de umidade e frentes de saturação ao longo do tempo, devendo-se considerar também a variação de temperatura e da condutividade de fluidos. Os produtos gerados incluem seções e modelos de resistividade e velocidade, mapas de anomalias e análises comparativas temporais. Correlacionados a dados de piezômetros, medidores de nível d’água, medidores de vazão e inspeções visuais, esses resultados fornecem suporte contínuo à auscultação e à avaliação da eficácia de intervenções."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "taludes-e-encostas",
+                                          "title":  "Taludes e encostas",
+                                          "paragraphs":  [
+                                                             "A espessura da cobertura solo/saprólito, a geometria e o perfil de alteração do topo rochoso, além da presença de zonas fraturadas ou descontinuidades estruturais, são condicionantes fundamentais para a caracterização do comportamento mecânico de taludes e encostas. A Sísmica de Refração (SR) ajuda a reconhecer essas unidades por contrastes de velocidade de ondas Vp, enquanto o MASW (Multichannel Analysis of Surface Waves) caracteriza diferenças de rigidez do meio a partir do perfil de velocidade de ondas Vs. Os resultados permitem delimitar setores de menor velocidade e possíveis interfaces relevantes à análise de estabilidade, a serem verificadas com sondagens e dados estruturais.",
+                                                             "A infiltração de água e sua concentração em determinados horizontes podem modificar as condições do terreno, como os parâmetros de resistência do solo e o estado de tensão do maciço. A Eletrorresistividade (RES) investiga contrastes associados à umidade e à distribuição de materiais argilosos. O uso de campanhas temporais ajuda a acompanhar mudanças após períodos de chuvas ou intervenções de drenagem. Integrada à instrumentação geotécnica, a técnica contribui para reconhecer zonas de acúmulo de água e caminhos preferenciais de fluxo.",
+                                                             "Os modelos obtidos por LiDAR e Aerofotogrametria por VANT complementam a investigação geotécnica com modelos de relevo, permitindo a identificação de feições de escarpas, de descolamento, trincas de tração e a comparação multitemporal do relevo. As seções geofísicas e os produtos topográficos apoiam o planejamento de sondagens, drenagens, contenções e ações de recuperação. A interpretação conjunta permite relacionar as condições internas às feições superficiais e direcionar as avaliações para setores prioritários."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "cavas-e-minas-subterraneas",
+                                          "title":  "Cavas e Minas Subterrâneas",
+                                          "paragraphs":  [
+                                                             "Em cavas a céu aberto, feições como zonas de alteração hidrotermal/intemperismo, falhas e fraturamento podem influenciar o comportamento dos taludes e na entrada de água. A Sísmica de Refração (SR) e o MASW ajudam a caracterizar mudanças de velocidade e rigidez do maciço, enquanto a Eletrorresistividade (RES) auxilia no reconhecimento de zonas condutoras, materiais argilosos ou fraturas com água. A integração com o mapeamento geológico permite avaliar a continuidade dessas feições e orientar investigações nas áreas de avanço da lavra.",
+                                                             "A Sísmica de Refração (SR) e o MASW (Multichannel Analysis of Surface Waves) permitem investigar variações nas velocidades das ondas compressionais (Vp) e de cisalhamento (Vs), respectivamente, contribuindo para a caracterização das condições geomecânicas do maciço. Esses métodos auxiliam na identificação de zonas de menor rigidez, maior grau de alteração e/ou fraturamento, bem como na delimitação de contatos entre materiais com diferentes condições de competência. O GPR e o UltraGPR auxiliam na identificação de interfaces litológicas, descontinuidades e possíveis vazios em ambientes favoráveis à propagação de ondas eletromagnéticas. Complementarmente, as Perfilagens de Poço (Sônicas, Elétricas e de Densidade) fornecem dados contínuos ao longo dos furos de sondagem, auxiliando no detalhamento das propriedades do maciço e na calibração dos modelos geológico-geomecânicos.",
+                                                             "O Monitoramento Microssísmico registra e localiza pequenos eventos associados à fratura e à redistribuição de esforços durante a operação. A geração de mapas tridimensionais de eventos e análises temporal de sua evolução contribuem para reconhecer setores com atividade crescente e avaliar a resposta do maciço à lavra. Integrados aos modelos geomecânicos e à instrumentação de convergência, esses resultados fornecem suporte fundamental ao planejamento das etapas de escavação, ao dimensionamento de pilares e suportes, e à gestão de riscos geotécnicos na mineração subterrânea."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "tuneis",
+                                          "title":  "Túneis",
+                                          "paragraphs":  [
+                                                             "Na etapa de implantação de túneis, mudanças litológicas, falhas geológicas, zonas alteradas e irregularidades do topo rochoso podem provocar condições geomecânicas e de escavação diferentes das previstas em projeto. A Sísmica de Refração (SR) investiga a geometria das unidades geológicas, bem como os contrastes de velocidade (Vp) e o grau de escavabilidade do material, discriminado em categorias. Conforme a profundidade e o ambiente geológico, a Eletrorresistividade (RES) complementa o reconhecimento de contrastes geoelétricos associados a mudanças de materiais, reduzindo incertezas e otimizando a locação de sondagens diretas.",
+                                                             "Zonas fraturadas com circulação de água e possíveis cavidades exigem investigação detalhada. A Eletrorresistividade (RES) permite identificar contrastes associados a feições fraturadas saturadas ou preenchidas por material argiloso. A Microgravimetria auxilia na detecção de cavidades/vazios por meio da identificação de anomalias gravimétricas negativas (déficits de massa localizados). O GPR (Radar de Penetração no Solo) pode investigar feições próximas à superfície, frentes e paredes da escavação, em busca de descontinuidades e vazios, quando as propriedades do meio permitirem. A seleção da combinação adequada de métodos deve levar em consideração a geometria, a profundidade do emboque/traçado e a característica geológica dos alvos geotécnicos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "areas-de-subsidencia",
+                                          "title":  "Áreas de Subsidência",
+                                          "paragraphs":  [
+                                                             "Áreas sujeitas a subsidência e colapsos de terreno podem estar associadas ao carste e a cavidades naturais, a antigas escavações, à perda de finos por erosão interna (piping) ou à consolidação e deformação de camadas compressíveis. A Microgravimetria investiga déficits de massa localizados que podem indicar vazios ou zonas de menor densidade. A Eletrorresistividade (RES) complementa a investigação, reconhecendo contrastes elétricos entre o terreno e cavidades, ou seja, vazios secos/preenchidos por ar manifestam-se como anomalias altamente resistivas, enquanto cavidades preenchidas por água, lama ou sedimentos úmidos apresentam respostas condutoras.",
+                                                             "O GPR e o UltraGPR podem imagear descontinuidades e possíveis vazios quando há contraste e condições adequadas de propagação. A combinação desses métodos reduz a ambiguidade interpretativa e auxilia na delimitação de setores prioritários para sondagens e verificações diretas.",
+                                                             "Levantamentos repetidos de LiDAR, Aerofotogrametria e Topografia permitem acompanhar mudanças de elevação e deformações superficiais contínuas ao longo do tempo. Integrados aos modelos tridimensionais do subsolo, esses produtos correlacionam a deformação observada às estruturas investigadas em profundidade. Os resultados fornecem suporte decisivo à avaliação de aptidão de uso do solo, ao planejamento de obras de engenharia, ao dimensionamento de reforços/consolidações de fundação e ao acompanhamento preventivo em setores com histórico de abatimentos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "monitoramento-geotecnico",
+                                          "title":  "Monitoramento geotécnico",
+                                          "paragraphs":  [
+                                                             "O monitoramento geofísico permite acompanhar as alterações nas propriedades físicas do subsolo e de maciços por meio de campanhas periódicas repetidas ou por sistemas permanentes de aquisição contínua. A Eletrorresistividade (RES) temporal investiga mudanças compatíveis com variações associadas à umidade, à saturação e a mudanças na condutividade dos fluidos porosos, enquanto o Potencial Espontâneo (SP) complementa a caracterização por meio do acompanhamento de alterações no padrão de fluxo. A comparação exige condições controladas de aquisição e avaliação dos efeitos de temperatura, contato dos eletrodos, geometria e sazonalidade.",
+                                                             "Os levantamentos sísmicos repetidos podem investigar mudanças de velocidade relacionadas à rigidez, ao fraturamento e a outras condições de resistência do maciço. A Interferometria Sísmica permite monitorar variações espaciais e temporais nas velocidades de propagação das ondas sísmicas, incluindo as ondas de cisalhamento (Vs), diretamente relacionadas à rigidez dos materiais que compõem o maciço. Reduções na velocidade das ondas S podem indicar alterações nas condições geomecânicas, potencialmente associadas à diminuição da rigidez e à degradação das condições de estabilidade geotécnica. Essas variações podem refletir a resposta do maciço a escavações, carregamentos, precipitações e outras intervenções, fornecendo informações relevantes para o monitoramento das estruturas e o apoio à gestão de riscos geotécnicos.",
+                                                             "Aquisições de LiDAR e Aerofotogrametria acrescentam informações sobre mudanças superficiais e volumétricas. A integração com piezômetros, inclinômetros, extensômetros, registros de chuva e inspeções permite interpretar as alterações em seu contexto e apoiar a definição de critérios de acompanhamento e respostas operacionais."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "caracterizacao-geologico-geotecnica",
+                                          "title":  "Caracterização Geológico-Geotécnica",
+                                          "paragraphs":  [
+                                                             "A caracterização geológico-geotécnica busca compreender a distribuição espacial dos solos e maciços rochosos, suas interfaces e as heterogeneidades que podem influenciar o comportamento geomecânico dos materiais e as condições de implantação de projetos de engenharia. A Sísmica de Refração (SR) permite investigar a distribuição das velocidades das ondas compressionais (Vp), auxiliando na identificação de diferentes horizontes geológico-geotécnicos, na estimativa da profundidade do topo rochoso e no reconhecimento de zonas com distintos graus de alteração e fraturamento. O MASW (Multichannel Analysis of Surface Waves), por sua vez, caracteriza a distribuição das velocidades das ondas de cisalhamento (Vs), fornecendo informações sobre a rigidez dos materiais a pequenas deformações. A Eletrorresistividade (RES) complementa essas investigações por meio da identificação de contrastes geoelétricos associados a variações litológicas, conteúdo argiloso, grau de alteração e condições de saturação, ampliando a caracterização do subsolo entre os pontos de investigação direta.",
+                                                             "Em condições geológicas mais complexas ou que demandem maior detalhamento, métodos complementares podem ser empregados. O GPR (Ground Penetrating Radar) e o UltraGPR permitem investigar interfaces, descontinuidades e possíveis cavidades ou vazios, desde que as condições do meio sejam favoráveis à propagação das ondas eletromagnéticas. A Microgravimetria contribui para a identificação de anomalias de densidade, incluindo possíveis zonas de descompressão e cavidades. As Perfilagens Geofísicas de Poço fornecem registros contínuos das propriedades físicas dos materiais ao longo dos furos, auxiliando na correlação entre unidades geológicas e na calibração dos modelos geofísicos de superfície.",
+                                                             "A seleção dos métodos adequados deve considerar o contraste de propriedades físicas do alvo, a profundidade de investigação e a resolução espacial requerida. Os produtos incluem seções interpretadas, modelos 2D ou 3D, mapas de interfaces e delimitação de setores com diferentes respostas geofísicas. Quando integrados ao mapeamento geológico de superfície, às sondagens e aos ensaios in situ, esses resultados fundamentam o modelo geológico-geotécnico conceitual, otimizando o projeto de fundações, escavações e a locação de investigações complementares diretas."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "exploracao-mineral.html",
+                      "title":  "Exploração Mineral",
+                      "subtitle":  "Investigar melhor antes de avançar.",
+                      "headlineHtml":  "Investigar melhor \u003cspan\u003eantes de avançar.\u003c/span\u003e",
+                      "lead":  "Investigação de alvos e estruturas geológicas para orientar campanhas de pesquisa e exploração de diferentes substâncias minerais.",
+                      "intro":  [
+                                    "A pesquisa e a prospecção mineral constituem etapas fundamentais para a identificação, caracterização e avaliação de depósitos minerais, subsidiando o planejamento e a implantação de empreendimentos minerários. Nesse contexto, a geofísica desempenha um papel estratégico ao empregar métodos indiretos e não invasivos para identificar, delimitar e modelar corpos mineralizados, com base nos contrastes de propriedades físicas dos materiais geológicos. Os resultados obtidos contribuem para o direcionamento de investigações de detalhe, a definição de alvos prioritários e o planejamento de campanhas de sondagem, fornecendo subsídios para a avaliação do potencial mineral e da viabilidade econômica dos depósitos. Durante a fase operacional, a geofísica também auxilia no planejamento e na orientação das frentes de lavra, contribuindo para a diferenciação de blocos rochosos (bouders) e zonas mineralizadas friáveis, mediante integração e validação das interpretações com dados geológicos e informações provenientes de sondagens. Dessa forma, sua aplicação permite reduzir incertezas geológicas, otimizar os investimentos em investigação e apoiar a tomada de decisões ao longo das diferentes etapas da exploração e produção mineral."
+                                ],
+                      "introTitle":  "Investigar melhor antes de avançar.",
+                      "listTitle":  "Aplicações em diferentes contextos minerais",
+                      "list":  [
+                                   "Minério de ferro",
+                                   "Ouro em veios",
+                                   "Ouro disseminado",
+                                   "Cobre",
+                                   "Níquel",
+                                   "Zinco e chumbo",
+                                   "Lítio",
+                                   "Terras raras",
+                                   "Manganês",
+                                   "Fosfato",
+                                   "Potássio",
+                                   "Bauxita",
+                                   "Grafita",
+                                   "Urânio"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações para Exploração Mineral",
+                      "details":  [
+                                      {
+                                          "id":  "minerio-de-ferro",
+                                          "title":  "Minério de ferro",
+                                          "paragraphs":  [
+                                                             "Na exploração de minério de ferro, a geofísica auxilia no reconhecimento de formações ferríferas, na investigação de sua continuidade sob cobertura e na identificação de estruturas geológicas como falhas, dobras e contatos, que influenciam a geometria dos corpos mineralizados. Os principais contrastes estão relacionados à susceptibilidade magnética e à densidade, que variam conforme a proporção de minerais como magnetita, hematita e goethita, além dos minerais de ganga. Corpos ricos em magnetita podem produzir anomalias magnéticas expressivas, enquanto minérios predominantemente hematíticos tendem a apresentar respostas mais discretas, dependendo de sua composição mineralógica e das características geológicas locais.",
+                                                             "A Magnetometria (MAG) terrestre ou aérea, inclusive por drone, permite mapear unidades com diferentes propriedades magnéticas, contribuindo para a interpretação de sua continuidade lateral e de seus controles estruturais. A Gravimetria (GRAV) auxilia a investigação de corpos mineralizados mais densos que as rochas encaixantes, especialmente quando o contraste magnético é pouco expressivo. A Eletrorresistividade (RES), por sua vez, contribui em caracterizar as diferenças das propriedades elétricas entre minério friável e compacto, rocha encaixante e materiais intemperizados, como a canga. A integração dos métodos auxilia na seleção de alvos exploratórios e no planejamento de sondagens, sem assumir uma correspondência direta entre intensidade da anomalia geofísica e teor de ferro."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "ouro-em-veios",
+                                          "title":  "Ouro em veios",
+                                          "paragraphs":  [
+                                                             "Nos depósitos auríferos hospedados em veios, um dos principais desafios da exploração mineral consiste na identificação e delimitação de estruturas mineralizadas, frequentemente estreitas, descontínuas e encobertas por materiais superficiais. Nesse contexto, os métodos geofísicos constituem importantes ferramentas de investigação indireta, permitindo o reconhecimento de veios de quartzo, concentrações de sulfetos, zonas de alteração hidrotermal e estruturas geológicas potencialmente associadas à circulação de fluidos mineralizantes. Considerando que o ouro, nas concentrações normalmente encontradas nesses depósitos, geralmente não produz contrastes físicos suficientemente expressivos para sua detecção direta, a investigação geofísica concentra-se na identificação de assinaturas e indicadores indiretos (footprints) associados aos sistemas mineralizantes, contribuindo para a delimitação de áreas com maior potencial prospectivo.",
+                                                             "A Eletrorresistividade (RES) pode contribuir para a identificação de veios de quartzo e zonas silicificadas, frequentemente caracterizados por respostas mais resistivas em relação às rochas encaixantes, dependendo das condições geológicas e da resolução do levantamento. A Polarização Induzida (IP) apresenta particular relevância na identificação de zonas com sulfetos disseminados, que podem produzir anomalias de cargabilidade associadas à mineralização. A Magnetometria (MAG) (MAG) auxilia no reconhecimento de falhas, zonas de cisalhamento, contatos litológicos e alterações hidrotermais capazes de modificar as propriedades magnéticas das rochas, contribuindo para a interpretação dos controles estruturais da mineralização. A Gamaespectrometria, por sua vez, pode complementar essas investigações por meio do reconhecimento de variações na distribuição superficial de radioelementos, especialmente do potássio, que, em determinados contextos geológicos, podem estar associadas a processos de alteração hidrotermal.",
+                                                             "A integração dos resultados geofísicos com informações geológicas, estruturais e geoquímicas permite identificar e hierarquizar alvos prospectivos, delimitar segmentos prioritários ao longo das estruturas investigadas e orientar campanhas de sondagem. Entretanto, a associação das anomalias geofísicas com a ocorrência de mineralização aurífera deve ser confirmada por meio de investigações diretas, amostragem e análises geoquímicas, reduzindo as incertezas interpretativas e aumentando a confiabilidade dos modelos geológicos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "ouro-disseminado",
+                                          "title":  "Ouro disseminado",
+                                          "paragraphs":  [
+                                                             "Na exploração de ouro disseminado, a mineralização pode ocupar volumes extensos de rocha, sem necessariamente formar veios bem definidos. Nesse contexto, a investigação geofísica procura delimitar zonas de sulfetação, silicificação, alteração hidrotermal e estruturas geológicas favoráveis à mineralização, que podem apresentar associação especial com o ouro. As respostas geofísicas dependem das propriedades físicas dos minerais associados e das alterações promovidas nas rochas hospedeiras, e não apenas da presença do metal.",
+                                                             "A Polarização Induzida (IP) é especialmente útil quando a mineralização aurífera está associada a sulfetos disseminados, como pirita e arsenopirita, que podem gerar anomalias de cargabilidade, mesmo sem formar corpos eletricamente condutores contínuos. A Eletrorresistividade (RES), quando adquirida em conjunto com a IP, auxilia na diferenciação de zonas silicificadas, materiais argilosos e domínios fraturados. A Magnetometria (MAG) e a Gamaespectrometria podem complementar com o mapeamento das rochas encaixantes e com características relacionadas com os possíveis processos de alterações. Por sua vez, o Aúdio-Magnetotelúrico (MT) contribui para análises em estruturas de zonas de cisalhamento mais profundas e de grande porte, que estão associadas ao sistema mineral e são utilizadas para indicar as regiões de maior potencial para a ocorrência das alterações hidrotermais e mineralizações. Essa integração permite priorizar alvos para sondagem."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "cobre",
+                                          "title":  "Cobre",
+                                          "paragraphs":  [
+                                                             "A exploração de cobre exige metodologias geofísicas compatíveis com as características do modelo de depósito investigado. Em sistemas porfiríticos, os alvos incluem grandes volumes de rochas com sulfetos disseminados e zonas de alteração hidrotermal. Em depósitos de sulfetos maciços ou semimaciços, a investigação pode buscar corpos com elevada condutividade elétrica. Enquanto os sistemas IOCG (Iron Oxide-Copper-Gold), os contrastes de densidade e de propriedades magnéticas associados aos óxidos de ferro podem desempenhar um papel importante na identificação e na delimitação de alvos.",
+                                                             "Nesses contextos, a Polarização Induzida (IP) é útil para investigar zonas com sulfetos disseminados, enquanto a Eletrorresistividade (RES) contribui para a caracterização de domínios com propriedades elétricas contrastantes, potencialmente associados à silicificação, à alteração argílica e a outros domínios do sistema. A Magnetometria (MAG) pode auxiliar no reconhecimento de intrusões, estruturas geológicas e zonas de formação ou destruição de magnetita relacionadas à alteração hidrotermal, além da identificação de contrastes nas propriedades magnéticas das rochas encaixantes.",
+                                                             "A Gamaespectrometria permite mapear variações superficiais nas concentrações de potássio, urânio e tório, contribuindo para o reconhecimento de assinaturas radiométricas compatíveis com determinados tipos de alteração hidrotermal, incluindo a alteração potássica, quando seus efeitos estão preservados na superfície. Adicionalmente, permite identificar enriquecimentos e empobrecimentos relativos desses radioelementos, auxiliando na diferenciação das assinaturas radiométricas superficiais associadas às rochas encaixantes, às zonas de alteração hidrotermal e, em determinados contextos, às zonas mineralizadas. A interpretação dessas respostas deve considerar os efeitos do intemperismo, da cobertura superficial e do transporte de materiais.",
+                                                             "Os Métodos Eletromagnéticos (EM), terrestres ou aéreos, são úteis quando os corpos mineralizados apresentam condutividade elétrica suficiente e conectividade elétrica entre os minerais, como pode ocorrer em depósitos do tipo VMS e IOCG. Para sistemas profundos ou encobertos, a aplicação do método Audiomagnetotelúrico (AMT) pode contribuir para caracterizar a distribuição da resistividade elétrica em subsuperfície, além de destacar regiões de maior condutividade. Dependendo das dimensões do depósito e de suas características geométricas, parâmetros como a direção de mergulho e a geometria dos corpos podem ser estimados a partir dos modelos de resistividade elétrica. A Gravimetria (GRAV) também pode auxiliar na investigação de corpos com contrastes de densidade em relação às rochas encaixantes. A integração desses métodos permite caracterizar diferentes aspectos do sistema mineralizado e priorizar alvos para investigações complementares."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "niquel",
+                                          "title":  "Níquel",
+                                          "paragraphs":  [
+                                                             "Na exploração de níquel, é fundamental distinguir os depósitos sulfetados dos depósitos lateríticos, uma vez que os contrastes físicos e os objetivos da investigação são distintos. Nos depósitos sulfetados, busca-se reconhecer acumulações de sulfetos em sistemas máfico-ultramáficos. Nos depósitos lateríticos, o interesse está, principalmente, na distribuição e na espessura do perfil intempérico, incluindo horizontes limoníticos e saprolíticos desenvolvidos sobre rochas ultramáficas.",
+                                                             "Para os depósitos de níquel sulfetado, os Métodos Eletromagnéticos (EM) são úteis na localização de corpos maciços ou semimaciços que apresentem condutividade elétrica e continuidade suficientes para produzir uma resposta detectável. A intensidade das respostas geofísicas depende da composição mineralógica, da textura e da conectividade dos sulfetos. Por isso, nem toda mineralização de níquel sulfetado apresenta condutividade suficiente para ser detectada de forma eficiente pelos métodos eletromagnéticos. A Polarização Induzida (IP) pode contribuir para a investigação de sulfetos disseminados, enquanto a Magnetometria (MAG) e a Gravimetria (GRAV) auxiliam no reconhecimento e na diferenciação das unidades que compõem as intrusões e os complexos máfico-ultramáficos, além de serem aplicáveis à investigação de sua arquitetura estrutural, diretamente associada à geometria das mineralizações.",
+                                                             "Nos depósitos lateríticos, a Eletrorresistividade (RES) auxilia na caracterização do perfil de intemperismo e na profundidade de rocha menos alteradas. O método também auxilia na identificação de estrutura que viabilizam a lixiviação e concentração anômala dos minerais de minério. Com relação a frente de lavra, o método também é particularmente interessante por distinguir regiões de saprólito argiloso com altas concentrações de níquel e regiões com acúmulos de sílica amorfa (calcedônia), que impactam diretamente no processo de lavra.",
+                                                             "Métodos sísmicos, como a Sísmica de Refração (SR), podem ser utilizados como alternativa à Eletrorresistividade para a identificação do topo rochoso, principalmente quando os materiais apresentam baixo contraste de propriedades elétricas. A Sísmica de Refração (SR) destaca-se pela capacidade de imagear interfaces de transição entre materiais com diferentes graus de alteração intempérica, especialmente quando apresentam contrastes significativos de velocidade de propagação das ondas sísmicas. Além disso, o método apresenta versatilidade em relação à profundidade de investigação, conforme a configuração de aquisição adotada e as condições geológicas locais.",
+                                                             "A Magnetometria (MAG) contribui para a delimitação do substrato ultramáfico e para a identificação de estruturas geológicas em subsuperfície, enquanto o GPR pode investigar interfaces rasas ao longo do perfil pedogenético e auxiliar na identificação de contatos geológicos, desde que as propriedades elétricas do meio permitam adequada penetração e resolução do sinal. A Gamaespectrometria, em escala prospectiva, pode ser utilizada tanto para auxiliar no mapeamento e na diferenciação das unidades geológicas em superfície quanto na identificação de anomalias radiométricas associadas a diferentes intensidades de alteração intempérica. Destacam-se, nesse contexto, as anomalias de tório, uma vez que esse elemento apresenta menor mobilidade durante os processos de lixiviação, podendo resultar em seu enriquecimento relativo em condições de intemperismo intenso. Esses métodos apoiam o planejamento da amostragem e das sondagens, mas a diferenciação dos horizontes mineralizados e a avaliação dos teores e da viabilidade econômica dependem da validação por dados geológicos, geoquímicos e de sondagem."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "zinco-e-chumbo",
+                                          "title":  "Zinco e Chumbo",
+                                          "paragraphs":  [
+                                                             "Nos depósitos de zinco e chumbo, os métodos geofísicos são empregados principalmente para identificar concentrações de sulfetos, estruturas geológicas favoráveis à mineralização e alterações hidrotermais associadas.",
+                                                             "A Gravimetria (GRAV) pode contribuir para a identificação de concentrações de minerais mais densos que as rochas encaixantes, enquanto a Polarização Induzida (IP) pode auxiliar na investigação de zonas contendo minerais polarizáveis. Os Métodos Eletromagnéticos (EM) são úteis quando há sulfetos com condutividade e conectividade suficientes para produzir uma resposta detectável, mas podem apresentar resposta limitada em mineralizações nas quais os sulfetos condutores são pouco abundantes ou pouco conectados. O Audiomagnetotelúrico (AMT) pode contribuir para a investigação de depósitos de zinco (Pb-Zn), especialmente em sistemas profundos ou encobertos, permitindo caracterizar a distribuição da resistividade elétrica em subsuperfície, identificar zonas condutivas potencialmente associadas à mineralização e reconhecer estruturas geológicas que controlam a geometria e a distribuição dos corpos mineralizados. A Eletrorresistividade (RES) e a Magnetometria (MAG) complementam a investigação, contribuindo para o mapeamento das rochas encaixantes, estruturas geológicas e zonas de alterações. A Gamaespectrometria pode auxiliar a caracterização litológica superficial e o reconhecimento de alterações hidrotermais, quando associadas a variações nas concentrações de radioelementos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "litio",
+                                          "title":  "Lítio",
+                                          "paragraphs":  [
+                                                             "Na exploração de lítio em pegmatitos, um dos principais desafios é localizar corpos sob cobertura e determinar sua geometria, espessura e continuidade. A investigação geofísica busca identificar contrastes de propriedades físicas entre os pegmatitos e suas rochas encaixantes, uma vez que a presença de lítio, por si só, não produz uma assinatura geofísica primária. Quando os pegmatitos e suas rochas encaixantes apresentam propriedades físicas semelhantes, os baixos contrastes geofísicos podem dificultar a identificação e a delimitação dos corpos pegmatíticos, reduzindo a eficácia dos métodos empregados e aumentando as incertezas na interpretação de sua geometria e continuidade em subsuperfície.",
+                                                             "A Eletrorresistividade (RES) pode auxiliar na identificação de contrastes de resistividade elétrica entre os corpos pegmatíticos e as rochas encaixantes. Os pegmatitos podem apresentar maior resistividade em comparação às unidades encaixantes, principalmente quando inseridos em rochas metassedimentares, como xistos, que podem apresentar menores resistividades devido à presença de minerais condutivos, argilominerais e à influência da umidade. O GPR pode auxiliar na identificação dos contatos e na investigação da continuidade dos corpos pegmatíticos, especialmente quando inseridos em rochas encaixantes que apresentam contrastes significativos de propriedades elétricas, como xistos com maior presença de materiais argilosos. Nos casos em que os pegmatitos estão inseridos em unidades composicionalmente semelhantes, como granitoides, a continuidade e a geometria dos corpos podem ser investigadas por meio do GPR a partir das diferenças nas características texturais e nos padrões de reflexão entre as rochas encaixantes e os corpos pegmatíticos, desde que exista contraste eletromagnético suficiente. A Magnetometria (MAG) desempenha um papel importante no mapeamento das estruturas geológicas que podem controlar o posicionamento dos pegmatitos, como falhas, fraturas e zonas de cisalhamento. A Gamaespectrometria pode apoiar o reconhecimento de unidades geológicas e associações mineralógicas superficiais, além de contribuir para a delimitação de regiões com maior potencial para a ocorrência de pegmatitos, principalmente quando a assinatura radiométrica das unidades associadas é conhecida e quando os corpos estão inseridos em rochas com respostas radiométricas distintas. Entretanto, nenhum dos métodos mencionados mede diretamente o teor de lítio ou permite distinguir, de forma inequívoca, pegmatitos mineralizados de corpos estéreis. A seleção e a combinação dos métodos devem ser fundamentadas em estudos petrofísicos, no conhecimento geológico e nas características das ocorrências conhecidas na região.",
+                                                             "Em depósitos de lítio associados a salmouras, os Métodos Eletromagnéticos (EM) convencionais e o Audiomagnetotelúricos (AMT) podem contribuir para investigar unidades condutivas, a geometria das bacias e possíveis zonas de acumulação de fluidos. A condutividade elétrica, entretanto, é influenciada por fatores como a salinidade total, a presença de argilominerais e às condições de saturação, não permitindo determinar diretamente a concentração de lítio. A confirmação do potencial depende, portanto, da integração dos dados com as informações hidrogeológicas, amostragem de fluidos e análises químicas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "terras-raras",
+                                          "title":  "Terras Raras",
+                                          "paragraphs":  [
+                                                             "Nos depósitos de terras raras hospedados em regolito, incluindo os de adsorção iônica, a investigação pode se concentrar na espessura e na continuidade do perfil de intemperismo, nas características do substrato rochoso e nas condições geomorfológicas e de drenagem. A Eletrorresistividade (RES), os Métodos Eletromagnéticos (EM) e os Métodos Sísmicos podem auxiliar na caracterização de contrastes locais, bem como apoiar a interpretação das interfaces entre solo, saprólito e rocha. O GPR, incluindo sistemas de baixa frequência como o UltraGPR, pode ser avaliado para investigar interfaces rasas e a geometria do perfil de alteração, desde que as condições elétricas do meio permitam uma penetração adequada do sinal e que sua aplicabilidade seja verificada mediante testes locais. Na prospecção de terras raras, os métodos geofísicos contribuem para a caracterização das propriedades físicas do meio hospedeiro, a identificação de contrastes litológicos e a delimitação de horizontes potencialmente enriquecidos nesses elementos. A Gamaespectrometria, em escala prospectiva, pode ser utilizada tanto para auxiliar no mapeamento e na diferenciação das unidades geológicas em superfície quanto na identificação de anomalias radiométricas associadas a diferentes intensidades de alteração intempérica. Destacam-se, nesse contexto, as anomalias de tório, uma vez que esse elemento apresenta menor mobilidade durante os processos de lixiviação, podendo resultar em seu enriquecimento relativo em condições de intemperismo intenso. Entretanto, a confirmação da mineralização, a determinação dos teores de terras raras e a avaliação da fração efetivamente extraível dependem da integração dos resultados geofísicos com dados de amostragem, caracterização mineralógica, análises geoquímicas e ensaios específicos de extração."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "manganes",
+                                          "title":  "Manganês",
+                                          "paragraphs":  [
+                                                             "Nos depósitos de manganês, os métodos geofísicos podem auxiliar na investigação de camadas, lentes e concentrações supergênicas, bem como de estruturas geológicas que controlam sua distribuição. Os contrastes geofísicos variam em função da presença de óxidos, hidróxidos de manganês, carbonatos, minerais de ferro, argilominerais e água. Dessa forma, corpos manganesíferos podem apresentar respostas elétricas distintas conforme as características mineralógicas texturais e hidrogeológicas locais, não havendo um padrão universal de alta ou baixa resistividade.",
+                                                             "A Eletrorresistividade (RES) e a Polarização Induzida (IP) destacam-se na investigação de mineralizações associadas a óxidos e hidróxidos de manganês, permitindo reconhecer variações de resistividade elétrica e cargabilidade potencialmente relacionadas à distribuição e à continuidade dos corpos mineralizados. Os Métodos Eletromagnéticos (EM) podem complementar essas investigações na identificação de corpos com condutividade elétrica suficientemente elevada, enquanto a Gravimetria (GRAV) pode auxiliar na delimitação de concentrações minerais que apresentem contrastes positivos de densidade em relação às rochas encaixantes. A Magnetometria (MAG), por sua vez, contribui principalmente para o mapeamento de estruturas geológicas, contatos litológicos e associações com minerais magnéticos, embora sua aplicabilidade direta dependa da composição mineralógica do depósito. A integração dessas informações com dados geológicos, geoquímicos e de sondagens permite reduzir as incertezas interpretativas e orientar a definição de alvos prioritários para investigação."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "fosfato",
+                                          "title":  "Fosfato",
+                                          "paragraphs":  [
+                                                             "Na prospecção de depósitos de fosfato, os métodos geofísicos contribuem para a identificação de ambientes geológicos favoráveis à mineralização, a delimitação de corpos hospedeiros e a caracterização de sua geometria em subsuperfície. Em depósitos associados a complexos alcalino-carbonatíticos, destacam-se a Magnetometria (MAG) e a Gravimetria (GRAV), que auxiliam no reconhecimento de intrusões, contatos litológicos e estruturas associadas à mineralização, especialmente quando há contrastes de propriedades físicas entre as unidades geológicas, como aqueles relacionados à presença de minerais magnéticos, a exemplo da magnetita. A Gamaespectrometria pode complementar essas investigações por meio da identificação de anomalias radiométricas associadas à presença de radioelementos em determinados minerais fosfáticos ou em suas associações mineralógicas. Em depósitos fosfáticos residuais, a Eletrorresistividade (RES) pode contribuir para a caracterização e delimitação dos horizontes de intemperismo, enquanto a Polarização Induzida (IP) pode ser empregada de forma complementar quando a presença de minerais polarizáveis associados à mineralização produz contrastes de cargabilidade suficientemente expressivos, principalmente em regiões onde a mineralização está associada a zonas de brechamento acompanhadas de sulfetação. A integração dos resultados geofísicos com informações geológicas, geoquímicas e de sondagens é fundamental para confirmar a mineralização e avaliar sua continuidade e potencial econômico."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "potassio",
+                                          "title":  "Potássio",
+                                          "paragraphs":  null
+                                      },
+                                      {
+                                          "id":  "bauxita",
+                                          "title":  "Bauxita",
+                                          "paragraphs":  [
+                                                             "Na prospecção de depósitos de bauxita, os métodos geofísicos contribuem para a caracterização dos perfis de intemperismo, a delimitação dos horizontes lateríticos e a identificação de regiões potencialmente enriquecidas em minerais de alumínio. Esses depósitos estão frequentemente associados a processos intensos de alteração intempérica, que promovem a lixiviação de elementos mais móveis e o enriquecimento residual de minerais aluminosos. As diferenças de composição mineralógica, porosidade, umidade e grau de alteração entre os horizontes podem produzir contrastes de propriedades físicas que permitem sua investigação por diferentes métodos geofísicos.",
+                                                             "A Eletrorresistividade (RES) destaca-se na caracterização dos contrastes geoelétricos entre os horizontes bauxíticos, materiais argilosos e o substrato rochoso, contribuindo para a delimitação dos corpos mineralizados e a estimativa de suas espessuras e continuidade lateral. Em depósitos estratiformes, esses contrastes podem favorecer a identificação da geometria dos horizontes mineralizados, cujas respostas elétricas variam conforme a composição mineralógica, a porosidade, a umidade e o grau de alteração intempérica.",
+                                                             "O Radar de Penetração no Solo (GPR) complementa essas investigações, especialmente em depósitos rasos, permitindo reconhecer interfaces, variações de espessura e descontinuidades entre os horizontes lateríticos. Em depósitos estratiformes, a identificação de refletores associados aos contrastes de propriedades eletromagnéticas pode auxiliar na caracterização da geometria e continuidade lateral dos corpos bauxíticos, desde que as condições elétricas do meio permitam adequada penetração e resolução do sinal.",
+                                                             "A Gravimetria (GRAV) pode ser utilizada de forma complementar quando existem contrastes de densidade suficientemente expressivos entre os corpos bauxíticos e os materiais adjacentes, contribuindo para a investigação de sua geometria e distribuição espacial. A integração desses métodos auxilia no reconhecimento de regiões prioritárias e no planejamento de sondagens. Entretanto, a identificação dos horizontes economicamente aproveitáveis depende da validação por dados geológicos, geoquímicos e de sondagem, incluindo análises dos teores de alumina (Al₂O₃), sílica reativa e outros parâmetros relacionados à qualidade do minério."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "grafita",
+                                          "title":  "Grafita",
+                                          "paragraphs":  [
+                                                             "Na prospecção de depósitos de grafita, os métodos geofísicos destacam-se pela possibilidade de identificar contrastes expressivos de condutividade elétrica entre os corpos mineralizados e suas rochas encaixantes. Os Métodos Eletromagnéticos (EM) são particularmente relevantes na detecção de zonas condutivas associadas a concentrações de grafita, especialmente quando apresentam espessura, volume e continuidade elétrica suficientes para produzir anomalias detectáveis. A Eletrorresistividade (RES) contribui para a identificação e delimitação de zonas de baixa resistividade, potencialmente relacionadas à presença de materiais grafitosos, enquanto a Polarização Induzida (IP) pode auxiliar no reconhecimento de concentrações de grafita que apresentem respostas de cargabilidade expressivas. Esses métodos são especialmente relevantes na investigação de depósitos de grafita em flocos (flake graphite), nos quais a distribuição, a concentração e a conectividade dos minerais de grafita influenciam diretamente as respostas geoelétricas. A Magnetometria (MAG) complementa essas investigações ao permitir o mapeamento de estruturas geológicas, contatos litológicos e unidades hospedeiras potencialmente favoráveis à mineralização, especialmente quando apresentam contrastes de propriedades magnéticas. A integração dos resultados geofísicos com informações geológicas, geoquímicas e de sondagens permite delimitar alvos prospectivos, avaliar a continuidade dos corpos mineralizados e orientar campanhas de investigação de detalhe."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "uranio",
+                                          "title":  "Urânio",
+                                          "paragraphs":  [
+                                                             "Na exploração de urânio, a Gamaespectrometria terrestre ou aérea permite identificar anomalias radiométricas próximas à superfície e distinguir as contribuições de potássio, urânio e tório. O canal de urânio geralmente fornece a estimativa do urânio equivalente (eU), calculada a partir da radiação gama emitida por radionuclídeos descendentes de sua cadeia de decaimento, sendo esse um método de detecção primaria do alvo em questão. Fatores como cobertura superficial, umidade e desequilíbrio radioativo podem influenciar a resposta, de modo que a ausência de anomalia radiométrica superficial não exclui mineralização em profundidade.",
+                                                             "Para alvos encobertos, métodos como a Eletrorresistividade (RES), os Métodos Eletromagnéticos (EM) e a Magnetometria (MAG) podem auxiliar no mapeamento das rochas hospedeiras, das estruturas geológicas e das características físicas associadas a ambientes favoráveis à mineralização, conforme o modelo do depósito. A Perfilagem Gama Natural em furos de sondagem contribui para identificar intervalos radioativos e correlacioná-los entre as sondagens. A integração dos resultados geofísicos com dados geológicos, geoquímicos e de sondagens permite delimitar alvos prospectivos, orientar investigações de detalhe e reduzir as incertezas relacionadas à geometria e à continuidade dos corpos mineralizados."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "engenharia.html",
+                      "title":  "Engenharia",
+                      "subtitle":  "Conhecer o subsolo antes de construir, intervir ou avançar.",
+                      "headlineHtml":  "Conhecer o subsolo antes de \u003cspan\u003econstruir, intervir ou avançar.\u003c/span\u003e",
+                      "lead":  "Caracterização do subsolo e investigação de fundações, interferências subterrâneas e cavidades para apoiar projetos e obras de engenharia.",
+                      "intro":  [
+                                    "Em projetos de engenharia, a investigação geofísica pode contribuir para a caracterização das condições subsuperficiais e para a identificação de estruturas, interferências, vazios e variações do terreno.",
+                                    "O objetivo é ampliar as informações disponíveis para apoiar o planejamento e as decisões técnicas do projeto."
+                                ],
+                      "introTitle":  "Conhecer o subsolo antes de construir, intervir ou avançar.",
+                      "listTitle":  "Aplicações em engenharia",
+                      "list":  [
+                                   "Investigação de fundações",
+                                   "Mapeamento de interferências subterrâneas",
+                                   "Identificação de vazios, cavidades e zonas de fraqueza",
+                                   "Determinação da espessura do solo e profundidade do embasamento"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações para Engenharia",
+                      "details":  [
+                                      {
+                                          "id":  "investigacao-de-fundacoes",
+                                          "title":  "Investigação de fundações",
+                                          "paragraphs":  [
+                                                             "Variações na espessura do solo, presença de aterros heterogêneos, blocos rochosos, cavidades e zonas de rocha alterada podem representar desafios ao planejamento e ao dimensionamento de fundações, além de contribuir para comportamentos geotécnicos distintos entre os pontos de apoio de uma estrutura. Nesse contexto, os métodos geofísicos permitem investigar a distribuição espacial e a continuidade dessas condições, complementando as informações obtidas por sondagens e ensaios geotécnicos. A partir de contrastes de velocidade sísmica e resistividade elétrica, é possível identificar diferentes domínios geológico-geotécnicos e delimitar setores que demandam investigações complementares.",
+                                                             "A Sísmica de Refração (SR) (SR) auxilia na caracterização do perfil de velocidades sísmicas e na identificação de interfaces entre solos, materiais alterados e rocha. O MASW (Multichannel Analysis of Surface Waves) permite estimar a velocidade de propagação das ondas de cisalhamento (Vs), parâmetro associado à rigidez dos materiais em pequenas deformações. A Eletrorresistividade (RES), por meio de investigações 2D ou 3D, complementa a caracterização do subsolo, permitindo identificar heterogeneidades, possíveis cavidades e zonas com diferentes condições de alteração e saturação.",
+                                                             "A integração dos resultados geofísicos com as investigações geotécnicas contribui para o refinamento do modelo geológico-geotécnico, o direcionamento de sondagens complementares e a avaliação de alternativas de fundação. Entretanto, a determinação da capacidade de carga e a estimativa de recalques exigem análises geotécnicas específicas, considerando as propriedades dos materiais, as condições de carregamento e as características da estrutura."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "mapeamento-de-interferencias",
+                                          "title":  "Mapeamento de interferências subterrâneas",
+                                          "paragraphs":  [
+                                                             "Muitas áreas construídas não possuem registros completos ou atualizados da localização de cabos elétricos, redes de comunicação, tubulações de água, esgoto, gás e outras estruturas enterradas. Intervenções realizadas sem esse conhecimento podem causar acidentes, interrupções de serviços, danos às instalações e atrasos na obra. A investigação geofísica auxilia na localização e mapeamento dessas interferências antes de escavações, perfurações ou implantação de novas estruturas.",
+                                                             "O GPR (Radar de Penetração no Solo) utiliza ondas eletromagnéticas para identificar reflexões produzidas por contrastes nas propriedades eletromagnéticas entre os objetos enterrados e o terreno. O método pode detectar interferências metálicas e não metálicas, desde que exista contraste suficiente em relação ao meio circundante, permitindo interpretar seu traçado e estimar suas profundidades. A frequência das antenas é selecionada conforme as dimensões e a profundidade dos alvos. Solos muito condutivos, especialmente aqueles ricos em argilas ou com elevada salinidade, podem limitar o sinal e a profundidade de investigação.",
+                                                             "A integração entre GPR e Pipelocator amplia a capacidade de identificação e caracterização das interferências subterrâneas, combinando técnicas com diferentes princípios físicos e contribuindo para a redução de riscos durante intervenções no subsolo. Os resultados devem ser interpretados considerando as condições locais e, quando necessário, confirmados por verificações diretas antes da execução das intervenções."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "vazios-cavidades",
+                                          "title":  "Identificação de vazios, cavidades e zonas de fraqueza",
+                                          "paragraphs":  [
+                                                             "Cavidades naturais, galerias antigas, vazios sob pavimentos e zonas de desagregação podem comprometer o suporte do terreno e favorecer a ocorrência de subsidências ou colapsos em obras de engenharia. Esses alvos nem sempre apresentam indícios na superfície e podem não ser interceptados por sondagens pontuais. A geofísica permite investigar contrastes de densidade, resistividade e propagação de ondas, permitindo reconhecer anomalias compatíveis com vazios ou materiais enfraquecidos e orientar investigações complementares.",
+                                                             "O GPR (Radar de Penetração no Solo) pode identificar reflexões associadas ao contraste eletromagnético entre o terreno e uma cavidade, sendo útil na investigação de vazios relativamente rasos, desde que as condições de penetração do sinal sejam favoráveis. A Eletrorresistividade (RES), 2D ou 3D, contribui para investigar cavidades e zonas alteradas, uma vez que, vazios com ar podem produzir respostas resistivas, enquanto os que estão preenchimentos, por material argilosos ou por água, podem gerar respostas condutivas. A Microgravimetria pode identificar anomalias negativas de gravidade associadas a déficits de massa, conforme suas dimensões, profundidade e contraste com o entorno.",
+                                                             "A Sísmica de Refração (SR) e o MASW (Multichannel Analysis of Surface Waves) podem complementar a investigação de setores com velocidades reduzidas, potencialmente associados a materiais menos rígidos, alterados ou desagregados. A interpretação conjunta entre os métodos geofísicos ajuda a distinguir possíveis cavidades e variações naturais do terreno, além de orientar locais para sondagens ou inspeções complementares. A capacidade de detecção depende do tamanho, da profundidade e do preenchimento do alvo, além da resolução do levantamento."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "espessura-do-solo",
+                                          "title":  "Determinação da espessura do solo e profundidade do embasamento",
+                                          "paragraphs":  [
+                                                             "Variações na espessura do solo, profundidade do topo rochoso e grau de alteração dos materiais podem dificultar o planejamento de fundações, a estimativa de volumes e de escavação, e também a seleção de equipamentos. Os métodos geofísicos permitem investigar essas condições, contribuindo para a caracterização do perfil geológico-geotécnico e a identificação de diferentes domínios em subsuperfície.",
+                                                             "A Sísmica de Refração (SR) (SR), incluindo a interpretação tomográfica, permite estimar a geometria das interfaces entre solo, materiais alterados e rocha. Adicionalmente, as velocidades das ondas compressionais (Vp) auxiliam na avaliação preliminar da escavabilidade, permitindo diferenciar zonas potencialmente escaváveis por métodos convencionais, escarificação mecânica ou as que possam exigir desmonte. A Eletrorresistividade (RES) complementa a identificação de interfaces e variações no grau de alteração dos materiais. Em condições favoráveis, o GPR auxilia no mapeamento de interfaces rasas, enquanto o HVSR pode contribuir para estimativas da espessura da cobertura sedimentar ou de alteração."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "hidrogeologia.html",
+                      "title":  "Hidrogeologia",
+                      "subtitle":  "Investigar a água subterrânea e seu comportamento no subsolo.",
+                      "headlineHtml":  "Investigar a água subterrânea e \u003cspan\u003eseu comportamento no subsolo.\u003c/span\u003e",
+                      "lead":  "Investigação de aquíferos, fluxos subterrâneos e áreas contaminadas, com aplicações na locação de poços e no acompanhamento de plumas de contaminação.",
+                      "intro":  [
+                                    "Os métodos geofísicos auxiliam na identificação e caracterização de estruturas e condições geológicas associadas à ocorrência, ao armazenamento e à circulação da água subterrânea, como zonas de fraturamento, falhas, contatos geológicos e regiões potencialmente saturadas. Essas informações contribuem para a compreensão das condições hidrogeológicas do subsolo, subsidiando projetos de prospecção de água subterrânea, caracterização de aquíferos, monitoramento hidrogeológico e investigações ambientais."
+                                ],
+                      "introTitle":  "Investigar a água subterrânea e seu comportamento no subsolo.",
+                      "listTitle":  "Aplicações em hidrogeologia",
+                      "list":  [
+                                   "Prospecção de água subterrânea e locação de poços",
+                                   "Identificação de zonas de recarga e descarga",
+                                   "Investigação de aquíferos fraturados e porosos",
+                                   "Mapeamento da interface entre água doce e água salina",
+                                   "Investigação de áreas contaminadas",
+                                   "Mapeamento de plumas de contaminação",
+                                   "Apoio ao rebaixamento do nível d’água e desaguamento de minas"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações para Hidrogeologia",
+                      "details":  [
+                                      {
+                                          "id":  "prospeccao-de-agua",
+                                          "title":  "Prospecção de água subterrânea e locação de poços",
+                                          "paragraphs":  [
+                                                             "A perfuração de poços sem conhecimento suficiente das condições do subsolo pode resultar em estruturas de baixa produtividade ou no aproveitamento de água inadequada para o uso pretendido. A geofísica auxilia na identificação de unidades e estruturas com potencial para armazenar e transmitir água, como camadas arenosas, zonas de alteração e sistemas de fraturas. Seu objetivo é contribuir para a seleção de locais mais favoráveis à perfuração e reduzir as incertezas sobre a geometria dos possíveis aquíferos.",
+                                                             "A Eletrorresistividade (RES), por meio da técnica de campo da Sondagem Elétricas Vertical (SEV) e do Caminhamento Elétrico (CE), permite investigar contrastes resistividades entre materiais com diferentes características de composição, porosidade, saturação e salinidade. Em investigações de maior profundidade ou levantamentos de escala regional, os Métodos Eletromagnéticos (EM), como o Eletromagnético Transiente (TEM/TDEM), e o Áudiomagnetotelúricos (AMT), podem complementar a caracterização de unidades geológicas e estruturas sob cobertura."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "zonas-de-recarga-e-descarga",
+                                          "title":  "Identificação de zonas de recarga e descarga",
+                                          "paragraphs":  [
+                                                             "A identificação de zonas de recarga e descarga é fundamental para compreender a dinâmica da água subterrânea, avaliar a interação entre aquíferos e corpos hídricos superficiais e identificar áreas de maior vulnerabilidade hidrogeológica. Esses processos podem ocorrer de forma difusa ou concentrada, condicionados pelas características dos materiais, estruturas geológicas, topografia e condições hidráulicas locais. Nesse contexto, os métodos geofísicos auxiliam na identificação de zonas preferenciais de infiltração, circulação e descarga da água subterrânea, a partir de variações nas propriedades físicas dos materiais.",
+                                                             "A Eletrorresistividade (RES) permite investigar contrastes de resistividade associados a diferenças de umidade, saturação, litologia e condições de alteração, contribuindo para a identificação de zonas potencialmente favoráveis à infiltração e circulação da água. O Potencial Espontâneo (SP) complementa essas investigações ao identificar anomalias elétricas potencialmente associadas ao fluxo subterrâneo, auxiliando na interpretação de caminhos preferenciais de circulação e de possíveis zonas de descarga.",
+                                                             "A integração dos resultados geofísicos com dados geológicos, hidrogeológicos, piezométricos e hidrológicos permite refinar a interpretação dos processos de recarga e descarga, contribuindo para a elaboração de modelos hidrogeológicos e o planejamento de ações de monitoramento e proteção dos recursos hídricos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "aquiferos-fraturados-e-porosos",
+                                          "title":  "Investigação de aquíferos fraturados e porosos",
+                                          "paragraphs":  [
+                                                             "A caracterização de um aquífero exige compreender sua geometria, continuidade e relação com unidades geológicas que favorecem ou restringem o fluxo de água subterrânea. Nos aquíferos porosos, a água circula, principalmente, pelos espaços entre os grãos, enquanto nos aquíferos fraturados, ocorre, predominantemente, por descontinuidades da rocha. A geofísica amplia a investigação entre poços e sondagens, ajudando a reconhecer heterogeneidades relevantes para o armazenamento e a transmissão de água.",
+                                                             "Nos aquíferos porosos, Eletrorresistividade (RES) e os Métodos Eletromagnéticos, no Domínio do Tempo (TEM/TDEM), auxiliam na diferenciação de unidades geológicas e na identificação de possíveis camadas aquíferas e confinantes. Os contrastes elétricos dependem da saturação, salinidade da água, porosidade, composição mineralógica e conteúdo de argilas.",
+                                                             "Nos aquíferos fraturados, a circulação de água depende principalmente das descontinuidades, uma vez que, a matriz rochosa, geralmente, apresenta baixa permeabilidade. Entretanto, nem toda fratura ou falha armazena ou transmite água de forma significativa, pois seu potencial aquífero depende de fatores como abertura, conectividade, preenchimento, extensão e posição no sistema hidrogeológico influenciam o potencial aquífero. A Eletrorresistividade (RES), 2D ou 3D, e os Métodos Eletromagnéticos (EM) podem reconhecer domínios com propriedades elétricas distintas, potencialmente associados a fraturamento, alteração, materiais argilosos ou presença de água nas fraturas. A Magnetometria (MAG), por sua vez, auxilia no mapeamento de lineamentos, contatos litológicos e deslocamentos de unidades magnéticas. A combinação desses métodos permite selecionar estruturas prioritárias para investigação direta.",
+                                                             "Em furos de sondagem, a perfilagem óptica ou acústica de parede permite caracterizar a orientação e as características das fraturas interceptadas. Medições de fluxo, temperatura e condutividade elétrica do fluido podem auxiliar na identificação de intervalos com entrada ou saída de água e na avaliação de possíveis conexões hidráulicas. A integração dessas informações com ensaios hidráulicos permite distinguir descontinuidades identificadas daquelas que apresentam capacidade efetivamente transmissivas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "interface-agua-doce-salgada",
+                                          "title":  "Mapeamento da interface entre água doce e água salina",
+                                          "paragraphs":  [
+                                                             "Em regiões costeiras e outros ambientes sujeitos à salinização, a exploração de água subterrânea pode alterar o equilíbrio entre águas de diferentes salinidades. Conhecer a distribuição espacial da água salina e sua evolução contribui para o planejamento dos poços, a avaliação da vulnerabilidade dos aquíferos e o monitoramento de processos de salinização. A investigação baseia-se, principalmente, nos contrastes de propriedades elétricas, uma vez que a água com maior concentração de sais dissolvidos tende a aumentar a condutividade elétrica e reduzir a resistividade dos materiais saturados.",
+                                                             "A Eletrorresistividade (RES) e os Métodos Eletromagnéticos (EM), como domínio do tempo (TEM/TDEM) e no domínio da frequência (FDEM), permitem investigar a distribuição de domínios com diferentes propriedades elétricas e permitem estimar zonas de transição entre águas de distintas salinidades. O Audiomagnetotelúrico (AMT) pode complementar os estudos em profundidades e escalas regionais. A interpretação deve considerar a litologia, o conteúdo de argilas, a porosidade e o grau de saturação, pois esses fatores também podem influenciar as respostas elétricas e dificultar a distinção entre efeitos geológicos e salinidade.",
+                                                             "A Perfilagem Elétrica e as medições de condutividade elétrica do fluido em furos, associada à coleta e à análise de amostras da água em diferentes profundidades, ajudam a calibrar os modelos geofísicos. Os levantamentos repetidos permitem acompanhar mudanças relacionadas ao bombeamento, à recarga e à evolução dos processos de salinização. Como a mistura entre águas de deferentes salinidades ocorre, frequentemente, de forma gradual, os resultados podem representar uma zona de transição, em vez de uma interface abrupta entre a água doce e a água salina."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "investigacao-de-areas-contaminadas",
+                                          "title":  "Investigação de áreas contaminadas",
+                                          "paragraphs":  null
+                                      },
+                                      {
+                                          "id":  "plumas-de-contaminacao",
+                                          "title":  "Mapeamento de plumas de contaminação",
+                                          "paragraphs":  [
+                                                             "Após a identificação de uma fonte de contaminação, é necessário avaliar a distribuição dos contaminantes no subsolo e sua relação com o fluxo subterrâneo. A geofísica complementa as investigações diretas, auxiliando na delimitação de plumas e na identificação de estruturas geológicas que condicionam sua migração.",
+                                                             "A Eletrorresistividade (RES) e os Métodos Eletromagnéticos (EM) permitem identificar contrastes de condutividade elétrica associados à contaminação, especialmente em águas enriquecidas em íons dissolvidos, como ocorre frequentemente em plumas associadas à infiltração de chorume (lixiviado de resíduos sólidos), que tende a produzir anomalias de baixa resistividade elétrica. A Polarização Induzida (IP) pode complementar essa caracterização, enquanto o Radar de Penetração no Solo (GPR) auxilia na identificação de alterações nas propriedades eletromagnéticas e de caminhos preferenciais de migração dos contaminantes.",
+                                                             "Esses métodos também podem contribuir para a investigação de contaminantes hidrocarbonetos em fase líquida não aquosa, como os LNAPLs (Light Non-Aqueous Phase Liquids) menos densos que a água e que tendem a se acumular próximos ao nível freático, e os DNAPLs (Dense Non-Aqueous Phase Liquids), mais densos e capazes de migrar abaixo desse nível. A resposta geofísica depende das propriedades dos contaminantes e das alterações físico-químicas produzidas no meio, sendo necessária sua integração com dados de sondagens e análises químicas."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "rebaixamento-do-nivel-dagua",
+                                          "title":  "Apoio ao rebaixamento do nível d’água e desaguamento de minas",
+                                          "paragraphs":  [
+                                                             "Em minas e escavações, a presença de água subterrânea pode comprometer a segurança, a estabilidade dos taludes e a eficiência operacional. O planejamento do rebaixamento do nível d’água e do desaguamento requer o conhecimento das unidades aquíferas, das barreiras hidráulicas e das estruturas geológicas que condicionam a circulação da água. A geofísica contribui para essa investigação, reduzindo as incertezas dos modelos geológicos e hidrogeológicos e auxiliando no planejamento dos sistemas de drenagem.",
+                                                             "A Eletrorresistividade (RES), conforme a profundidade e a escala de investigação, permite caracterizar unidades geológicas e identificar zonas potencialmente associadas à saturação e ao fraturamento. A integração desses resultados com sondagens, perfilagens geofísicas e ensaios hidráulicos contribui para a identificação de zonas de circulação de água e para o posicionamento de poços de bombeamento e sistemas de drenagem.",
+                                                             "Durante o desaguamento, levantamentos elétricos repetidos no tempo e o Potencial Espontâneo (SP) podem auxiliar no monitoramento de alterações associadas à redistribuição da água subterrânea e na identificação de possíveis caminhos de fluxo. A integração desses dados com medições piezométricas, vazões de bombeamento e modelos hidrogeológicos permite avaliar a resposta do aquífero ao rebaixamento e subsidiar o planejamento e a otimização dos sistemas de desaguamento."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "arqueologia.html",
+                      "title":  "Arqueologia",
+                      "subtitle":  "Investigar o subsolo preservando o contexto da área.",
+                      "headlineHtml":  "Investigar o subsolo \u003cspan\u003epreservando o contexto da área.\u003c/span\u003e",
+                      "lead":  "Investigação geofísica para apoiar a identificação de estruturas e objetos arqueológicos enterrados.",
+                      "intro":  [
+                                    "Em investigações arqueológicas, localizar estruturas enterradas sem escavações extensivas é importante para preservar o patrimônio e direcionar os trabalhos de campo. Estruturas como fundações antigas, muros, pisos, sepultamentos, fossas e vestígios de ocupação podem apresentar contrastes nas propriedades eletromagnéticas, na resistividade elétrica e na suscetibilidade magnética em relação aos materiais do terreno. A geofísica permite investigar esses contrastes de forma não invasiva, auxiliando no reconhecimento da distribuição espacial e da organização dos possíveis vestígios arqueológicos."
+                                ],
+                      "introTitle":  "Investigar o subsolo preservando o contexto da área.",
+                      "listTitle":  "Métodos aplicados",
+                      "list":  [
+                                   "GPR",
+                                   "Magnetometria",
+                                   "Eletrorresistividade"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações para Arqueologia",
+                      "details":  [
+                                      {
+                                          "id":  "metodos-geofisicos",
+                                          "title":  "GPR, Magnetometria e Eletrorresistividade",
+                                          "paragraphs":  [
+                                                             "O GPR (Radar de Penetração no Solo) pode identificar reflexões associadas a estruturas e interfaces enterradas, permitindo estimar profundidades e produzir imagens em diferentes níveis do subsolo. A Magnetometria (MAG), especialmente o levantamento de gradiente magnético, é útil para investigar fornos, áreas de queima, objetos ferrosos e preenchimentos de fossas ou valas com propriedades magnéticas contrastantes em relação ao terreno adjacente. A Eletrorresistividade (RES) pode complementar o mapeamento de fundações e muros, que pode apresentar resistividade mais elevada, ou de escavações antigas preenchidas por materiais com propriedades elétricas diferentes do entorno."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "integracao-e-preservacao",
+                                          "title":  "Integração dos métodos e preservação do sítio",
+                                          "paragraphs":  [
+                                                             "A integração dos métodos geofísicos com informações históricas, levantamento topográfico e interpretação arqueológica auxilia na delimitação de áreas prioritárias para escavação, no planejamento de intervenções e na preservação dos sítios. A escolha das técnicas deve considerar as dimensões e a profundidade dos vestígios, as condições do solo, de umidade e as interferências modernas. As anomalias identificadas representam alvos potenciais, com base em evidências complementares."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "hidrossedimentologia.html",
+                      "title":  "Hidrossedimentologia",
+                      "subtitle":  "Investigar a dinâmica dos sedimentos e a evolução dos ambientes aquáticos",
+                      "headlineHtml":  "Investigar a dinâmica dos sedimentos e a evolução dos \u003cspan\u003eambientes aquáticos.\u003c/span\u003e",
+                      "lead":  "Investigar a dinâmica dos sedimentos e a evolução dos ambientes aquáticos",
+                      "intro":  [
+                                    "A investigação em ambientes aquáticos permite acompanhar a dinâmica de erosão, transporte e deposição de sedimentos e rejeitos de mineração em rios, reservatórios, lagos e outros ambientes submersos. Essas investigações contribuem para avaliar processos de assoreamento, alterações na geometria do leito, distribuição de depósitos sedimentares e evolução da capacidade de armazenamento de reservatórios, subsidiando o planejamento de dragagens, a gestão de recursos hídricos e o acompanhamento de impactos ambientais."
+                                ],
+                      "introTitle":  "Investigar a dinâmica dos sedimentos e a evolução dos ambientes aquáticos",
+                      "listTitle":  "Métodos aplicados",
+                      "list":  [
+                                   "Batimetria",
+                                   "Perfilador de Subfundo (Sub-Bottom Profiler – SBP)",
+                                   "GPR"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações para Hidrossedimentologia",
+                      "details":  [
+                                      {
+                                          "id":  "batimetria",
+                                          "title":  "Batimetria",
+                                          "paragraphs":  [
+                                                             "A Batimetria, por meio de levantamentos com ecobatímetros monofeixe ou multifeixe, permite mapear a geometria e a profundidade do leito submerso. A repetição dos levantamentos possibilita identificar áreas de erosão e deposição, quantificar variações volumétricas e acompanhar a evolução do assoreamento."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "perfilador-de-subfundo",
+                                          "title":  "Perfilador de Subfundo (Sub-Bottom Profiler – SBP)",
+                                          "paragraphs":  [
+                                                             "O Perfilador de Subfundo (Sub-Bottom Profiler – SBP) complementa essa investigação, permitindo identificar refletores associados a interfaces sedimentares, estimar a espessura de depósitos e caracterizar a geometria das camadas abaixo do leito."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "gpr",
+                                          "title":  "GPR",
+                                          "paragraphs":  [
+                                                             "O Radar de Penetração no Solo (GPR), inclusive por meio de sistemas aerotransportados por drones, pode contribuir para a investigação da interface entre a coluna d\u0027água e o fundo, bem como de estruturas sedimentares rasas, especialmente em ambientes de água doce com baixa condutividade elétrica. Sua aplicação depende das condições de propagação das ondas eletromagnéticas, particularmente da condutividade da água e dos sedimentos."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "integracao-de-dados",
+                                          "title":  "Integração de dados",
+                                          "paragraphs":  [
+                                                             "A integração dessas técnicas permite acompanhar a evolução morfológica e sedimentar dos ambientes aquáticos, contribuindo para a identificação de zonas de acúmulo e remoção de sedimentos, a estimativa de volumes depositados e a avaliação da dinâmica hidrossedimentológica ao longo do tempo."
+                                                         ]
+                                      }
+                                  ]
+                  },
+                  {
+                      "slug":  "monitoramento.html",
+                      "title":  "Monitoramento",
+                      "subtitle":  "Acompanhar mudanças ao longo do tempo.",
+                      "headlineHtml":  "Acompanhar \u003cspan\u003emudanças ao longo do tempo.\u003c/span\u003e",
+                      "lead":  "Acompanhamento de mudanças ao longo do tempo em áreas e estruturas, com monitoramento geofísico 4D e microssísmico.",
+                      "intro":  [
+                                    "O comportamento do subsolo e das estruturas pode variar ao longo do tempo em resposta a processos naturais, intervenções humanas e mudanças nas condições ambientais. O monitoramento geofísico, por meio de medições contínuas ou levantamentos periódicos, permite identificar e acompanhar alterações nas propriedades físicas dos materiais, contribuindo para a avaliação da evolução dessas condições.",
+                                    "A integração dos dados geofísicos com instrumentos de monitoramento convencionais amplia a compreensão espacial e temporal dos processos investigados, auxiliando na identificação de anomalias, na avaliação de tendências e no reconhecimento de possíveis condições de risco. Essas informações contribuem para a tomada de decisões, o planejamento de medidas preventivas e o acompanhamento da eficácia de intervenções."
+                                ],
+                      "introTitle":  "Acompanhar mudanças ao longo do tempo.",
+                      "listTitle":  "Aplicações de monitoramento",
+                      "list":  [
+                                   "Monitoramento de barragens, pilhas e taludes",
+                                   "Monitoramento de plumas de contaminação",
+                                   "Monitoramento microssísmico"
+                               ],
+                      "listLinks":  {
+
+                                    },
+                      "cta":  "Quero conhecer as aplicações de Monitoramento",
+                      "details":  [
+                                      {
+                                          "id":  "barragens-pilhas-e-taludes",
+                                          "title":  "Monitoramento de barragens, pilhas e taludes",
+                                          "paragraphs":  [
+                                                             "A Eletrorresistividade (RES) permite investigar a distribuição da resistividade elétrica dos materiais no subsolo, propriedade influenciada pela composição geológica, umidade, grau de saturação e salinidade da água presente nos poros e fraturas. A repetição dos levantamentos ao longo do tempo possibilita acompanhar a evolução das anomalias geoelétricas, identificando sua expansão, redução ou deslocamento, especialmente aquelas associadas a variações de saturação e à movimentação da água subterrânea. O método também pode contribuir para a investigação e o acompanhamento das superfícies freáticas, quando estas produzem contrastes elétricos identificáveis.",
+                                                             "O Potencial Espontâneo (SP) permite investigar variações naturais do potencial elétrico, incluindo aquelas associadas ao fluxo de água subterrânea por processos eletrocinéticos. O monitoramento por SP pode auxiliar na identificação de caminhos preferenciais de percolação e no acompanhamento de alterações nos padrões de fluxo, contribuindo para a avaliação do comportamento hidráulico de maciços, barragens e outras estruturas.",
+                                                             "O MASW (Multichannel Analysis of Surface Waves) permite caracterizar os materiais a partir da distribuição das velocidades das ondas cisalhantes (Vs), relacionadas às suas propriedades elásticas e à rigidez do maciço. A partir dos valores de Vs e da densidade dos materiais, é possível estimar o módulo de cisalhamento máximo (G₀) e elaborar modelos de rigidez em subsuperfície. A repetição dos levantamentos pode auxiliar na identificação de alterações nessas propriedades, potencialmente associadas a mudanças nas condições de saturação, compactação e integridade dos materiais.",
+                                                             "A Interferometria Sísmica, especialmente por meio da análise de ruído sísmico ambiental, permite acompanhar variações relativas das velocidades de propagação das ondas sísmicas no interior das estruturas, frequentemente expressas pelo parâmetro dv/v. Essas variações podem estar associadas a mudanças na rigidez dos materiais, nas condições de saturação e no estado de tensões. Por meio de sensores sísmicos instalados em pontos estratégicos, é possível realizar o monitoramento contínuo ou periódico dessas alterações, identificando tendências temporais e possíveis mudanças no comportamento mecânico de barragens, pilhas e taludes.",
+                                                             "A integração dos resultados geofísicos com inspeções de campo, instrumentação geotécnica e dados de engenharia contribui para identificar áreas prioritárias para investigação e apoiar decisões relacionadas à manutenção, ao controle de infiltrações e à gestão de riscos. Embora a geofísica amplie o conhecimento sobre as condições internas das estruturas, seus resultados devem ser interpretados em conjunto com outros dados, pois uma anomalia geofísica não representa, isoladamente, a confirmação de instabilidade ou de uma condição de risco."
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "plumas-de-contaminacao",
+                                          "title":  "Monitoramento de plumas de contaminação",
+                                          "paragraphs":  [
+                                                             "O monitoramento geofísico de plumas de contaminação permite acompanhar a distribuição e a evolução de substâncias contaminantes no solo e na água subterrânea. Esse serviço é importante em áreas industriais, aterros sanitários, instalações de mineração, postos de combustíveis e locais com histórico de vazamentos ou disposição inadequada de resíduos. A investigação auxilia na identificação de possíveis caminhos de migração dos contaminantes, na avaliação da extensão das áreas afetadas e no acompanhamento de medidas de remediação, contribuindo para o planejamento de ações de controle ambiental.",
+                                                             "A Eletrorresistividade (RES) 2D e 3D permite mapear contrastes elétricos no subsolo que podem estar associados à presença de determinados contaminantes, especialmente quando estes alteram a concentração de íons dissolvidos na água subterrânea. A repetição dos levantamentos possibilita comparar os resultados ao longo do tempo e acompanhar mudanças na distribuição dessas anomalias. Os Métodos Eletromagnéticos (EM), como domínio do tempo (TEM/TDEM) e domínio da frequência (FDEM), investigam variações da condutividade elétrica do terreno e podem complementar o mapeamento de áreas potencialmente afetadas. A Polarização Induzida (IP) pode auxiliar na caracterização de alterações físico-químicas associadas à contaminação, enquanto o Radar de Penetração no Solo (GPR) permite investigar contrastes eletromagnéticos e identificar estruturas e caminhos preferenciais de migração, especialmente em terrenos de baixa condutividade elétrica. O Potencial Espontâneo (SP) pode contribuir para a identificação de padrões de fluxo subterrâneo e de anomalias elétricas associadas",
+                                                             "A integração dos resultados geofísicos com análises químicas da água e do solo, dados de poços de monitoramento e informações sobre o fluxo subterrâneo permite avaliar a evolução da contaminação e orientar a localização de pontos adicionais de amostragem. Levantamentos repetidos também podem auxiliar na avaliação das mudanças ocorridas durante processos de remediação. Entretanto, nem todos os contaminantes produzem contrastes geofísicos detectáveis, e materiais argilosos ou águas naturalmente salinas podem gerar respostas semelhantes às de uma pluma contaminante. Por isso, a geofísica deve ser utilizada como ferramenta complementar, sendo necessária a confirmação por amostragem e análises laboratoriais para determinar a composição e a concentração dos contaminantes"
+                                                         ]
+                                      },
+                                      {
+                                          "id":  "monitoramento-microssismico",
+                                          "title":  "Monitoramento Microssísmico",
+                                          "paragraphs":  [
+                                                             "O monitoramento microssísmico permite registrar e analisar pequenos eventos sísmicos associados à movimentação de rochas, à propagação de fraturas e à redistribuição de tensões no maciço rochoso. É amplamente aplicado em operações de mineração subterrânea, escavações profundas, obras geotécnicas e reservatórios submetidos a alterações de pressão. O acompanhamento contínuo da atividade sísmica auxilia na identificação de mudanças no comportamento do maciço, na avaliação de áreas com maior concentração de eventos e na gestão da segurança operacional.",
+                                                             "O monitoramento é realizado por meio de sensores sísmicos instalados na superfície, em furos de sondagem ou no interior de minas e escavações, permitindo registrar e localizar eventos microssísmicos, estimar suas magnitudes e acompanhar sua distribuição espacial e temporal. Em operações de mineração subterrânea, por exemplo, o avanço das frentes de lavra pode provocar redistribuições de tensões e induzir processos de fraturamento no maciço rochoso. O monitoramento permite acompanhar a evolução da atividade microssísmica nas proximidades dessas escavações, auxiliando na identificação de setores com maior concentração de eventos e de possíveis alterações nas condições de estabilidade. O monitoramento microssísmico também pode ser empregado para avaliar os possíveis impactos do avanço da lavra sobre cavidades naturais e subterrâneas existentes nas proximidades. A evolução das escavações e das atividades de desmonte pode provocar alterações no estado de tensões e induzir processos de fraturamento no maciço rochoso. O acompanhamento da atividade microssísmica permite identificar e localizar eventos nas proximidades dessas cavidades, avaliar sua evolução espacial e temporal e investigar possíveis relações com o avanço da lavra, contribuindo para a avaliação de impactos e para a preservação da integridade dessas estruturas.",
+                                                             "A integração dos registros microssísmicos com dados geológicos, informações operacionais e instrumentos de monitoramento geotécnico contribui para a avaliação do comportamento do maciço e o planejamento de medidas preventivas. Os resultados podem subsidiar decisões relacionadas à sequência de lavra, ao dimensionamento de suportes e à gestão de riscos geotécnicos."
+                                                         ]
+                                      }
+                                  ]
+                  }
+              ]
+}

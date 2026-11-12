@@ -1,0 +1,980 @@
+CHECKLIST — SITE NEOGEO
+O que precisamos da Neogeo agora.
+ Confirmar a estrutura geral do site que eles enviaram: Início / Empresa / Geotecnologias / Aplicações / P&D / Blog / SMS / Parceiros / Contato.
+ Confirmar se todas as Geotecnologias e Soluções listadas precisam ter página própria ou se algumas ficarão agrupadas.
+ Enviar ou indicar onde estão os textos institucionais atuais: história, empresa, diferenciais, atuação etc.
+ Enviar materiais técnicos existentes sobre Geotecnologias e Soluções. Pode ser apresentação, PDF, proposta, catálogo ou texto bruto — não precisa estar pronto para site.
+ Definir quais Aplicações/serviços são prioridade comercial e precisam ganhar mais destaque.
+ Enviar a lista definitiva de parceiros e materiais/logos de cada um.
+ Explicar rapidamente o que deve existir nas áreas P&D e SMS, porque apenas o nome dessas páginas ainda não define o conteúdo.
+ Enviar os principais contatos comerciais, endereço, telefones, e-mails e redes sociais.
+ Definir quem será a pessoa da Neogeo responsável por aprovar estrutura, textos e design.
+ Confirmar se possuem fotos próprias de campo, equipamentos, equipe e projetos que poderão ser utilizadas.
+ETAPA 1 — Arquitetura do site
+ Revisar toda a estrutura enviada pela Neogeo.
+ Organizar a hierarquia das páginas.
+ Definir menu principal e submenu.
+ Decidir como Geotecnologias serão organizadas.
+ Decidir como Soluções serão organizadas.
+ Criar a estrutura da Home.
+ Definir os CTAs principais.
+ Definir onde entram formulários comerciais.
+ Montar o sitemap completo.
+ Enviar a arquitetura para aprovação da Neogeo.
+Entregas: sitemap + estrutura das páginas.
+ETAPA 2 — Conteúdo
+ Mining transforma os materiais enviados pela Neogeo em textos para o site.
+ Criar copy da Home.
+ Criar texto institucional.
+ Criar textos das páginas de Geotecnologias.
+ Criar textos das páginas de Soluções.
+ Criar textos de P&D, SMS, Parceiros e Contato.
+ Definir títulos, chamadas e CTAs.
+ Neogeo faz a validação técnica das informações.
+ETAPA 3 — Design
+ Criar direção visual do site usando o branding já enviado.
+ Criar design da Home primeiro.
+ Apresentar Home para aprovação.
+ Ajustar direção visual.
+ Desenvolver as páginas internas seguindo o padrão aprovado.
+ Enviar conjunto final para aprovação.
+ETAPA 4 — Desenvolvimento
+ Desenvolver o site em WordPress.
+ Construir páginas.
+ Configurar versão responsiva.
+ Inserir textos e imagens.
+ Configurar formulários.
+ Configurar CTAs.
+ Implementar SEO básico.
+ Fazer testes.
+ Preparar versão para homologação.
+ETAPA 5 — Aprovação final
+ Neogeo revisa o site funcionando.
+ Neogeo envia ajustes consolidados.
+ Mining executa ajustes dentro do escopo.
+ Neogeo aprova versão definitiva.
+ Publicação.
+MENU PRINCIPAL
+Início
+A Empresa
+Geotecnologias
+Métodos elétricos e eletromagnéticos
+Métodos sísmicos
+Métodos potenciais
+Radar e investigação de alta resolução
+Levantamentos aéreos com drones
+Perfilagem geofísica
+Aplicações
+Geotecnia
+Exploração Mineral
+Engenharia
+Hidrogeologia
+Arqueologia
+Monitoramento
+P&D                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+SMS
+Parceiros
+Blog
+Contato
+SITEMAP
+INÍCIO
+/
+A EMPRESA
+/a-empresa/
+GEOTECNOLOGIAS
+/geotecnologias/
+│
+├── Métodos elétricos e eletromagnéticos
+│   /geotecnologias/metodos-eletricos-e-eletromagneticos/
+│
+├── Métodos sísmicos
+│   /geotecnologias/metodos-sismicos/
+│
+├── Métodos potenciais
+│   /geotecnologias/metodos-potenciais/
+│
+├── Radar e investigação de alta resolução
+│   /geotecnologias/radar-e-investigacao-de-alta-resolucao/
+│
+├── Levantamentos aéreos com drones
+│   /geotecnologias/levantamentos-aereos-com-drones/
+│
+└── Perfilagem geofísica
+    /geotecnologias/perfilagem-geofisica/
+APLICAÇÕES
+/solucoes/
+│
+├── Geotecnia
+│   /solucoes/geotecnia/
+│
+├── Exploração Mineral
+│   /solucoes/exploracao-mineral/
+│
+├── Engenharia
+│   /solucoes/engenharia/
+│
+├── Hidrogeologia
+│   /solucoes/hidrogeologia/
+│
+├── Arqueologia
+│   /solucoes/arqueologia/
+│
+└── Monitoramento
+    /solucoes/monitoramento/
+P&D
+/pesquisa-desenvolvimento/
+SMS
+/sms/
+PARCEIROS
+/parceiros/
+BLOG
+/blog/
+│
+└── Artigo — modelo reutilizável
+    /blog/titulo-do-artigo/
+CONTATO
+/contato/
+[BLOCO 1] ABERTURA
+[BLOCO 2] POSICIONAMENTO
+A superfície mostra apenas parte do cenário.
+A distribuição dos materiais, as estruturas geológicas e as condições em profundidade influenciam o planejamento de um projeto. A investigação geofísica ajuda a compreender esse contexto e complementa os estudos que orientam as avaliações técnicas.
+[BLOCO 3] A EMPRESA
+Experiência em campo.
+Conhecimento para interpretar.
+Desde 2010, desenvolvemos projetos de geofísica a partir dos objetivos de cada cliente.
+Com sede em Belo Horizonte, reunimos profissionais de geofísica, geologia e engenharia para planejar investigações, adquirir e processar dados e interpretar as características do subsolo. Nosso trabalho conecta as informações levantadas em campo às questões que cada projeto precisa responder.
+(QUERO CONHECER A NEOGEO)
+[BLOCO 4] GEOTECNOLOGIAS
+Como investigamos
+Cada desafio pede uma estratégia de investigação.
+(QUERO EXPLORAR AS GEOTECNOLOGIAS)
+Métodos elétricos e eletromagnéticos
+Eletrorresistividade, polarização induzida e outras técnicas de investigação das propriedades elétricas e eletromagnéticas do subsolo.
+Métodos sísmicos
+Análise de ondas sísmicas para caracterizar materiais, investigar estruturas e acompanhar mudanças no subsolo. Neogeo Geotecnologia
+Métodos potenciais
+Magnetometria, gravimetria e gamaespectrometria para compor a investigação geológica e mineral.
+Radar e investigação de alta resolução
+Geotecnologias de GPR para investigar estruturas, objetos e interferências no subsolo, com diferentes configurações de levantamento. Neogeo Geotecnologia
+Levantamentos aéreos com drones
+Levantamentos geofísicos e mapeamento com drones, incluindo magnetometria, gamaespectrometria, GPR, LiDAR e aerofotogrametria.
+Perfilagem geofísica
+Medições em poços e furos de sondagem para caracterizar as propriedades físicas das formações geológicas. Neogeo Geotecnologia
+[BLOCO 5] APLICAÇÕES
+Onde aplicamos
+Qual desafio o seu projeto precisa resolver?
+Investigar uma área, caracterizar o subsolo ou acompanhar mudanças em uma estrutura. Conheça nossas soluções por área de aplicação.
+Geotecnia
+Investigação e monitoramento de barragens, pilhas, taludes e outras estruturas para apoiar a caracterização geológico-geotécnica.
+Exploração Mineral
+Investigação de alvos e estruturas geológicas para orientar campanhas de pesquisa e exploração de diferentes substâncias minerais. Neogeo Geotecnologia
+Engenharia
+Caracterização do subsolo e investigação de fundações, interferências subterrâneas e cavidades para apoiar projetos e obras de engenharia.
+Hidrogeologia
+Investigação de aquíferos, fluxos subterrâneos e áreas contaminadas, com aplicações na locação de poços e no acompanhamento de plumas de contaminação.
+Arqueologia
+Investigação geofísica para apoiar a identificação de estruturas e objetos arqueológicos enterrados. Neogeo Geotecnologia
+Monitoramento
+Acompanhamento de mudanças ao longo do tempo em áreas e estruturas, com monitoramento geofísico 4D e microssísmico.
+(QUERO CONHECER AS APLICAÇÕES)
+[BLOCO 6] DIFERENCIAIS
+Como trabalhamos
+O cuidado com o resultado começa no planejamento.
+Investigação orientada pelo seu objetivo
+Planejamos cada projeto considerando as perguntas que precisam ser respondidas e as informações necessárias para o estudo. Neogeo Geotecnologia
+Controle de qualidade nas etapas técnicas
+Aquisição, processamento, interpretação e modelagem dos dados com controle de qualidade ao longo do trabalho. Neogeo Geotecnologia
+Conhecimento de diferentes especialidades
+Profissionais de geofísica, geologia e engenharia contribuem para o planejamento e a interpretação das investigações. Neogeo Geotecnologia
+Resultados integrados para seu objetivo
+A Neogeo busca transformar dados geofísicos em respostas para o seu projeto, integrando resultados e interpretações em relatórios técnicos claros, orientados à sua demanda e às decisões que você precisa tomar.
+Segurança e responsabilidade na operação
+A saúde das equipes, a segurança do trabalho e o respeito ao meio ambiente orientam nossa atuação.
+[BLOCO 7] PESQUISA E DESENVOLVIMENTO
+P&D
+Desenvolvemos tecnologia para os desafios que encontramos em campo.
+Nosso departamento de Pesquisa e Desenvolvimento cria softwares e sistemas para aquisição, processamento e interpretação de dados geofísicos. Também contribuímos com pesquisas científicas e desenvolvemos aplicações para demandas específicas dos projetos.
+Entre essas soluções está o GEOTRACK, sistema próprio de monitoramento microssísmico que integra o registro de sinais sísmicos e o processamento de dados.
+(QUERO CONHECER O P&D)
+[BLOCO 8] PARCEIROS
+Conhecimento e tecnologia em parceria
+Conheça as empresas parceiras da Neogeo e suas áreas de atuação.
+[LOGOTIPOS]
+[BLOCO 9] CONTATO
+O que o seu projeto precisa investigar?
+Conte o objetivo do estudo e onde ele será realizado. Nossa equipe vai avaliar a demanda e conversar com você sobre os próximos passos. 
+Ainda não sabe qual método utilizar? Comece pelo desafio. Vamos entender juntos as necessidades da investigação.
+(FALAR DO MEU PROJETO)
+[BLOCO 1] ABERTURA
+A Neogeo
+Conhecimento técnico para investigar o que está abaixo da superfície.
+Desde 2010, desenvolvemos projetos de geofísica aplicados aos desafios de mineração, geotecnia, engenharia e meio ambiente.
+Com sede em Belo Horizonte e atuação em diferentes regiões do Brasil e da América Latina, reunimos conhecimento técnico, experiência de campo e tecnologia para transformar dados do subsolo em informações que apoiam decisões.
+[BLOCO 2] QUEM SOMOS
+Cada projeto começa por uma pergunta que precisa ser respondida.
+A Neogeo nasceu da aplicação da geofísica a problemas reais.
+Planejamos cada investigação a partir dos objetivos do projeto, considerando as características da área, as informações necessárias e os métodos mais adequados para obtê-las.
+Nosso trabalho percorre toda a cadeia da investigação geofísica: planejamento, aquisição de dados em campo, controle de qualidade, processamento, interpretação e modelagem.
+Essa integração permite construir uma leitura mais completa do subsolo e entregar informações técnicas que contribuam para o entendimento de cada cenário.
+[BLOCO 3] NOSSA ATUAÇÃO
+Experiência construída em campo.
+Geofísica aplicada a diferentes contextos e desafios.
+Ao longo da nossa trajetória, participamos de projetos relacionados à investigação geológico-geotécnica, exploração mineral, engenharia, hidrogeologia, monitoramento e outras aplicações da geofísica.
+Cada cenário exige uma combinação diferente de conhecimento, tecnologia e estratégia de investigação.
+Por isso, trabalhamos com diferentes métodos geofísicos e integramos especialistas de áreas como geofísica, geologia e engenharia no desenvolvimento dos projetos.
+(QUERO CONHECER AS APLICAÇÕES)
+[BLOCO 4] NÚMEROS
+Experiência que atravessa projetos, territórios e diferentes desafios técnicos.
++350
+Projetos executados no Brasil.
++9.950 km
+De dados geofísicos adquiridos.
++70
+Barragens incluídas em projetos realizados pela Neogeo.
+Atuação na América Latina
+Projetos desenvolvidos dentro e fora do Brasil.
+(QUERO FAZER PARTE DESSES NÚMEROS)
+[BLOCO 5] COMO TRABALHAMOS
+Do planejamento à interpretação.
+Entender o objetivo
+Antes de definir um método, entendemos o problema, o contexto da área e quais informações o projeto precisa obter.
+Planejar a investigação
+A estratégia de aquisição é definida considerando características técnicas, condições de campo e objetivos do estudo.
+Adquirir dados com qualidade
+As campanhas de campo seguem procedimentos de controle para garantir consistência e confiabilidade aos dados coletados.
+Processar e interpretar
+Os dados são processados, analisados e integrados ao contexto técnico do projeto.
+Transformar dados em informação
+O resultado final precisa ajudar a compreender o subsolo e apoiar as próximas decisões do projeto.
+[BLOCO 6] MVV
+Missão
+Oferecer geotecnologias e resultados geofísicos diferenciados, inovadores e confiáveis, com foco em sustentabilidade, valorização das pessoas e satisfação dos clientes.
+Visão
+Ser referência global em nossa área de atuação, reconhecida por resultados que contribuam para o desenvolvimento de novas tecnologias e soluções escaláveis.
+Valores
+Noção de pertencimento
+Construir uma empresa da qual as pessoas façam parte.
+Orientação a resultados com segurança
+Buscar resultados sem abrir mão da segurança das pessoas e das operações.
+Respeito às pessoas e ao meio ambiente
+Conduzir nossas atividades com responsabilidade.
+Transparência nas relações
+Construir relações claras com clientes, parceiros e equipe.
+Excelência em qualidade e inovação
+Evoluir continuamente nossos processos, tecnologias e entregas.
+[BLOCO 7] NOSSO TIME
+Diferentes especialidades. Um mesmo projeto.
+Nossa equipe reúne profissionais de geofísica, geologia, engenharia, operações, planejamento, segurança e outras áreas que participam das diferentes etapas dos projetos.
+Do planejamento à aquisição em campo, do processamento à interpretação dos dados, cada especialidade contribui para construir uma investigação mais consistente.
+[INSERIR FOTOS + NOME + CARGO DOS PROFISSIONAIS]
+[BLOCO 8] PRESENÇA
+De Belo Horizonte para diferentes territórios.
+Com sede em Minas Gerais, desenvolvemos projetos em diferentes regiões do Brasil e da América Latina, adaptando métodos, equipes e estratégias às características de cada operação.
+[INSERIR MAPA DE ATUAÇÃO / PROJETOS]
+[BLOCO 9] CLIENTES
+Empresas que confiam no nosso trabalho
+Ao longo da nossa trajetória, desenvolvemos projetos para empresas de diferentes setores e portes.
+[INSERIR LOGOTIPOS DOS CLIENTES APROVADOS PELA NEOGEO]
+[BLOCO 10] CONTATO
+Vamos entender o que existe abaixo da superfície do seu projeto?
+Conte para nossa equipe o que você precisa investigar. A partir do objetivo do estudo, podemos entender a demanda e orientar os próximos passos.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 1] ABERTURA
+Geotecnologias
+Diferentes métodos para investigar o que não está visível na superfície.
+A geofísica permite estudar o subsolo a partir de suas propriedades físicas, utilizando métodos indiretos e não invasivos para identificar estruturas, materiais, descontinuidades e mudanças em profundidade.
+Na Neogeo, combinamos diferentes tecnologias de acordo com o objetivo de cada projeto, as características da área e o nível de detalhamento necessário para a investigação.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 2] INTRODUÇÃO
+Como investigamos
+O método é uma escolha técnica.
+O ponto de partida é o problema.
+Não existe uma tecnologia única para todos os projetos.
+Uma investigação pode exigir a análise de propriedades elétricas, propagação de ondas sísmicas, variações do campo magnético, respostas eletromagnéticas ou diferentes combinações entre métodos.
+Por isso, cada campanha é planejada considerando o que precisa ser identificado, a profundidade de interesse, as condições de campo e as informações já disponíveis sobre a área.
+[BLOCO 3] MÉTODOS ELÉTRICOS E ELETROMAGNÉTICOS
+Investigar o subsolo a partir de suas propriedades elétricas e eletromagnéticas.
+Esses métodos permitem identificar contrastes nas propriedades físicas do subsolo, associadas à composição dos materiais, presença de fluidos, estruturas geológicas e zonas mineralizadas.
+São aplicáveis a diferentes contextos de exploração mineral, hidrogeologia, geotecnia, engenharia e estudos ambientais.
+As respostas geofísicas desses métodos são influenciadas por diferentes características dos materiais investigados, como grau de saturação, conteúdo argiloso, porosidade, conectividade dos poros saturados, além da presença, concentração e conectividade de minerais eletricamente condutivos e polarizáveis, especialmente minerais metálicos.
+Métodos disponíveis
+- Eletrorresistividade (RES)
+- Polarização Induzida (IP)
+- Potencial Espontâneo (SP)
+- Magnetotelúrico (MT) e Áudio Magnetotelúrico (AMT)
+- Eletromagnético no Domínio do Tempo (TDEM)
+- Radar de Penetração no Solo (GPR) e UltraGPR
+(QUERO CONHECER OS MÉTODOS ELÉTRICOS E ELETROMAGNÉTICOS)
+[BLOCO 4] MÉTODOS SÍSMICOS
+Entender o comportamento do subsolo a partir da propagação de ondas.
+Os métodos sísmicos são baseados na propagação de ondas mecânicas, como as ondas sonoras. O modo de propagação e a velocidade dessas ondas dependem das propriedades mecânicas do meio, como densidade (massa por unidade de volume), módulo de cisalhamento (resistência do material à deformação por cisalhamento) e módulo de compressão (resistência do material à compressão).
+Essas propriedades podem ser combinadas de diferentes formas para avaliar as características do meio, bem como para determinar propriedades derivadas, como a impedância acústica, frequentemente utilizada para descrever os fenômenos de propagação, transmissão, reflexão e refração das ondas sísmicas.
+A partir dessas informações, é possível apoiar estudos de caracterização geológica e geotécnica, investigação de interfaces e avaliação das propriedades mecânicas do terreno.
+Métodos disponíveis
+- Sísmica de Refração
+- Sísmica de Reflexão
+- MASW
+- MAM
+- HVSR
+-Análise do Ruído Ambiente (Interferometria e Microssísmica)
+(QUERO CONHECER OS MÉTODOS SÍSMICOS)
+[BLOCO 5] MÉTODOS POTENCIAIS
+Mapear variações naturais das propriedades físicas do terreno.
+Os métodos geofísicos de fontes naturais investigam as variações das propriedades físicas dos materiais a partir da medição de campos ou emissões naturais. Dentre eles, destacam-se os métodos potenciais, como a Magnetometria e a Gravimetria, que investigam variações nos campos magnético e gravitacional, respectivamente, além da gamaespectrometria, que utiliza a radiação gama natural emitida pelos materiais geológicos para caracterizar sua composição radiométrica.
+Os contrastes identificados por esses métodos auxiliam na interpretação de estruturas geológicas, na identificação de corpos minerais e na diferenciação de unidades litológicas e de materiais com diferentes graus de intemperismo, especialmente em projetos de exploração mineral e mapeamento geológico.
+Métodos disponíveis
+- Magnetometria
+- Gravimetria
+- Gamaespectrometria
+(QUERO CONHECER OS MÉTODOS POTENCIAIS)
+[BLOCO 7] LEVANTAMENTOS AÉREOS COM DRONES
+Dados geofísicos e geoespaciais adquiridos de uma nova perspectiva.
+O uso de drones amplia as possibilidades de levantamento em grandes áreas, regiões de difícil acesso e projetos que exigem maior agilidade de aquisição.
+As plataformas podem receber diferentes sensores e tecnologias para gerar informações geofísicas, topográficas e tridimensionais do terreno.
+Geotecnologias disponíveis
+- Magnetometria com drone
+- Gamaespectrometria com drone
+- GPR aerotransportado
+- LiDAR
+- Aerofotogrametria
+(QUERO CONHECER OS LEVANTAMENTOS COM DRONES)
+[BLOCO 8] PERFILAGEM GEOFÍSICA
+Investigar as propriedades das formações ao longo da profundidade.
+A perfilagem geofísica utiliza instrumentos inseridos em poços ou furos de sondagem para medir diferentes propriedades físicas das formações geológicas in situ. Essas informações ajudam a caracterizar materiais e complementar dados obtidos por sondagens e outras técnicas de investigação.
+Perfis disponíveis
+-Perfilagem de densidade (gama-gama)
+-Perfilagem de gama natural
+-Perfilagem de suscetibilidade magnética
+-Perfilagem de resistividade elétrica
+-Perfilagem de polarização induzida (IP/cargabilidade)
+-Perfilagem sônica
+[BLOCO 9] INTEGRAÇÃO DE MÉTODOS
+Investigação multimétodo
+Quando uma única leitura não é suficiente.
+Diferentes tecnologias podem responder a diferentes partes do mesmo problema.
+Por isso, projetos podem combinar métodos geofísicos e integrar seus resultados a dados geológicos, geotécnicos, topográficos e outras informações disponíveis sobre a área.
+Essa abordagem permite construir uma interpretação mais consistente do contexto investigado.
+[BLOCO 10] COMO A TECNOLOGIA ENTRA NO PROJETO
+1. Entendimento do objetivo
+A investigação começa pelo que o projeto precisa compreender.
+2. Definição da estratégia
+Selecionamos os métodos e a configuração de aquisição mais adequados ao cenário.
+3. Aquisição em campo
+Os dados são coletados conforme o planejamento técnico e os controles definidos para o projeto.
+4. Processamento e interpretação
+As informações são processadas, analisadas e integradas ao contexto da investigação.
+5. Entrega dos resultados
+Os dados são transformados em produtos e informações técnicas para apoiar as próximas etapas do projeto.
+[BLOCO 11] CONTATO
+Ainda não sabe qual tecnologia o seu projeto precisa?
+Você não precisa chegar com o método definido.
+Conte para nossa equipe o objetivo da investigação, as características da área e o que precisa ser compreendido. A partir dessas informações, podemos avaliar tecnicamente a demanda e orientar os próximos passos.
+(QUERO FALAR SOBRE MEU PROJETO)
+MÉTODOS DISPONÍVEIS
+- Eletrorresistividade (RES)
+A eletrorresistividade investiga o subsolo por meio da aplicação de corrente elétrica e da medição das diferenças de potencial entre eletrodos, avaliando a capacidade do meio de resistir a passagem de corrente elétrica (eletricidade). Fundamentada na Lei de Ohm, permite estimar a resistividade dos materiais, propriedade sensível à composição, porosidade, saturação, salinidade e grau de alteração das rochas e solos. Suas modalidades incluem o Caminhamento Elétrico (CE), que investiga variações laterais e em profundidade ao longo de perfis (2D), e a Sondagem Elétrica Vertical (SEV), voltada à caracterização da distribuição vertical de camadas em um ponto predeterminado (1D).
+Os produtos gerados, que traduzem a resposta de resistividade do meio, podem ser apresentados em perfis em profundidade (1D), mapas (2D), seções (2D) e modelos tridimensionalizados (3D), conforme a modalidade e a configuração de aquisição adotadas.
+O método é aplicável a estudos de engenharia e geotecnia, incluindo investigações de fundações, barragens, pilhas, taludes e túneis, além da pesquisa de água subterrânea, por meio de investigações de aquíferos intergranulares, fraturados e cársticos. Complementarmente, pode ser utilizado na investigação de cavidades (naturais ou antrópicas), zonas fraturadas e caminhos de infiltração.
+Na exploração mineral, auxilia na diferenciação e delimitação de contatos geológicos, mantos de alteração e estruturas de interesse, orientando a seleção de alvos e o planejamento de sondagens diretas, além de ser aplicável ao planejamento de lavra em determinados contextos. Sua aplicação é especialmente favorável quando existem contrastes de propriedades elétricas entre o alvo investigado e o meio no qual está inserido.
+- Polarização Induzida (IP)
+A Polarização Induzida (IP) avalia a capacidade dos materiais em subsuperfície de armazenar carga, similar à uma bateria ou capacitor, conhecida como cargabilidade.
+A cargabilidade de um material é medida a partir de ciclos de aplicação e interrupção da corrente elétrica. Durante determinados intervalos, uma corrente elétrica artificial é aplicada ao meio, enquanto, em outros, essa corrente é interrompida. Nos intervalos em que a corrente é interrompida, o decaimento da tensão é medido ao longo de subintervalos de tempo. A área sob a curva de decaimento da tensão, permite estimar a cargabilidade do material, relacionada à sua capacidade de armazenar energia elétrica.
+Os produtos gerados podem incluir perfis em profundidade (1D), mapas (2D), seções (2D) e modelos tridimensionais de cargabilidade. Esse método é frequentemente integrado aos dados de resistividade. Na exploração mineral, a Polarização Induzida (IP) é recorrente em investigações de alvos com sulfetos disseminados ou a presença de grafita. Em estudos geotécnicos, hidrogeológicos e ambientais, complementa a caracterização de materiais argilosos, zonas de alteração e áreas potencialmente afetadas por contaminação.
+- Potencial Espontâneo (SP)
+O Potencial Espontâneo (SP) mede diferenças naturais de potencial elétrico (voltagem) na superfície do terreno. As variações desse potencial natural são resultado de processos associados à composição química dos materiais, ao movimento de fluidos em subsuperfície e à presença de gradientes eletroquímicos, como aqueles relacionados às reações de oxirredução. Esses processos podem ser influenciados pela movimentação de água em subsuperfície (e.g., infiltração e surgência) e pela disponibilidade hídrica, uma vez que a concentração e a mobilidade dos íons dissolvidos nas águas subterrâneas são a principal influência nas medidas de potencial elétrico.
+Os produtos incluem perfis de potencial natural, apresentados ao longo de alinhamentos de investigação. A integração de diversos perfis permite a elaboração de mapas de potencial natural, a partir dos quais podem ser interpretadas zonas anômalas. O método auxilia na investigação de infiltrações e percolação de água em barragens, pilhas, diques e taludes, no mapeamento de fluxos subterrâneos e em estudos hidrogeológicos. Na exploração mineral, apoia a localização de corpos sulfetados e grafitosos associados à geração de anomalias eletroquímicas.
+- Eletromagnético no Domínio do Tempo (TDEM)
+O método Eletromagnético no Domínio do Tempo (TDEM) utiliza a variação rápida da corrente elétrica em uma bobina ou espira transmissora para gerar um campo magnético primário e induzir correntes elétricas no subsolo. Após a interrupção abrupta da corrente no transmissor, as correntes induzidas no terreno geram um campo magnético secundário, cujo decaimento é registrado ao longo do tempo. O processamento e a modelagem desse decaimento permitem estimar a distribuição da resistividade (ou condutividade) elétrica em profundidade, sem a necessidade de contato elétrico direto com o terreno.
+Os produtos gerados incluem curvas de decaimento do campo magnético secundário e mapas de resposta eletromagnética, que podem representar a intensidade do campo secundário ou estimativas da condutividade elétrica do meio. Os resultados também podem ser apresentados por meio de modelos unidimensionais (1D) e seções bidimensionais (2D) de resistividade ou condutividade elétrica. O método é amplamente aplicado à pesquisa de água subterrânea, à investigação de intrusão salina e salinização de aquíferos, à caracterização de coberturas geológicas e ao mapeamento de corpos condutivos, como depósitos de sulfetos maciços e grafita. Também auxilia em estudos geotécnicos e ambientais que demandam a delimitação de unidades geoelétricas e a identificação de zonas com contrastes de condutividade elétrica.
+- Magnetotelúrico (MT) e Áudio Magnetotelúrico (AMT)
+Os métodos Magnetotelúrico (MT) e Audiomagnetotelúrico (AMT) apresentam princípios físicos semelhantes aos dos demais métodos eletromagnéticos, porém utilizam fontes naturais de campos eletromagnéticos. As interações eletromagnéticas que ocorrem na atmosfera e na magnetosfera terrestre, geram campos eletromagnéticos naturais que se propagam pelo interior da Terra, permitindo investigar a distribuição da resistividade (ou condutividade) elétrica em subsuperfície.
+A distinção entre os métodos se dá apenas pela faixa de frequência alvo, sendo o MT ou LMT correspondentes a frequências menores que 1 Hz, favorecendo investigação de estruturas profundas (de centenas de metros a dezenas de quilômetros). Já o AMT trabalha com frequências maiores que 1 Hz, proporcionando maior resolução e sensibilidade às porções rasas e intermediárias do subsolo.
+Os produtos gerados incluem curvas de resistividade aparente e fase, seções e modelos de resistividade 1D, 2D ou 3D, acompanhados de interpretação geológico-estrutural. Na exploração mineral, os métodos auxiliam no mapeamento de falhas, contatos litológicos, zonas de alteração e condutores associados a mineralizações. Também são amplamente aplicados à pesquisa hidrogeológica, ao mapeamento de recursos geotérmicos e à caracterização regional de estruturas geológicas relevantes para obras de infraestrutura.
+Radar de Penetração no Solo (GPR) e UltraGPR
+O Radar de Penetração no Solo (Ground Penetrating Radar — GPR) é um método eletromagnético de alta frequência que transmite ondas eletromagnéticas e registra suas reflexões em interfaces com contrastes nas propriedades elétricas dos materiais. As tecnologias incluem GPR terrestre, GPR 3D, com aquisição em malhas densas ou sistemas multicanais, e GPR aerotransportado, utilizando drones. O UltraGPR é uma adaptação do método que utiliza antenas de baixa frequência e tecnologia de aquisição voltada à investigação de interfaces geológicas de maior escala, podendo alcançar profundidades de até 70 metros em condições geológicas favoráveis.
+Os produtos gerados incluem radargramas, seções interpretadas em profundidade, mapas de interfaces e anomalias e, conforme a configuração de aquisição, cortes horizontais e volumes 3D. O GPR auxilia na localização de redes enterradas, na avaliação de pavimentos e estruturas de concreto e na investigação de fundações e possíveis vazios. O UltraGPR destaca-se na avaliação da espessura de solos, coberturas e mantos de alteração, no mapeamento do topo rochoso, na identificação de determinados depósitos minerais (bauxita e pegmatitos litiníferos) e na investigação de contatos, descontinuidades e possíveis cavidades em terrenos cársticos.
+Equipamentos de maior frequência são geralmente aplicados a estudos de engenharia e geotecnia, enquanto os de menor frequência são mais utilizados em estudos geológicos. Essas informações apoiam a exploração mineral, o planejamento de sondagens e a caracterização geotécnica de áreas destinadas a barragens, cavas, pilhas e outras estruturas.
+MÉTODOS DISPONÍVEIS
+- Sísmica de Refração
+A Sísmica de Refração analisa os tempos de chegada das ondas sísmicas geradas por uma fonte controlada e registradas por geofones. Fundamentada na propagação das ondas e na Lei de Snell, permite estimar velocidades sísmicas e reconhecer contrastes associados à litologia, à rigidez, ao grau de alteração e de fraturamento e, em determinadas condições, ao grau de saturação.
+Os produtos gerados incluem seções de distribuição das velocidades sísmicas, convencionalmente associadas às ondas compressivas (Vp), estimativas das profundidades das principais interfaces sísmicas e interpretações geológico-geotécnicas voltadas à caracterização do manto de alteração e à identificação do topo rochoso. O método apoia estudos de fundações, barragens, pilhas, túneis, taludes e condições de escavabilidade, contribuindo para a caracterização das condições do maciço e do subsolo. Na mineração, auxilia na caracterização de coberturas, no reconhecimento do embasamento rochoso e na avaliação geotécnica de áreas destinadas à implantação e operação de estruturas.
+- Sísmica de Reflexão
+A Sísmica de Reflexão registra as ondas sísmicas que retornam à superfície após serem refletidas em interfaces que apresentam contrastes de impedância acústica, definida pelo produto entre a densidade e a velocidade sísmica do meio. A análise dos tempos de chegada, das amplitudes e da continuidade das reflexões permite investigar a geometria das camadas e das estruturas geológicas presentes no subsolo.
+Os produtos gerados incluem seções sísmicas em tempo ou profundidade, volumes 3D e mapas de horizontes e estruturas interpretadas. O método é aplicado ao mapeamento de falhas, contatos e corpos geológicos de interesse mineral, além da investigação da geometria e arquitetura de bacias sedimentares e de estruturas relacionadas a aquíferos. Em estudos geotécnicos, apoia a caracterização de interfaces, descontinuidades e estruturas relevantes para grandes obras.
+- MASW (Multichannel Analysis of Surface Waves) — Análise Multicanal de Ondas Superficiais
+O MASW (Multichannel Analysis of Surface Waves) analisa a dispersão das ondas de superfície, cuja velocidade varia em função da frequência em meios estratificados. A característica dispersiva das ondas Rayleigh permite obter curvas de velocidade em função da frequência de propagação. A identificação e extração das velocidades correspondentes ao modo fundamental de propagação, geralmente associado às maiores amplitudes de energia, permitem a construção das chamadas curvas de dispersão. A modelagem geofísica dessas curvas permite estimar a distribuição da velocidade das ondas de cisalhamento (Vs) em profundidade. Adicionalmente, a partir dos valores de Vs e de informações sobre a densidade dos materiais, é possível estimar o módulo de cisalhamento a pequenas deformações (G₀ ou Gmáx), também denominado módulo de rigidez dinâmica, parâmetro relevante para análises geotécnicas e avaliações do comportamento dinâmico dos maciços.
+Os produtos gerados incluem curvas de dispersão, perfis de Vs, seções compostas por múltiplos perfis e estimativas de Vs30, quando a profundidade de investigação é suficiente. O método auxilia na classificação sísmica de terrenos, em estudos de fundações, pavimentos, aterros e barragens, além de contribuir para a identificação de camadas de menor rigidez e a caracterização das condições geotécnicas do terreno para a implantação de estruturas.
+- MAM (Microtremor Array Method) — Análise de Microtremores em Arranjo
+O MAM (Microtremor Array Method), também conhecido como MASW passivo, utiliza arranjos de sensores para registrar vibrações ambientais, ou microtremores, produzidos por fontes naturais e atividades humanas. Técnicas de processamento, como a autocorrelação espacial e a análise no domínio frequência–número de onda, permitem obter curvas de velocidade das ondas superficiais. A modelagem geofísica dessas curvas possibilita estimar a distribuição da velocidade das ondas de cisalhamento (Vs) com a profundidade e identificar contrastes de rigidez entre diferentes camadas do subsolo, geralmente, em maiores profundidades que o MASW.
+Os produtos gerados incluem curvas de dispersão, perfis de Vs, seções e modelos estratificados, podendo complementar levantamentos MASW por meio da obtenção de informações associadas a maiores comprimentos de onda e, potencialmente, maiores profundidades de investigação. O método é aplicado à caracterização de coberturas sedimentares, estudos de resposta sísmica local, investigações de fundações e avaliação de grandes estruturas. Também auxilia na caracterização geotécnica de áreas de mineração e no reconhecimento de interfaces e contrastes de propriedades em maiores profundidades.
+- HVSR (Horizontal-to-Vertical Spectral Ratio) — Razão Espectral Horizontal/Vertical
+O método HVSR (Horizontal-to-Vertical Spectral Ratio) analisa a razão entre os espectros das componentes horizontais e vertical das vibrações ambientais. Seu principal resultado é a identificação da frequência fundamental do terreno, quando há um pico espectral claro e confiável associado às condições geológicas locais. A resposta é sensível à estrutura de velocidades e aos contrastes de impedância entre as coberturas e o substrato, demarcando as regiões de maior probabilidade para contato entre materiais.
+Os produtos gerados incluem curvas H/V e mapas de frequência ou período fundamental. Integrado a dados de velocidade sísmica e informações geológicas, o método pode auxiliar na estimativa da espessura das coberturas e na identificação da profundidade do substrato. Suas aplicações abrangem estudos de resposta sísmica local, microzonamento, planejamento de fundações e reconhecimento do embasamento, inclusive em áreas de mineração.
+- Análise do Ruído Ambiente (Interferometria e Microssísmica)
+A análise de Ruído Ambiente por Interferometria Sísmica, comumente conhecida como Microssísmica, consiste em uma técnica geofísica passiva que utiliza registros contínuos das vibrações naturais e antrópicas presentes no ambiente para avaliar alterações nas propriedades elásticas dos materiais em subsuperfície. Por meio da correlação cruzada dos sinais registrados em diferentes períodos, é possível identificar variações relativas das velocidades de propagação das ondas sísmicas (dv/v), que podem estar associadas a mudanças nas condições de saturação, pressão de poros, estado de tensões e integridade do maciço. Dessa forma, a técnica permite o monitoramento temporal das condições geomecânicas, contribuindo para a identificação de alterações no comportamento dos materiais investigados.
+Os produtos gerados incluem catálogos de eventos microssísmicos e séries temporais de variação relativa das velocidades sísmicas (dv/v). A aplicação integrada das técnicas de monitoramento microssísmico e interferometria sísmica permite acompanhar alterações nas condições geomecânicas de minas subterrâneas, escavações, pilares, taludes, barragens e pilhas. Quando associadas a dados de instrumentação e modelos geológico-geotécnicos, essas informações contribuem para a identificação de zonas potencialmente afetadas por processos de deformação, liquefação, fraturamento e dano, subsidiando a avaliação da estabilidade dos maciços e a gestão de riscos geotécnicos.
+MÉTODOS DISPONÍVEIS
+- Magnetometria
+A Magnetometria é um método geofísico que investiga as variações espaciais do campo magnético terrestre decorrentes das propriedades magnéticas dos materiais geológicos em subsuperfície. Por meio de aquisições terrestres ou aerolevantadas, permite identificar e delimitar unidades geológicas, contatos litológicos e estruturas com diferentes respostas magnéticas, contribuindo para a caracterização geológica e estrutural da área investigada.
+Os produtos incluem mapas de anomalias magnéticas, mapas de realce, interpretações estruturais e modelos 3D de fontes magnéticas. Na exploração mineral, o método auxilia no mapeamento de litologias, falhas, intrusões e mineralizações associadas a minerais magnéticos. No contexto da pesquisa mineral, especialmente na prospecção de depósitos de minério de ferro, o desenvolvimento dos sistemas aerotransportados de aquisição geofísica por drones representou um importante avanço tecnológico. Já em investigações antrópicas pode ser utilizado para identificar materiais metálicos enterrados ou submersos. Esses sistemas possibilitam maior produtividade operacional, elevada densidade de amostragem espacial e maior segurança em áreas de difícil acesso, além de favorecerem a cobertura sistemática de extensas regiões.
+- Gravimetria
+A Gravimetria mede pequenas variações da aceleração da gravidade relacionadas à distribuição de massas no subsolo. Fundamentada na Lei da Gravitação Universal, permite investigar contrastes de densidade entre materiais, após correções dos efeitos de posição, altitude, relevo e variações temporais. As anomalias revelam excessos ou déficits de massa em relação ao entorno.
+Os produtos incluem mapas de anomalias Bouguer e residuais, perfis e modelos 2D e 3D de distribuição de contrastes de densidade. Na exploração mineral, o método apoia a investigação de corpos densos, estruturas e bacias. Em geotecnia, especialmente com Microgravimetria, auxilia na pesquisa de cavidades, vazios, zonas de descompressão e irregularidades do substrato.
+- Gamaespectrometria
+A gamaespectrometria mede a intensidade da radiação gama natural emitida pelos materiais próximos à superfície. A análise do espectro eletromagnético medido permite estimar as concentrações de potássio, urânio equivalente e tório equivalente. Os contrastes radiométricos auxiliam na diferenciação de litologias, solos e processos de alteração e intemperismo.
+Os produtos incluem mapas de Contagem Total de Radiação, K, eU e eTh, bem como razões entre canais e composições ternárias. O método apoia o mapeamento geológico, a identificação de alterações hidrotermais e, consequentemente, a seleção de alvos minerais. Também contribui para estudos de solos, coberturas e radioatividade ambiental, fornecendo informações complementares à caracterização de áreas de engenharia.
+GEOTECNOLOGIAS DISPONÍVEIS
+- Magnetometria com drone
+A Magnetometria com drone utiliza sensores embarcados ou suspensos para medir variações do campo magnético terrestre ao longo de linhas de voo planejadas. As anomalias refletem contrastes de magnetização associados à suscetibilidade magnética e à magnetização remanente das rochas. O controle da altura, do posicionamento e das interferências da plataforma permite obter dados detalhados para a caracterização geológica.
+Os produtos incluem mapas de anomalias magnéticas, mapas de realce, interpretações estruturais e modelos 3D de fontes magnéticas. Na exploração mineral, o método auxilia no reconhecimento de litologias, falhas, intrusões e mineralizações associadas a minerais magnéticos.
+- Gamaespectrometria com drone
+A Gamaespectrometria com drone mede a intensidade e a energia da radiação gama natural emitida pelos materiais próximos à superfície. A análise dos espectros permite estimar as concentrações de potássio (K), urânio equivalente (eU) e tório equivalente (eTh). Os contrastes radiométricos revelam diferenças de composição entre solos e rochas e ajudam a reconhecer processos de alteração e intemperismo.
+Os produtos incluem mapas de Contagem Total de Radiação, K, eU e eTh, bem como razões entre canais e composições ternárias. O método apoia o mapeamento geológico, a identificação de alterações hidrotermais e, consequentemente, a seleção de alvos minerais. Também contribui para estudos de solos, coberturas e radioatividade ambiental, fornecendo informações complementares à caracterização de áreas de engenharia.
+- GPR aerotransportado
+O GPR aerotransportado utiliza antenas transportadas por drones para transmitir ondas eletromagnéticas e registrar reflexões em interfaces do subsolo. A resposta é sensível aos contrastes nas propriedades elétricas dos materiais, principalmente na permissividade dielétrica. Os tempos de retorno permitem estimar profundidades mediante calibração da velocidade, enquanto a condutividade do terreno e a altura de voo influenciam a atenuação e o alcance do sinal.
+Os produtos incluem radargramas georreferenciados, seções interpretadas, mapas de interfaces e anomalias e, conforme a aquisição, representações tridimensionais. O método tem sido empregado na investigação e caracterização do substrato em ambientes aquáticos, especialmente em áreas submersas de difícil acesso ou com restrições à navegabilidade, nas quais a utilização de embarcações e equipamentos convencionais de aquisição pode apresentar limitações operacionais. A utilização de sistemas GPR aerotransportados amplia as possibilidades de investigação nessas condições, permitindo maior flexibilidade e segurança operacional.
+- LiDAR com Drone
+O LiDAR (Light Detection and Ranging) utiliza pulsos laser e seus tempos de retorno para calcular distâncias. Ao combinando essas medidas com a posição e a orientação do sensor, é possível reconstruir as superfícies nas quais os feixes foram refletidos. O levantamento registra a geometria tridimensional do terreno, da vegetação e das construções. A classificação dos retornos permite distinguir essas superfícies e representar o relevo sob a vegetação quando há pontos suficientes provenientes de reflexões no solo.
+Os produtos incluem nuvens de pontos classificadas, Modelos Digitais de Terreno e Superfície (MDT/MDS), curvas de nível, perfis e mapas de declividade.
+- Aerofotogrametria
+A aerofotogrametria utiliza fotografias aéreas sobrepostas para reconstruir a geometria tridimensional das superfícies. Por meio de relações projetivas, identificação de pontos comuns e triangulação, determina posições, formas e dimensões. A técnica registra a geometria e a aparência das feições visíveis, permitindo reconhecer diferenças de cor, textura e relevo relevantes à interpretação do terreno.
+Os produtos incluem ortofotos, ortomosaicos, nuvens de pontos, Modelos Digitais de Superfície (MDS) e modelos 3D texturizados. Modelos de terreno podem ser obtidos quando o solo está suficientemente visível. Apoia o cadastro de estruturas, acompanhamento de obras, estudos de drenagem e cálculos volumétricos. Na mineração, auxilia no mapeamento de afloramentos, frentes de lavra, cavas e pilhas e na avaliação de mudanças superficiais ao longo do tempo.
+PERFIS DISPONÍVEIS
+-Perfilagem de Densidade (Gama-Gama)
+A perfilagem gama-gama utiliza uma fonte de radiação e detectores para medir a interação dos fótons com os materiais ao redor do furo, principalmente pelo espalhamento Compton. A resposta está relacionada à densidade eletrônica e, mediante calibração e correções das condições do furo, permite estimar a densidade aparente da formação, sensível à composição mineral, porosidade e presença de fluidos.
+Os produtos incluem perfis contínuos de densidade, delimitação de contatos e correlações entre furos. Na mineração, apoiam a caracterização de unidades e intervalos mineralizados e as estimativas de tonelagem, quando integrados e validados com dados de amostras. Em geotecnia, complementam a caracterização dos materiais e, associados às velocidades sísmicas, permitem calcular impedância acústica e parâmetros elásticos dinâmicos.
+-Perfilagem de Gama Natural
+A perfilagem de gama natural registra a radiação gama emitida espontaneamente pelas formações, sem utilizar fonte radioativa externa. A medição representa a contribuição conjunta, principalmente, do potássio-40 (K) e das séries de decaimento do urânio (equivalente U) e do tório (equivalente Th). Os contrastes de intensidade permitem reconhecer diferenças radiométricas associadas à composição dos materiais atravessados.
+Os produtos incluem perfis de contagem gama, identificação de contatos e correlações estratigráficas entre furos. O método auxilia na diferenciação de litologias, no reconhecimento de determinadas camadas argilosas e na identificação de intervalos radiometricamente anômalos. Em exploração mineral, hidrogeologia e geotecnia, complementa a descrição das sondagens e a interpretação das unidades geológicas.
+-Perfilagem de Suscetibilidade Magnética
+A perfilagem de suscetibilidade magnética utiliza uma sonda indutiva para avaliar a resposta dos materiais à aplicação de um campo magnético. A propriedade expressa a facilidade de magnetização e varia conforme a concentração e o tipo de minerais magnéticos presentes. O registro permite reconhecer contrastes magnéticos ao longo das formações atravessadas.
+Os produtos incluem perfis contínuos de suscetibilidade, delimitação de contatos e correlações entre furos. Na exploração mineral, o método auxilia na identificação de unidades magnéticas, intervalos mineralizados e mudanças associadas à alteração hidrotermal. Também fornece informações para calibrar modelos magnetométricos de superfície e complementar a caracterização litológica em projetos geotécnicos. Adicionalmente, os resultados podem ser integrados a descrições litológicas, análises geoquímicas e modelos geológicos tridimensionais, complementando a caracterização litológica em projetos de exploração mineral e investigações geotécnicas.
+-Perfilagem de Resistividade Elétrica
+A perfilagem de resistividade elétrica aplica corrente e mede diferenças de potencial por meio de arranjos de eletrodos instalados na sonda. Fundamentada na Lei de Ohm, investiga contrastes de resistividade relacionados à composição, porosidade, saturação, salinidade e presença de argilas ou minerais condutores. A configuração da ferramenta determina a resolução e o volume investigado ao redor do furo.
+Os produtos incluem perfis de resistividade aparente e, conforme a ferramenta e o processamento, estimativas corrigidas da resistividade da formação. O método apoia a identificação de contatos, intervalos aquíferos e zonas potencialmente fraturadas ou alteradas. Na exploração mineral, auxilia na caracterização de intervalos condutores e na calibração de modelos elétricos e eletromagnéticos. Em geotecnia, complementa a avaliação das condições do maciço.
+-Perfilagem de Polarização Induzida (IP/cargabilidade)
+A perfilagem de Polarização Induzida (IP) investiga a capacidade dos materiais geológicos adjacentes ao furo de desenvolver e dissipar uma polarização elétrica em resposta à aplicação de uma corrente elétrica, permitindo caracterizar variações nas propriedades elétricas dos materiais em subsuperfície. No domínio do tempo, a cargabilidade é calculada a partir do decaimento da tensão após o desligamento da corrente. A resposta é sensível a minerais polarizáveis, argilas e interações eletroquímicas entre grãos e fluidos.
+Os produtos incluem perfis de cargabilidade, curvas de decaimento e interpretações integradas à resistividade e à geologia. Na exploração mineral, o método auxilia na identificação de intervalos polarizáveis compatíveis com sulfetos disseminados e na calibração de levantamentos de IP de superfície. Em geotecnia e hidrogeologia, complementa a caracterização de materiais argilosos e zonas de alteração.
+-Perfilagem Sônica
+A perfilagem sônica utiliza emissores e receptores acústicos para medir os tempos de propagação das ondas nas formações adjacentes ao furo. Permite determinar velocidades de ondas compressionais (Vp) e, com ferramentas apropriadas, de ondas de cisalhamento (Vs). Essas propriedades são influenciadas pelas características físicas e mecânicas dos materiais, como rigidez, densidade, porosidade, saturação e fraturamento dos materiais permitindo identificar variações nas condições geológicas e geomecânicas ao longo do furo.
+Os produtos incluem perfis de tempo de trânsito, velocidades acústicas e, conforme a ferramenta, registros de formas de onda. Integrados à densidade, permitem estimar parâmetros elásticos dinâmicos e impedância acústica. As aplicações abrangem a caracterização geomecânica de maciços para minas, túneis e fundações, além da calibração de modelos sísmicos e das relações entre tempo e profundidade.
+[BLOCO 1] ABERTURA
+Aplicações
+Geofísica aplicada aos desafios do seu projeto.
+Cada área apresenta condições, riscos e perguntas diferentes.
+A Neogeo desenvolve investigações geofísicas para apoiar projetos de geotecnia, exploração mineral, engenharia, hidrogeologia, arqueologia e monitoramento, combinando métodos e estratégias de acordo com o objetivo de cada estudo.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 2] INTRODUÇÃO
+Onde aplicamos
+O problema vem antes do método.
+Escolher uma tecnologia é consequência de entender o que precisa ser investigado.
+Por isso, começamos pelo objetivo do projeto, pelas características da área e pelas informações que precisam ser obtidas. A partir desse contexto, definimos os métodos geofísicos e a estratégia mais adequada para cada investigação.
+[BLOCO 3] GEOTECNIA
+Mais informação para compreender estruturas geotécnicas e condições do terreno.
+A geofísica constitui uma importante ferramenta complementar às investigações geotécnicas, pois permite a obtenção de informações contínuas sobre as condições do subsolo, contribuindo para a caracterização dos materiais, a identificação de variações litológicas e geotécnicas, o reconhecimento de zonas de fraqueza em maciços (antrópicos ou naturais) e a delimitação de feições e heterogeneidades subsuperficiais nas fundações.
+Esses dados podem contribuir para avaliações relacionadas à estabilidade, caracterização e monitoramento de estruturas geotécnicas, bem como pilhas, barragens, diques e cavas.
+Aplicações
+- Pilhas de estéril e rejeito;
+- Barragens e diques;
+- Taludes e encostas;
+- Cavas e minas subterrâneas;
+- Túneis;
+- Áreas de subsidência;
+- Monitoramento geotécnico;
+- Caracterização geológico-geotécnica.
+(QUERO CONHECER AS APLICAÇÕES PARA GEOTECNIA)
+[BLOCO 4] EXPLORAÇÃO MINERAL
+Investigar melhor antes de avançar.
+A pesquisa e a prospecção mineral constituem etapas fundamentais para a identificação, caracterização e avaliação de depósitos minerais, subsidiando o planejamento e a implantação de empreendimentos minerários. Nesse contexto, a geofísica desempenha um papel estratégico ao empregar métodos indiretos e não invasivos para identificar, delimitar e modelar corpos mineralizados, com base nos contrastes de propriedades físicas dos materiais geológicos. Os resultados obtidos contribuem para o direcionamento de investigações de detalhe, a definição de alvos prioritários e o planejamento de campanhas de sondagem, fornecendo subsídios para a avaliação do potencial mineral e da viabilidade econômica dos depósitos. Durante a fase operacional, a geofísica também auxilia no planejamento e na orientação das frentes de lavra, contribuindo para a diferenciação de blocos rochosos (bouders) e zonas mineralizadas friáveis, mediante integração e validação das interpretações com dados geológicos e informações provenientes de sondagens. Dessa forma, sua aplicação permite reduzir incertezas geológicas, otimizar os investimentos em investigação e apoiar a tomada de decisões ao longo das diferentes etapas da exploração e produção mineral.
+Aplicações em diferentes contextos minerais
+- Minério de ferro
+- Ouro em veios
+- Ouro disseminado
+- Cobre
+- Níquel
+- Zinco e chumbo
+- Lítio
+- Terras raras
+- Manganês
+- Fosfato
+- Potássio
+- Bauxita
+- Grafita
+- Urânio
+(QUERO CONHECER AS APLICAÇÕES PARA EXPLORAÇÃO MINERAL)
+[BLOCO 5] ENGENHARIA
+Conhecer o subsolo antes de construir, intervir ou avançar.
+Em projetos de engenharia, a investigação geofísica pode contribuir para a caracterização das condições subsuperficiais e para a identificação de estruturas, interferências, vazios e variações do terreno.
+O objetivo é ampliar as informações disponíveis para apoiar o planejamento e as decisões técnicas do projeto.
+Aplicações
+- Investigação de fundações
+- Mapeamento de interferências subterrâneas
+- Identificação de vazios, cavidades e zonas de fraqueza
+- Determinação da espessura do solo e profundidade do embasamento
+(QUERO CONHECER AS APLICAÇÕES PARA ENGENHARIA)
+[BLOCO 6] HIDROGEOLOGIA
+Investigar a água subterrânea e seu comportamento no subsolo.
+Os métodos geofísicos auxiliam na identificação e caracterização de estruturas e condições geológicas associadas à ocorrência, ao armazenamento e à circulação da água subterrânea, como zonas de fraturamento, falhas, contatos geológicos e regiões potencialmente saturadas. Essas informações contribuem para a compreensão das condições hidrogeológicas do subsolo, subsidiando projetos de prospecção de água subterrânea, caracterização de aquíferos, monitoramento hidrogeológico e investigações ambientais.
+Aplicações
+- Prospecção de água subterrânea e locação de poços
+- Identificação de zonas de recarga e descarga
+- Investigação de aquíferos fraturados e porosos
+- Mapeamento da interface entre água doce e água salina
+- Investigação de áreas contaminadas
+- Mapeamento de plumas de contaminação
+- Apoio ao rebaixamento do nível d’água e desaguamento de minas
+(QUERO CONHECER AS APLICAÇÕES PARA HIDROGEOLOGIA)
+[BLOCO 7] ARQUEOLOGIA
+Investigar o subsolo preservando o contexto da área.
+Em investigações arqueológicas, localizar estruturas enterradas sem escavações extensivas é importante para preservar o patrimônio e direcionar os trabalhos de campo. Estruturas como fundações antigas, muros, pisos, sepultamentos, fossas e vestígios de ocupação podem apresentar contrastes nas propriedades eletromagnéticas, na resistividade elétrica e na suscetibilidade magnética em relação aos materiais do terreno. A geofísica permite investigar esses contrastes de forma não invasiva, auxiliando no reconhecimento da distribuição espacial e da organização dos possíveis vestígios arqueológicos.
+(QUERO CONHECER AS APLICAÇÕES PARA ARQUEOLOGIA)
+[BLOCO 8] HIDROSSEDIMENTOLOGIA
+Investigar a dinâmica dos sedimentos e a evolução dos ambientes aquáticos
+A investigação em ambientes aquáticos permite acompanhar a dinâmica de erosão, transporte e deposição de sedimentos e rejeitos de mineração em rios, reservatórios, lagos e outros ambientes submersos. Essas investigações contribuem para avaliar processos de assoreamento, alterações na geometria do leito, distribuição de depósitos sedimentares e evolução da capacidade de armazenamento de reservatórios, subsidiando o planejamento de dragagens, a gestão de recursos hídricos e o acompanhamento de impactos ambientais.
+(QUERO CONHECER AS APLICAÇÕES PARA HIDROSSEDIMENTOLOGIA)
+[BLOCO 9] MONITORAMENTO
+Acompanhar mudanças ao longo do tempo.
+O comportamento do subsolo e das estruturas pode variar ao longo do tempo em resposta a processos naturais, intervenções humanas e mudanças nas condições ambientais. O monitoramento geofísico, por meio de medições contínuas ou levantamentos periódicos, permite identificar e acompanhar alterações nas propriedades físicas dos materiais, contribuindo para a avaliação da evolução dessas condições.
+A integração dos dados geofísicos com instrumentos de monitoramento convencionais amplia a compreensão espacial e temporal dos processos investigados, auxiliando na identificação de anomalias, na avaliação de tendências e no reconhecimento de possíveis condições de risco. Essas informações contribuem para a tomada de decisões, o planejamento de medidas preventivas e o acompanhamento da eficácia de intervenções.
+Aplicações
+- Monitoramento de barragens, pilhas e taludes
+- Monitoramento de plumas de contaminação
+- Monitoramento microssísmico
+(QUERO CONHECER AS APLICAÇÕES DE MONITORAMENTO)
+[BLOCO 10] ABORDAGEM INTEGRADA
+Mais de um caminho para responder ao mesmo problema.
+Diferentes aplicações podem trabalhar juntas.
+Um mesmo projeto pode envolver mais de uma área de atuação e exigir diferentes métodos de investigação.
+Por isso, a Neogeo pode integrar tecnologias, dados geológicos, informações geotécnicas e diferentes estratégias de aquisição para construir uma leitura mais completa do contexto investigado.
+[BLOCO 11] COMO DESENVOLVEMOS A APLICAÇÕES
+Cada projeto começa pelo entendimento da demanda.
+1. Entendemos o problema
+Identificamos o objetivo da investigação, as condições da área e as informações necessárias.
+2. Avaliamos o contexto técnico
+Consideramos profundidade, dimensões do alvo, características geológicas, condições de acesso e dados disponíveis.
+3. Definimos a estratégia
+Selecionamos os métodos e a configuração de investigação mais adequados ao cenário.
+4. Executamos e interpretamos
+Realizamos a aquisição, o processamento e a integração dos dados.
+5. Entregamos informações para apoiar a decisão
+Os resultados são apresentados de acordo com os objetivos definidos para o projeto.
+[BLOCO 12] CONTATO
+Qual é o desafio do seu projeto?
+Você não precisa saber antecipadamente qual tecnologia utilizar.
+Conte para nossa equipe o que precisa ser investigado, onde está a área e qual é o objetivo do estudo. A partir dessas informações, podemos entender a demanda e avaliar os próximos passos.
+(QUERO FALAR SOBRE MEU PROJETO)
+APLICAÇÕES
+- Pilhas de estéril e rejeito
+Em pilhas de estéril e rejeito, a ausência de registros históricos detalhados sobre a espessura dos materiais depositados, a geometria da base e as condições originais do terreno de fundação pode dificultar a caracterização geotécnica dessas estruturas. Nesse contexto, os métodos MASW (Multichannel Analysis of Surface Waves) e Sísmica de Refração (SR) podem contribuir para a investigação do subsolo, por meio da identificação de contrastes nas velocidades das ondas de cisalhamento (Vs) e compressionais (Vp), respectivamente. Esses contrastes permitem diferenciar materiais com distintas propriedades geomecânicas, identificar zonas de menor rigidez e/ou maior grau de alteração e auxiliar na delimitação dos contatos entre os materiais depositados, os solos naturais e o substrato rochoso. Quando existem contrastes de velocidade suficientemente definidos e condições adequadas de investigação, esses métodos podem contribuir para a estimativa da espessura dos depósitos, a definição da geometria basal da pilha e a reconstrução indireta das condições do terreno original, especialmente quando integrados a sondagens e informações históricas disponíveis.
+Outro problema comum é a distribuição heterogênea da água, com a formação de zonas saturadas e de caminhos preferenciais de percolação. A Eletrorresistividade (RES), por meio da técnica de campo do Caminhamento Elétrico (CE), permite investigar contrastes de resistividade associados à umidade, à composição dos materiais e à salinidade dos fluidos. O Potencial Espontâneo (SP) pode complementar a investigação, especialmente na identificação de anomalias associadas ao fluxo de água no subsolo. Esses resultados auxiliam na definição de setores prioritários para investigação e instrumentação, bem como na avaliação das condições de drenagem e de possíveis zonas de percolação.
+Variações de granulometria, disposição dos materiais e grau de compactação também podem produzir setores com comportamentos geotécnicos distintos. Os levantamentos LiDAR e aerofotogramétricos permitem registrar a geometria superficial e suas variações ao longo do tempo. A integração dessas informações apoia a avaliação de heterogeneidades, o acompanhamento de processos como recalques e erosões e o planejamento de investigações e intervenções geotécnicas.
+- Barragens e Diques
+Em barragens e diques, a geofísica aplicada auxilia no mapeamento de caminhos preferenciais de percolação, zonas de maior umidade e heterogeneidades no corpo do aterro e na fundação. A Eletrorresistividade (RES) identifica contrastes associados à saturação, à variação granulométrica/composição dos materiais e à condutividade dos fluidos porosos, enquanto o Potencial Espontâneo (SP) registra potenciais eletrocinéticos gerados pelo próprio fluxo da água (potencial de fluxo). A integração de ambos permite reconhecer setores com anomalias de infiltração e orientar com maior precisão inspeções de campo, ensaios diretos e a instrumentação auscultatória.
+As irregularidades no topo rochoso, zonas de fraturamento, alívio de tensão ou alteração do maciço e variações nos materiais da fundação afetam diretamente o comportamento mecânico e a segurança da estrutura. A Sísmica de Refração (SR) investiga essas feições a partir de contrastes de velocidade de ondas P (Vp), enquanto o MASW (Multichannel Analysis of Surface Waves) mapeia a distribuição de velocidade das ondas cisalhantes (Vs), parâmetro diretamente relacionado à rigidez a pequenas deformações. Quando integrados às sondagens diretas, esses métodos auxiliam na setorização geotécnica e na delimitação de zonas que demandam intervenção ou ensaios específicos.
+A execução de campanhas periódicas de Eletrorresistividade (RES) permite acompanhar variações dinâmicas de umidade e frentes de saturação ao longo do tempo, devendo-se considerar também a variação de temperatura e da condutividade de fluidos. Os produtos gerados incluem seções e modelos de resistividade e velocidade, mapas de anomalias e análises comparativas temporais. Correlacionados a dados de piezômetros, medidores de nível d’água, medidores de vazão e inspeções visuais, esses resultados fornecem suporte contínuo à auscultação e à avaliação da eficácia de intervenções.
+- Taludes e encostas
+A espessura da cobertura solo/saprólito, a geometria e o perfil de alteração do topo rochoso, além da presença de zonas fraturadas ou descontinuidades estruturais, são condicionantes fundamentais para a caracterização do comportamento mecânico de taludes e encostas. A Sísmica de Refração (SR) ajuda a reconhecer essas unidades por contrastes de velocidade de ondas Vp, enquanto o MASW (Multichannel Analysis of Surface Waves) caracteriza diferenças de rigidez do meio a partir do perfil de velocidade de ondas Vs. Os resultados permitem delimitar setores de menor velocidade e possíveis interfaces relevantes à análise de estabilidade, a serem verificadas com sondagens e dados estruturais.
+A infiltração de água e sua concentração em determinados horizontes podem modificar as condições do terreno, como os parâmetros de resistência do solo e o estado de tensão do maciço. A Eletrorresistividade (RES) investiga contrastes associados à umidade e à distribuição de materiais argilosos. O uso de campanhas temporais ajuda a acompanhar mudanças após períodos de chuvas ou intervenções de drenagem. Integrada à instrumentação geotécnica, a técnica contribui para reconhecer zonas de acúmulo de água e caminhos preferenciais de fluxo.
+Os modelos obtidos por LiDAR e Aerofotogrametria por VANT complementam a investigação geotécnica com modelos de relevo, permitindo a identificação de feições de escarpas, de descolamento, trincas de tração e a comparação multitemporal do relevo. As seções geofísicas e os produtos topográficos apoiam o planejamento de sondagens, drenagens, contenções e ações de recuperação. A interpretação conjunta permite relacionar as condições internas às feições superficiais e direcionar as avaliações para setores prioritários.
+- Cavas e Minas Subterrâneas
+Em cavas a céu aberto, feições como zonas de alteração hidrotermal/intemperismo, falhas e fraturamento podem influenciar o comportamento dos taludes e na entrada de água. A Sísmica de Refração (SR) e o MASW ajudam a caracterizar mudanças de velocidade e rigidez do maciço, enquanto a Eletrorresistividade (RES) auxilia no reconhecimento de zonas condutoras, materiais argilosos ou fraturas com água. A integração com o mapeamento geológico permite avaliar a continuidade dessas feições e orientar investigações nas áreas de avanço da lavra.
+A Sísmica de Refração (SR) e o MASW (Multichannel Analysis of Surface Waves) permitem investigar variações nas velocidades das ondas compressionais (Vp) e de cisalhamento (Vs), respectivamente, contribuindo para a caracterização das condições geomecânicas do maciço. Esses métodos auxiliam na identificação de zonas de menor rigidez, maior grau de alteração e/ou fraturamento, bem como na delimitação de contatos entre materiais com diferentes condições de competência. O GPR e o UltraGPR auxiliam na identificação de interfaces litológicas, descontinuidades e possíveis vazios em ambientes favoráveis à propagação de ondas eletromagnéticas. Complementarmente, as Perfilagens de Poço (Sônicas, Elétricas e de Densidade) fornecem dados contínuos ao longo dos furos de sondagem, auxiliando no detalhamento das propriedades do maciço e na calibração dos modelos geológico-geomecânicos.
+O Monitoramento Microssísmico registra e localiza pequenos eventos associados à fratura e à redistribuição de esforços durante a operação. A geração de mapas tridimensionais de eventos e análises temporal de sua evolução contribuem para reconhecer setores com atividade crescente e avaliar a resposta do maciço à lavra. Integrados aos modelos geomecânicos e à instrumentação de convergência, esses resultados fornecem suporte fundamental ao planejamento das etapas de escavação, ao dimensionamento de pilares e suportes, e à gestão de riscos geotécnicos na mineração subterrânea.
+- Túneis
+Na etapa de implantação de túneis, mudanças litológicas, falhas geológicas, zonas alteradas e irregularidades do topo rochoso podem provocar condições geomecânicas e de escavação diferentes das previstas em projeto. A Sísmica de Refração (SR) investiga a geometria das unidades geológicas, bem como os contrastes de velocidade (Vp) e o grau de escavabilidade do material, discriminado em categorias. Conforme a profundidade e o ambiente geológico, a Eletrorresistividade (RES) complementa o reconhecimento de contrastes geoelétricos associados a mudanças de materiais, reduzindo incertezas e otimizando a locação de sondagens diretas.
+Zonas fraturadas com circulação de água e possíveis cavidades exigem investigação detalhada. A Eletrorresistividade (RES) permite identificar contrastes associados a feições fraturadas saturadas ou preenchidas por material argiloso. A Microgravimetria auxilia na detecção de cavidades/vazios por meio da identificação de anomalias gravimétricas negativas (déficits de massa localizados). O GPR (Radar de Penetração no Solo) pode investigar feições próximas à superfície, frentes e paredes da escavação, em busca de descontinuidades e vazios, quando as propriedades do meio permitirem. A seleção da combinação adequada de métodos deve levar em consideração a geometria, a profundidade do emboque/traçado e a característica geológica dos alvos geotécnicos.
+- Áreas de Subsidência
+Áreas sujeitas a subsidência e colapsos de terreno podem estar associadas ao carste e a cavidades naturais, a antigas escavações, à perda de finos por erosão interna (piping) ou à consolidação e deformação de camadas compressíveis. A Microgravimetria investiga déficits de massa localizados que podem indicar vazios ou zonas de menor densidade. A Eletrorresistividade (RES) complementa a investigação, reconhecendo contrastes elétricos entre o terreno e cavidades, ou seja, vazios secos/preenchidos por ar manifestam-se como anomalias altamente resistivas, enquanto cavidades preenchidas por água, lama ou sedimentos úmidos apresentam respostas condutoras.
+O GPR e o UltraGPR podem imagear descontinuidades e possíveis vazios quando há contraste e condições adequadas de propagação. A combinação desses métodos reduz a ambiguidade interpretativa e auxilia na delimitação de setores prioritários para sondagens e verificações diretas.
+Levantamentos repetidos de LiDAR, Aerofotogrametria e Topografia permitem acompanhar mudanças de elevação e deformações superficiais contínuas ao longo do tempo. Integrados aos modelos tridimensionais do subsolo, esses produtos correlacionam a deformação observada às estruturas investigadas em profundidade. Os resultados fornecem suporte decisivo à avaliação de aptidão de uso do solo, ao planejamento de obras de engenharia, ao dimensionamento de reforços/consolidações de fundação e ao acompanhamento preventivo em setores com histórico de abatimentos.
+- Monitoramento geotécnico
+O monitoramento geofísico permite acompanhar as alterações nas propriedades físicas do subsolo e de maciços por meio de campanhas periódicas repetidas ou por sistemas permanentes de aquisição contínua. A Eletrorresistividade (RES) temporal investiga mudanças compatíveis com variações associadas à umidade, à saturação e a mudanças na condutividade dos fluidos porosos, enquanto o Potencial Espontâneo (SP) complementa a caracterização por meio do acompanhamento de alterações no padrão de fluxo. A comparação exige condições controladas de aquisição e avaliação dos efeitos de temperatura, contato dos eletrodos, geometria e sazonalidade.
+Os levantamentos sísmicos repetidos podem investigar mudanças de velocidade relacionadas à rigidez, ao fraturamento e a outras condições de resistência do maciço. A Interferometria Sísmica permite monitorar variações espaciais e temporais nas velocidades de propagação das ondas sísmicas, incluindo as ondas de cisalhamento (Vs), diretamente relacionadas à rigidez dos materiais que compõem o maciço. Reduções na velocidade das ondas S podem indicar alterações nas condições geomecânicas, potencialmente associadas à diminuição da rigidez e à degradação das condições de estabilidade geotécnica. Essas variações podem refletir a resposta do maciço a escavações, carregamentos, precipitações e outras intervenções, fornecendo informações relevantes para o monitoramento das estruturas e o apoio à gestão de riscos geotécnicos.
+Aquisições de LiDAR e Aerofotogrametria acrescentam informações sobre mudanças superficiais e volumétricas. A integração com piezômetros, inclinômetros, extensômetros, registros de chuva e inspeções permite interpretar as alterações em seu contexto e apoiar a definição de critérios de acompanhamento e respostas operacionais.
+- Caracterização Geológico-Geotécnica
+A caracterização geológico-geotécnica busca compreender a distribuição espacial dos solos e maciços rochosos, suas interfaces e as heterogeneidades que podem influenciar o comportamento geomecânico dos materiais e as condições de implantação de projetos de engenharia. A Sísmica de Refração (SR) permite investigar a distribuição das velocidades das ondas compressionais (Vp), auxiliando na identificação de diferentes horizontes geológico-geotécnicos, na estimativa da profundidade do topo rochoso e no reconhecimento de zonas com distintos graus de alteração e fraturamento. O MASW (Multichannel Analysis of Surface Waves), por sua vez, caracteriza a distribuição das velocidades das ondas de cisalhamento (Vs), fornecendo informações sobre a rigidez dos materiais a pequenas deformações. A Eletrorresistividade (RES) complementa essas investigações por meio da identificação de contrastes geoelétricos associados a variações litológicas, conteúdo argiloso, grau de alteração e condições de saturação, ampliando a caracterização do subsolo entre os pontos de investigação direta.
+Em condições geológicas mais complexas ou que demandem maior detalhamento, métodos complementares podem ser empregados. O GPR (Ground Penetrating Radar) e o UltraGPR permitem investigar interfaces, descontinuidades e possíveis cavidades ou vazios, desde que as condições do meio sejam favoráveis à propagação das ondas eletromagnéticas. A Microgravimetria contribui para a identificação de anomalias de densidade, incluindo possíveis zonas de descompressão e cavidades. As Perfilagens Geofísicas de Poço fornecem registros contínuos das propriedades físicas dos materiais ao longo dos furos, auxiliando na correlação entre unidades geológicas e na calibração dos modelos geofísicos de superfície.
+A seleção dos métodos adequados deve considerar o contraste de propriedades físicas do alvo, a profundidade de investigação e a resolução espacial requerida. Os produtos incluem seções interpretadas, modelos 2D ou 3D, mapas de interfaces e delimitação de setores com diferentes respostas geofísicas. Quando integrados ao mapeamento geológico de superfície, às sondagens e aos ensaios in situ, esses resultados fundamentam o modelo geológico-geotécnico conceitual, otimizando o projeto de fundações, escavações e a locação de investigações complementares diretas.
+APLICAÇÕES EM DIFERENTES CONTEXTOS MINERAIS
+- Minério de ferro
+Na exploração de minério de ferro, a geofísica auxilia no reconhecimento de formações ferríferas, na investigação de sua continuidade sob cobertura e na identificação de estruturas geológicas como falhas, dobras e contatos, que influenciam a geometria dos corpos mineralizados. Os principais contrastes estão relacionados à susceptibilidade magnética e à densidade, que variam conforme a proporção de minerais como magnetita, hematita e goethita, além dos minerais de ganga. Corpos ricos em magnetita podem produzir anomalias magnéticas expressivas, enquanto minérios predominantemente hematíticos tendem a apresentar respostas mais discretas, dependendo de sua composição mineralógica e das características geológicas locais.
+A Magnetometria (MAG) terrestre ou aérea, inclusive por drone, permite mapear unidades com diferentes propriedades magnéticas, contribuindo para a interpretação de sua continuidade lateral e de seus controles estruturais. A Gravimetria (GRAV) auxilia a investigação de corpos mineralizados mais densos que as rochas encaixantes, especialmente quando o contraste magnético é pouco expressivo. A Eletrorresistividade (RES), por sua vez, contribui em caracterizar as diferenças das propriedades elétricas entre minério friável e compacto, rocha encaixante e materiais intemperizados, como a canga. A integração dos métodos auxilia na seleção de alvos exploratórios e no planejamento de sondagens, sem assumir uma correspondência direta entre intensidade da anomalia geofísica e teor de ferro.
+- Ouro em veios
+Nos depósitos auríferos hospedados em veios, um dos principais desafios da exploração mineral consiste na identificação e delimitação de estruturas mineralizadas, frequentemente estreitas, descontínuas e encobertas por materiais superficiais. Nesse contexto, os métodos geofísicos constituem importantes ferramentas de investigação indireta, permitindo o reconhecimento de veios de quartzo, concentrações de sulfetos, zonas de alteração hidrotermal e estruturas geológicas potencialmente associadas à circulação de fluidos mineralizantes. Considerando que o ouro, nas concentrações normalmente encontradas nesses depósitos, geralmente não produz contrastes físicos suficientemente expressivos para sua detecção direta, a investigação geofísica concentra-se na identificação de assinaturas e indicadores indiretos (footprints) associados aos sistemas mineralizantes, contribuindo para a delimitação de áreas com maior potencial prospectivo.
+A Eletrorresistividade (RES) pode contribuir para a identificação de veios de quartzo e zonas silicificadas, frequentemente caracterizados por respostas mais resistivas em relação às rochas encaixantes, dependendo das condições geológicas e da resolução do levantamento. A Polarização Induzida (IP) apresenta particular relevância na identificação de zonas com sulfetos disseminados, que podem produzir anomalias de cargabilidade associadas à mineralização. A Magnetometria (MAG) (MAG) auxilia no reconhecimento de falhas, zonas de cisalhamento, contatos litológicos e alterações hidrotermais capazes de modificar as propriedades magnéticas das rochas, contribuindo para a interpretação dos controles estruturais da mineralização. A Gamaespectrometria, por sua vez, pode complementar essas investigações por meio do reconhecimento de variações na distribuição superficial de radioelementos, especialmente do potássio, que, em determinados contextos geológicos, podem estar associadas a processos de alteração hidrotermal.
+A integração dos resultados geofísicos com informações geológicas, estruturais e geoquímicas permite identificar e hierarquizar alvos prospectivos, delimitar segmentos prioritários ao longo das estruturas investigadas e orientar campanhas de sondagem. Entretanto, a associação das anomalias geofísicas com a ocorrência de mineralização aurífera deve ser confirmada por meio de investigações diretas, amostragem e análises geoquímicas, reduzindo as incertezas interpretativas e aumentando a confiabilidade dos modelos geológicos.
+- Ouro disseminado
+Na exploração de ouro disseminado, a mineralização pode ocupar volumes extensos de rocha, sem necessariamente formar veios bem definidos. Nesse contexto, a investigação geofísica procura delimitar zonas de sulfetação, silicificação, alteração hidrotermal e estruturas geológicas favoráveis à mineralização, que podem apresentar associação especial com o ouro. As respostas geofísicas dependem das propriedades físicas dos minerais associados e das alterações promovidas nas rochas hospedeiras, e não apenas da presença do metal.
+A Polarização Induzida (IP) é especialmente útil quando a mineralização aurífera está associada a sulfetos disseminados, como pirita e arsenopirita, que podem gerar anomalias de cargabilidade, mesmo sem formar corpos eletricamente condutores contínuos. A Eletrorresistividade (RES), quando adquirida em conjunto com a IP, auxilia na diferenciação de zonas silicificadas, materiais argilosos e domínios fraturados. A Magnetometria (MAG) e a Gamaespectrometria podem complementar com o mapeamento das rochas encaixantes e com características relacionadas com os possíveis processos de alterações. Por sua vez, o Aúdio-Magnetotelúrico (MT) contribui para análises em estruturas de zonas de cisalhamento mais profundas e de grande porte, que estão associadas ao sistema mineral e são utilizadas para indicar as regiões de maior potencial para a ocorrência das alterações hidrotermais e mineralizações. Essa integração permite priorizar alvos para sondagem.
+- Cobre
+A exploração de cobre exige metodologias geofísicas compatíveis com as características do modelo de depósito investigado. Em sistemas porfiríticos, os alvos incluem grandes volumes de rochas com sulfetos disseminados e zonas de alteração hidrotermal. Em depósitos de sulfetos maciços ou semimaciços, a investigação pode buscar corpos com elevada condutividade elétrica. Enquanto os sistemas IOCG (Iron Oxide-Copper-Gold), os contrastes de densidade e de propriedades magnéticas associados aos óxidos de ferro podem desempenhar um papel importante na identificação e na delimitação de alvos.
+Nesses contextos, a Polarização Induzida (IP) é útil para investigar zonas com sulfetos disseminados, enquanto a Eletrorresistividade (RES) contribui para a caracterização de domínios com propriedades elétricas contrastantes, potencialmente associados à silicificação, à alteração argílica e a outros domínios do sistema. A Magnetometria (MAG) pode auxiliar no reconhecimento de intrusões, estruturas geológicas e zonas de formação ou destruição de magnetita relacionadas à alteração hidrotermal, além da identificação de contrastes nas propriedades magnéticas das rochas encaixantes.
+A Gamaespectrometria permite mapear variações superficiais nas concentrações de potássio, urânio e tório, contribuindo para o reconhecimento de assinaturas radiométricas compatíveis com determinados tipos de alteração hidrotermal, incluindo a alteração potássica, quando seus efeitos estão preservados na superfície. Adicionalmente, permite identificar enriquecimentos e empobrecimentos relativos desses radioelementos, auxiliando na diferenciação das assinaturas radiométricas superficiais associadas às rochas encaixantes, às zonas de alteração hidrotermal e, em determinados contextos, às zonas mineralizadas. A interpretação dessas respostas deve considerar os efeitos do intemperismo, da cobertura superficial e do transporte de materiais.
+Os Métodos Eletromagnéticos (EM), terrestres ou aéreos, são úteis quando os corpos mineralizados apresentam condutividade elétrica suficiente e conectividade elétrica entre os minerais, como pode ocorrer em depósitos do tipo VMS e IOCG. Para sistemas profundos ou encobertos, a aplicação do método Audiomagnetotelúrico (AMT) pode contribuir para caracterizar a distribuição da resistividade elétrica em subsuperfície, além de destacar regiões de maior condutividade. Dependendo das dimensões do depósito e de suas características geométricas, parâmetros como a direção de mergulho e a geometria dos corpos podem ser estimados a partir dos modelos de resistividade elétrica. A Gravimetria (GRAV) também pode auxiliar na investigação de corpos com contrastes de densidade em relação às rochas encaixantes. A integração desses métodos permite caracterizar diferentes aspectos do sistema mineralizado e priorizar alvos para investigações complementares.
+- Níquel
+Na exploração de níquel, é fundamental distinguir os depósitos sulfetados dos depósitos lateríticos, uma vez que os contrastes físicos e os objetivos da investigação são distintos. Nos depósitos sulfetados, busca-se reconhecer acumulações de sulfetos em sistemas máfico-ultramáficos. Nos depósitos lateríticos, o interesse está, principalmente, na distribuição e na espessura do perfil intempérico, incluindo horizontes limoníticos e saprolíticos desenvolvidos sobre rochas ultramáficas.
+Para os depósitos de níquel sulfetado, os Métodos Eletromagnéticos (EM) são úteis na localização de corpos maciços ou semimaciços que apresentem condutividade elétrica e continuidade suficientes para produzir uma resposta detectável. A intensidade das respostas geofísicas depende da composição mineralógica, da textura e da conectividade dos sulfetos. Por isso, nem toda mineralização de níquel sulfetado apresenta condutividade suficiente para ser detectada de forma eficiente pelos métodos eletromagnéticos. A Polarização Induzida (IP) pode contribuir para a investigação de sulfetos disseminados, enquanto a Magnetometria (MAG) e a Gravimetria (GRAV) auxiliam no reconhecimento e na diferenciação das unidades que compõem as intrusões e os complexos máfico-ultramáficos, além de serem aplicáveis à investigação de sua arquitetura estrutural, diretamente associada à geometria das mineralizações.
+Nos depósitos lateríticos, a Eletrorresistividade (RES) auxilia na caracterização do perfil de intemperismo e na profundidade de rocha menos alteradas. O método também auxilia na identificação de estrutura que viabilizam a lixiviação e concentração anômala dos minerais de minério. Com relação a frente de lavra, o método também é particularmente interessante por distinguir regiões de saprólito argiloso com altas concentrações de níquel e regiões com acúmulos de sílica amorfa (calcedônia), que impactam diretamente no processo de lavra.
+Métodos sísmicos, como a Sísmica de Refração (SR), podem ser utilizados como alternativa à Eletrorresistividade para a identificação do topo rochoso, principalmente quando os materiais apresentam baixo contraste de propriedades elétricas. A Sísmica de Refração (SR) destaca-se pela capacidade de imagear interfaces de transição entre materiais com diferentes graus de alteração intempérica, especialmente quando apresentam contrastes significativos de velocidade de propagação das ondas sísmicas. Além disso, o método apresenta versatilidade em relação à profundidade de investigação, conforme a configuração de aquisição adotada e as condições geológicas locais.
+A Magnetometria (MAG) contribui para a delimitação do substrato ultramáfico e para a identificação de estruturas geológicas em subsuperfície, enquanto o GPR pode investigar interfaces rasas ao longo do perfil pedogenético e auxiliar na identificação de contatos geológicos, desde que as propriedades elétricas do meio permitam adequada penetração e resolução do sinal. A Gamaespectrometria, em escala prospectiva, pode ser utilizada tanto para auxiliar no mapeamento e na diferenciação das unidades geológicas em superfície quanto na identificação de anomalias radiométricas associadas a diferentes intensidades de alteração intempérica. Destacam-se, nesse contexto, as anomalias de tório, uma vez que esse elemento apresenta menor mobilidade durante os processos de lixiviação, podendo resultar em seu enriquecimento relativo em condições de intemperismo intenso. Esses métodos apoiam o planejamento da amostragem e das sondagens, mas a diferenciação dos horizontes mineralizados e a avaliação dos teores e da viabilidade econômica dependem da validação por dados geológicos, geoquímicos e de sondagem.
+- Zinco e Chumbo
+Nos depósitos de zinco e chumbo, os métodos geofísicos são empregados principalmente para identificar concentrações de sulfetos, estruturas geológicas favoráveis à mineralização e alterações hidrotermais associadas.
+A Gravimetria (GRAV) pode contribuir para a identificação de concentrações de minerais mais densos que as rochas encaixantes, enquanto a Polarização Induzida (IP) pode auxiliar na investigação de zonas contendo minerais polarizáveis. Os Métodos Eletromagnéticos (EM) são úteis quando há sulfetos com condutividade e conectividade suficientes para produzir uma resposta detectável, mas podem apresentar resposta limitada em mineralizações nas quais os sulfetos condutores são pouco abundantes ou pouco conectados. O Audiomagnetotelúrico (AMT) pode contribuir para a investigação de depósitos de zinco (Pb-Zn), especialmente em sistemas profundos ou encobertos, permitindo caracterizar a distribuição da resistividade elétrica em subsuperfície, identificar zonas condutivas potencialmente associadas à mineralização e reconhecer estruturas geológicas que controlam a geometria e a distribuição dos corpos mineralizados. A Eletrorresistividade (RES) e a Magnetometria (MAG) complementam a investigação, contribuindo para o mapeamento das rochas encaixantes, estruturas geológicas e zonas de alterações. A Gamaespectrometria pode auxiliar a caracterização litológica superficial e o reconhecimento de alterações hidrotermais, quando associadas a variações nas concentrações de radioelementos.
+- Lítio
+Na exploração de lítio em pegmatitos, um dos principais desafios é localizar corpos sob cobertura e determinar sua geometria, espessura e continuidade. A investigação geofísica busca identificar contrastes de propriedades físicas entre os pegmatitos e suas rochas encaixantes, uma vez que a presença de lítio, por si só, não produz uma assinatura geofísica primária. Quando os pegmatitos e suas rochas encaixantes apresentam propriedades físicas semelhantes, os baixos contrastes geofísicos podem dificultar a identificação e a delimitação dos corpos pegmatíticos, reduzindo a eficácia dos métodos empregados e aumentando as incertezas na interpretação de sua geometria e continuidade em subsuperfície.
+A Eletrorresistividade (RES) pode auxiliar na identificação de contrastes de resistividade elétrica entre os corpos pegmatíticos e as rochas encaixantes. Os pegmatitos podem apresentar maior resistividade em comparação às unidades encaixantes, principalmente quando inseridos em rochas metassedimentares, como xistos, que podem apresentar menores resistividades devido à presença de minerais condutivos, argilominerais e à influência da umidade. O GPR pode auxiliar na identificação dos contatos e na investigação da continuidade dos corpos pegmatíticos, especialmente quando inseridos em rochas encaixantes que apresentam contrastes significativos de propriedades elétricas, como xistos com maior presença de materiais argilosos. Nos casos em que os pegmatitos estão inseridos em unidades composicionalmente semelhantes, como granitoides, a continuidade e a geometria dos corpos podem ser investigadas por meio do GPR a partir das diferenças nas características texturais e nos padrões de reflexão entre as rochas encaixantes e os corpos pegmatíticos, desde que exista contraste eletromagnético suficiente. A Magnetometria (MAG) desempenha um papel importante no mapeamento das estruturas geológicas que podem controlar o posicionamento dos pegmatitos, como falhas, fraturas e zonas de cisalhamento. A Gamaespectrometria pode apoiar o reconhecimento de unidades geológicas e associações mineralógicas superficiais, além de contribuir para a delimitação de regiões com maior potencial para a ocorrência de pegmatitos, principalmente quando a assinatura radiométrica das unidades associadas é conhecida e quando os corpos estão inseridos em rochas com respostas radiométricas distintas. Entretanto, nenhum dos métodos mencionados mede diretamente o teor de lítio ou permite distinguir, de forma inequívoca, pegmatitos mineralizados de corpos estéreis. A seleção e a combinação dos métodos devem ser fundamentadas em estudos petrofísicos, no conhecimento geológico e nas características das ocorrências conhecidas na região.
+Em depósitos de lítio associados a salmouras, os Métodos Eletromagnéticos (EM) convencionais e o Audiomagnetotelúricos (AMT) podem contribuir para investigar unidades condutivas, a geometria das bacias e possíveis zonas de acumulação de fluidos. A condutividade elétrica, entretanto, é influenciada por fatores como a salinidade total, a presença de argilominerais e às condições de saturação, não permitindo determinar diretamente a concentração de lítio. A confirmação do potencial depende, portanto, da integração dos dados com as informações hidrogeológicas, amostragem de fluidos e análises químicas.
+- Terras Raras
+Nos depósitos de terras raras hospedados em regolito, incluindo os de adsorção iônica, a investigação pode se concentrar na espessura e na continuidade do perfil de intemperismo, nas características do substrato rochoso e nas condições geomorfológicas e de drenagem. A Eletrorresistividade (RES), os Métodos Eletromagnéticos (EM) e os Métodos Sísmicos podem auxiliar na caracterização de contrastes locais, bem como apoiar a interpretação das interfaces entre solo, saprólito e rocha. O GPR, incluindo sistemas de baixa frequência como o UltraGPR, pode ser avaliado para investigar interfaces rasas e a geometria do perfil de alteração, desde que as condições elétricas do meio permitam uma penetração adequada do sinal e que sua aplicabilidade seja verificada mediante testes locais. Na prospecção de terras raras, os métodos geofísicos contribuem para a caracterização das propriedades físicas do meio hospedeiro, a identificação de contrastes litológicos e a delimitação de horizontes potencialmente enriquecidos nesses elementos. A Gamaespectrometria, em escala prospectiva, pode ser utilizada tanto para auxiliar no mapeamento e na diferenciação das unidades geológicas em superfície quanto na identificação de anomalias radiométricas associadas a diferentes intensidades de alteração intempérica. Destacam-se, nesse contexto, as anomalias de tório, uma vez que esse elemento apresenta menor mobilidade durante os processos de lixiviação, podendo resultar em seu enriquecimento relativo em condições de intemperismo intenso. Entretanto, a confirmação da mineralização, a determinação dos teores de terras raras e a avaliação da fração efetivamente extraível dependem da integração dos resultados geofísicos com dados de amostragem, caracterização mineralógica, análises geoquímicas e ensaios específicos de extração.
+- Manganês
+Nos depósitos de manganês, os métodos geofísicos podem auxiliar na investigação de camadas, lentes e concentrações supergênicas, bem como de estruturas geológicas que controlam sua distribuição. Os contrastes geofísicos variam em função da presença de óxidos, hidróxidos de manganês, carbonatos, minerais de ferro, argilominerais e água. Dessa forma, corpos manganesíferos podem apresentar respostas elétricas distintas conforme as características mineralógicas texturais e hidrogeológicas locais, não havendo um padrão universal de alta ou baixa resistividade.
+A Eletrorresistividade (RES) e a Polarização Induzida (IP) destacam-se na investigação de mineralizações associadas a óxidos e hidróxidos de manganês, permitindo reconhecer variações de resistividade elétrica e cargabilidade potencialmente relacionadas à distribuição e à continuidade dos corpos mineralizados. Os Métodos Eletromagnéticos (EM) podem complementar essas investigações na identificação de corpos com condutividade elétrica suficientemente elevada, enquanto a Gravimetria (GRAV) pode auxiliar na delimitação de concentrações minerais que apresentem contrastes positivos de densidade em relação às rochas encaixantes. A Magnetometria (MAG), por sua vez, contribui principalmente para o mapeamento de estruturas geológicas, contatos litológicos e associações com minerais magnéticos, embora sua aplicabilidade direta dependa da composição mineralógica do depósito. A integração dessas informações com dados geológicos, geoquímicos e de sondagens permite reduzir as incertezas interpretativas e orientar a definição de alvos prioritários para investigação.
+- Fosfato
+Na prospecção de depósitos de fosfato, os métodos geofísicos contribuem para a identificação de ambientes geológicos favoráveis à mineralização, a delimitação de corpos hospedeiros e a caracterização de sua geometria em subsuperfície. Em depósitos associados a complexos alcalino-carbonatíticos, destacam-se a Magnetometria (MAG) e a Gravimetria (GRAV), que auxiliam no reconhecimento de intrusões, contatos litológicos e estruturas associadas à mineralização, especialmente quando há contrastes de propriedades físicas entre as unidades geológicas, como aqueles relacionados à presença de minerais magnéticos, a exemplo da magnetita. A Gamaespectrometria pode complementar essas investigações por meio da identificação de anomalias radiométricas associadas à presença de radioelementos em determinados minerais fosfáticos ou em suas associações mineralógicas. Em depósitos fosfáticos residuais, a Eletrorresistividade (RES) pode contribuir para a caracterização e delimitação dos horizontes de intemperismo, enquanto a Polarização Induzida (IP) pode ser empregada de forma complementar quando a presença de minerais polarizáveis associados à mineralização produz contrastes de cargabilidade suficientemente expressivos, principalmente em regiões onde a mineralização está associada a zonas de brechamento acompanhadas de sulfetação. A integração dos resultados geofísicos com informações geológicas, geoquímicas e de sondagens é fundamental para confirmar a mineralização e avaliar sua continuidade e potencial econômico.
+- Potássio
+- Bauxita
+Na prospecção de depósitos de bauxita, os métodos geofísicos contribuem para a caracterização dos perfis de intemperismo, a delimitação dos horizontes lateríticos e a identificação de regiões potencialmente enriquecidas em minerais de alumínio. Esses depósitos estão frequentemente associados a processos intensos de alteração intempérica, que promovem a lixiviação de elementos mais móveis e o enriquecimento residual de minerais aluminosos. As diferenças de composição mineralógica, porosidade, umidade e grau de alteração entre os horizontes podem produzir contrastes de propriedades físicas que permitem sua investigação por diferentes métodos geofísicos.
+A Eletrorresistividade (RES) destaca-se na caracterização dos contrastes geoelétricos entre os horizontes bauxíticos, materiais argilosos e o substrato rochoso, contribuindo para a delimitação dos corpos mineralizados e a estimativa de suas espessuras e continuidade lateral. Em depósitos estratiformes, esses contrastes podem favorecer a identificação da geometria dos horizontes mineralizados, cujas respostas elétricas variam conforme a composição mineralógica, a porosidade, a umidade e o grau de alteração intempérica.
+O Radar de Penetração no Solo (GPR) complementa essas investigações, especialmente em depósitos rasos, permitindo reconhecer interfaces, variações de espessura e descontinuidades entre os horizontes lateríticos. Em depósitos estratiformes, a identificação de refletores associados aos contrastes de propriedades eletromagnéticas pode auxiliar na caracterização da geometria e continuidade lateral dos corpos bauxíticos, desde que as condições elétricas do meio permitam adequada penetração e resolução do sinal.
+A Gravimetria (GRAV) pode ser utilizada de forma complementar quando existem contrastes de densidade suficientemente expressivos entre os corpos bauxíticos e os materiais adjacentes, contribuindo para a investigação de sua geometria e distribuição espacial. A integração desses métodos auxilia no reconhecimento de regiões prioritárias e no planejamento de sondagens. Entretanto, a identificação dos horizontes economicamente aproveitáveis depende da validação por dados geológicos, geoquímicos e de sondagem, incluindo análises dos teores de alumina (Al₂O₃), sílica reativa e outros parâmetros relacionados à qualidade do minério.
+- Grafita
+Na prospecção de depósitos de grafita, os métodos geofísicos destacam-se pela possibilidade de identificar contrastes expressivos de condutividade elétrica entre os corpos mineralizados e suas rochas encaixantes. Os Métodos Eletromagnéticos (EM) são particularmente relevantes na detecção de zonas condutivas associadas a concentrações de grafita, especialmente quando apresentam espessura, volume e continuidade elétrica suficientes para produzir anomalias detectáveis. A Eletrorresistividade (RES) contribui para a identificação e delimitação de zonas de baixa resistividade, potencialmente relacionadas à presença de materiais grafitosos, enquanto a Polarização Induzida (IP) pode auxiliar no reconhecimento de concentrações de grafita que apresentem respostas de cargabilidade expressivas. Esses métodos são especialmente relevantes na investigação de depósitos de grafita em flocos (flake graphite), nos quais a distribuição, a concentração e a conectividade dos minerais de grafita influenciam diretamente as respostas geoelétricas. A Magnetometria (MAG) complementa essas investigações ao permitir o mapeamento de estruturas geológicas, contatos litológicos e unidades hospedeiras potencialmente favoráveis à mineralização, especialmente quando apresentam contrastes de propriedades magnéticas. A integração dos resultados geofísicos com informações geológicas, geoquímicas e de sondagens permite delimitar alvos prospectivos, avaliar a continuidade dos corpos mineralizados e orientar campanhas de investigação de detalhe.
+- Urânio
+Na exploração de urânio, a Gamaespectrometria terrestre ou aérea permite identificar anomalias radiométricas próximas à superfície e distinguir as contribuições de potássio, urânio e tório. O canal de urânio geralmente fornece a estimativa do urânio equivalente (eU), calculada a partir da radiação gama emitida por radionuclídeos descendentes de sua cadeia de decaimento, sendo esse um método de detecção primaria do alvo em questão. Fatores como cobertura superficial, umidade e desequilíbrio radioativo podem influenciar a resposta, de modo que a ausência de anomalia radiométrica superficial não exclui mineralização em profundidade.
+Para alvos encobertos, métodos como a Eletrorresistividade (RES), os Métodos Eletromagnéticos (EM) e a Magnetometria (MAG) podem auxiliar no mapeamento das rochas hospedeiras, das estruturas geológicas e das características físicas associadas a ambientes favoráveis à mineralização, conforme o modelo do depósito. A Perfilagem Gama Natural em furos de sondagem contribui para identificar intervalos radioativos e correlacioná-los entre as sondagens. A integração dos resultados geofísicos com dados geológicos, geoquímicos e de sondagens permite delimitar alvos prospectivos, orientar investigações de detalhe e reduzir as incertezas relacionadas à geometria e à continuidade dos corpos mineralizados.
+APLICAÇÕES
+- Investigação de fundações
+Variações na espessura do solo, presença de aterros heterogêneos, blocos rochosos, cavidades e zonas de rocha alterada podem representar desafios ao planejamento e ao dimensionamento de fundações, além de contribuir para comportamentos geotécnicos distintos entre os pontos de apoio de uma estrutura. Nesse contexto, os métodos geofísicos permitem investigar a distribuição espacial e a continuidade dessas condições, complementando as informações obtidas por sondagens e ensaios geotécnicos. A partir de contrastes de velocidade sísmica e resistividade elétrica, é possível identificar diferentes domínios geológico-geotécnicos e delimitar setores que demandam investigações complementares.
+A Sísmica de Refração (SR) (SR) auxilia na caracterização do perfil de velocidades sísmicas e na identificação de interfaces entre solos, materiais alterados e rocha. O MASW (Multichannel Analysis of Surface Waves) permite estimar a velocidade de propagação das ondas de cisalhamento (Vs), parâmetro associado à rigidez dos materiais em pequenas deformações. A Eletrorresistividade (RES), por meio de investigações 2D ou 3D, complementa a caracterização do subsolo, permitindo identificar heterogeneidades, possíveis cavidades e zonas com diferentes condições de alteração e saturação.
+A integração dos resultados geofísicos com as investigações geotécnicas contribui para o refinamento do modelo geológico-geotécnico, o direcionamento de sondagens complementares e a avaliação de alternativas de fundação. Entretanto, a determinação da capacidade de carga e a estimativa de recalques exigem análises geotécnicas específicas, considerando as propriedades dos materiais, as condições de carregamento e as características da estrutura.
+- Mapeamento de interferências subterrâneas
+Muitas áreas construídas não possuem registros completos ou atualizados da localização de cabos elétricos, redes de comunicação, tubulações de água, esgoto, gás e outras estruturas enterradas. Intervenções realizadas sem esse conhecimento podem causar acidentes, interrupções de serviços, danos às instalações e atrasos na obra. A investigação geofísica auxilia na localização e mapeamento dessas interferências antes de escavações, perfurações ou implantação de novas estruturas.
+O GPR (Radar de Penetração no Solo) utiliza ondas eletromagnéticas para identificar reflexões produzidas por contrastes nas propriedades eletromagnéticas entre os objetos enterrados e o terreno. O método pode detectar interferências metálicas e não metálicas, desde que exista contraste suficiente em relação ao meio circundante, permitindo interpretar seu traçado e estimar suas profundidades. A frequência das antenas é selecionada conforme as dimensões e a profundidade dos alvos. Solos muito condutivos, especialmente aqueles ricos em argilas ou com elevada salinidade, podem limitar o sinal e a profundidade de investigação.
+A integração entre GPR e Pipelocator amplia a capacidade de identificação e caracterização das interferências subterrâneas, combinando técnicas com diferentes princípios físicos e contribuindo para a redução de riscos durante intervenções no subsolo. Os resultados devem ser interpretados considerando as condições locais e, quando necessário, confirmados por verificações diretas antes da execução das intervenções.
+- Identificação de vazios, cavidades e zonas de fraqueza
+Cavidades naturais, galerias antigas, vazios sob pavimentos e zonas de desagregação podem comprometer o suporte do terreno e favorecer a ocorrência de subsidências ou colapsos em obras de engenharia. Esses alvos nem sempre apresentam indícios na superfície e podem não ser interceptados por sondagens pontuais. A geofísica permite investigar contrastes de densidade, resistividade e propagação de ondas, permitindo reconhecer anomalias compatíveis com vazios ou materiais enfraquecidos e orientar investigações complementares.
+O GPR (Radar de Penetração no Solo) pode identificar reflexões associadas ao contraste eletromagnético entre o terreno e uma cavidade, sendo útil na investigação de vazios relativamente rasos, desde que as condições de penetração do sinal sejam favoráveis. A Eletrorresistividade (RES), 2D ou 3D, contribui para investigar cavidades e zonas alteradas, uma vez que, vazios com ar podem produzir respostas resistivas, enquanto os que estão preenchimentos, por material argilosos ou por água, podem gerar respostas condutivas. A Microgravimetria pode identificar anomalias negativas de gravidade associadas a déficits de massa, conforme suas dimensões, profundidade e contraste com o entorno.
+A Sísmica de Refração (SR) e o MASW (Multichannel Analysis of Surface Waves) podem complementar a investigação de setores com velocidades reduzidas, potencialmente associados a materiais menos rígidos, alterados ou desagregados. A interpretação conjunta entre os métodos geofísicos ajuda a distinguir possíveis cavidades e variações naturais do terreno, além de orientar locais para sondagens ou inspeções complementares. A capacidade de detecção depende do tamanho, da profundidade e do preenchimento do alvo, além da resolução do levantamento.
+- Determinação da espessura do solo e profundidade do embasamento
+Variações na espessura do solo, profundidade do topo rochoso e grau de alteração dos materiais podem dificultar o planejamento de fundações, a estimativa de volumes e de escavação, e também a seleção de equipamentos. Os métodos geofísicos permitem investigar essas condições, contribuindo para a caracterização do perfil geológico-geotécnico e a identificação de diferentes domínios em subsuperfície.
+A Sísmica de Refração (SR) (SR), incluindo a interpretação tomográfica, permite estimar a geometria das interfaces entre solo, materiais alterados e rocha. Adicionalmente, as velocidades das ondas compressionais (Vp) auxiliam na avaliação preliminar da escavabilidade, permitindo diferenciar zonas potencialmente escaváveis por métodos convencionais, escarificação mecânica ou as que possam exigir desmonte. A Eletrorresistividade (RES) complementa a identificação de interfaces e variações no grau de alteração dos materiais. Em condições favoráveis, o GPR auxilia no mapeamento de interfaces rasas, enquanto o HVSR pode contribuir para estimativas da espessura da cobertura sedimentar ou de alteração.
+APLICAÇÕES
+- Prospecção de água subterrânea e locação de poços
+A perfuração de poços sem conhecimento suficiente das condições do subsolo pode resultar em estruturas de baixa produtividade ou no aproveitamento de água inadequada para o uso pretendido. A geofísica auxilia na identificação de unidades e estruturas com potencial para armazenar e transmitir água, como camadas arenosas, zonas de alteração e sistemas de fraturas. Seu objetivo é contribuir para a seleção de locais mais favoráveis à perfuração e reduzir as incertezas sobre a geometria dos possíveis aquíferos.
+A Eletrorresistividade (RES), por meio da técnica de campo da Sondagem Elétricas Vertical (SEV) e do Caminhamento Elétrico (CE), permite investigar contrastes resistividades entre materiais com diferentes características de composição, porosidade, saturação e salinidade. Em investigações de maior profundidade ou levantamentos de escala regional, os Métodos Eletromagnéticos (EM), como o Eletromagnético Transiente (TEM/TDEM), e o Áudiomagnetotelúricos (AMT), podem complementar a caracterização de unidades geológicas e estruturas sob cobertura.
+- Identificação de zonas de recarga e descarga
+A identificação de zonas de recarga e descarga é fundamental para compreender a dinâmica da água subterrânea, avaliar a interação entre aquíferos e corpos hídricos superficiais e identificar áreas de maior vulnerabilidade hidrogeológica. Esses processos podem ocorrer de forma difusa ou concentrada, condicionados pelas características dos materiais, estruturas geológicas, topografia e condições hidráulicas locais. Nesse contexto, os métodos geofísicos auxiliam na identificação de zonas preferenciais de infiltração, circulação e descarga da água subterrânea, a partir de variações nas propriedades físicas dos materiais.
+A Eletrorresistividade (RES) permite investigar contrastes de resistividade associados a diferenças de umidade, saturação, litologia e condições de alteração, contribuindo para a identificação de zonas potencialmente favoráveis à infiltração e circulação da água. O Potencial Espontâneo (SP) complementa essas investigações ao identificar anomalias elétricas potencialmente associadas ao fluxo subterrâneo, auxiliando na interpretação de caminhos preferenciais de circulação e de possíveis zonas de descarga.
+A integração dos resultados geofísicos com dados geológicos, hidrogeológicos, piezométricos e hidrológicos permite refinar a interpretação dos processos de recarga e descarga, contribuindo para a elaboração de modelos hidrogeológicos e o planejamento de ações de monitoramento e proteção dos recursos hídricos.
+- Investigação de aquíferos fraturados e porosos
+A caracterização de um aquífero exige compreender sua geometria, continuidade e relação com unidades geológicas que favorecem ou restringem o fluxo de água subterrânea. Nos aquíferos porosos, a água circula, principalmente, pelos espaços entre os grãos, enquanto nos aquíferos fraturados, ocorre, predominantemente, por descontinuidades da rocha. A geofísica amplia a investigação entre poços e sondagens, ajudando a reconhecer heterogeneidades relevantes para o armazenamento e a transmissão de água.
+Nos aquíferos porosos, Eletrorresistividade (RES) e os Métodos Eletromagnéticos, no Domínio do Tempo (TEM/TDEM), auxiliam na diferenciação de unidades geológicas e na identificação de possíveis camadas aquíferas e confinantes. Os contrastes elétricos dependem da saturação, salinidade da água, porosidade, composição mineralógica e conteúdo de argilas.
+Nos aquíferos fraturados, a circulação de água depende principalmente das descontinuidades, uma vez que, a matriz rochosa, geralmente, apresenta baixa permeabilidade. Entretanto, nem toda fratura ou falha armazena ou transmite água de forma significativa, pois seu potencial aquífero depende de fatores como abertura, conectividade, preenchimento, extensão e posição no sistema hidrogeológico influenciam o potencial aquífero. A Eletrorresistividade (RES), 2D ou 3D, e os Métodos Eletromagnéticos (EM) podem reconhecer domínios com propriedades elétricas distintas, potencialmente associados a fraturamento, alteração, materiais argilosos ou presença de água nas fraturas. A Magnetometria (MAG), por sua vez, auxilia no mapeamento de lineamentos, contatos litológicos e deslocamentos de unidades magnéticas. A combinação desses métodos permite selecionar estruturas prioritárias para investigação direta.
+Em furos de sondagem, a perfilagem óptica ou acústica de parede permite caracterizar a orientação e as características das fraturas interceptadas. Medições de fluxo, temperatura e condutividade elétrica do fluido podem auxiliar na identificação de intervalos com entrada ou saída de água e na avaliação de possíveis conexões hidráulicas. A integração dessas informações com ensaios hidráulicos permite distinguir descontinuidades identificadas daquelas que apresentam capacidade efetivamente transmissivas.
+- Mapeamento da interface entre água doce e água salina
+Em regiões costeiras e outros ambientes sujeitos à salinização, a exploração de água subterrânea pode alterar o equilíbrio entre águas de diferentes salinidades. Conhecer a distribuição espacial da água salina e sua evolução contribui para o planejamento dos poços, a avaliação da vulnerabilidade dos aquíferos e o monitoramento de processos de salinização. A investigação baseia-se, principalmente, nos contrastes de propriedades elétricas, uma vez que a água com maior concentração de sais dissolvidos tende a aumentar a condutividade elétrica e reduzir a resistividade dos materiais saturados.
+A Eletrorresistividade (RES) e os Métodos Eletromagnéticos (EM), como domínio do tempo (TEM/TDEM) e no domínio da frequência (FDEM), permitem investigar a distribuição de domínios com diferentes propriedades elétricas e permitem estimar zonas de transição entre águas de distintas salinidades. O Audiomagnetotelúrico (AMT) pode complementar os estudos em profundidades e escalas regionais. A interpretação deve considerar a litologia, o conteúdo de argilas, a porosidade e o grau de saturação, pois esses fatores também podem influenciar as respostas elétricas e dificultar a distinção entre efeitos geológicos e salinidade.
+A Perfilagem Elétrica e as medições de condutividade elétrica do fluido em furos, associada à coleta e à análise de amostras da água em diferentes profundidades, ajudam a calibrar os modelos geofísicos. Os levantamentos repetidos permitem acompanhar mudanças relacionadas ao bombeamento, à recarga e à evolução dos processos de salinização. Como a mistura entre águas de deferentes salinidades ocorre, frequentemente, de forma gradual, os resultados podem representar uma zona de transição, em vez de uma interface abrupta entre a água doce e a água salina.
+- Mapeamento de plumas de contaminação
+Após a identificação de uma fonte de contaminação, é necessário avaliar a distribuição dos contaminantes no subsolo e sua relação com o fluxo subterrâneo. A geofísica complementa as investigações diretas, auxiliando na delimitação de plumas e na identificação de estruturas geológicas que condicionam sua migração.
+A Eletrorresistividade (RES) e os Métodos Eletromagnéticos (EM) permitem identificar contrastes de condutividade elétrica associados à contaminação, especialmente em águas enriquecidas em íons dissolvidos, como ocorre frequentemente em plumas associadas à infiltração de chorume (lixiviado de resíduos sólidos), que tende a produzir anomalias de baixa resistividade elétrica. A Polarização Induzida (IP) pode complementar essa caracterização, enquanto o Radar de Penetração no Solo (GPR) auxilia na identificação de alterações nas propriedades eletromagnéticas e de caminhos preferenciais de migração dos contaminantes.
+Esses métodos também podem contribuir para a investigação de contaminantes hidrocarbonetos em fase líquida não aquosa, como os LNAPLs (Light Non-Aqueous Phase Liquids) menos densos que a água e que tendem a se acumular próximos ao nível freático, e os DNAPLs (Dense Non-Aqueous Phase Liquids), mais densos e capazes de migrar abaixo desse nível. A resposta geofísica depende das propriedades dos contaminantes e das alterações físico-químicas produzidas no meio, sendo necessária sua integração com dados de sondagens e análises químicas.
+- Apoio ao rebaixamento do nível d’água e desaguamento de minas
+Em minas e escavações, a presença de água subterrânea pode comprometer a segurança, a estabilidade dos taludes e a eficiência operacional. O planejamento do rebaixamento do nível d’água e do desaguamento requer o conhecimento das unidades aquíferas, das barreiras hidráulicas e das estruturas geológicas que condicionam a circulação da água. A geofísica contribui para essa investigação, reduzindo as incertezas dos modelos geológicos e hidrogeológicos e auxiliando no planejamento dos sistemas de drenagem.
+A Eletrorresistividade (RES), conforme a profundidade e a escala de investigação, permite caracterizar unidades geológicas e identificar zonas potencialmente associadas à saturação e ao fraturamento. A integração desses resultados com sondagens, perfilagens geofísicas e ensaios hidráulicos contribui para a identificação de zonas de circulação de água e para o posicionamento de poços de bombeamento e sistemas de drenagem.
+Durante o desaguamento, levantamentos elétricos repetidos no tempo e o Potencial Espontâneo (SP) podem auxiliar no monitoramento de alterações associadas à redistribuição da água subterrânea e na identificação de possíveis caminhos de fluxo. A integração desses dados com medições piezométricas, vazões de bombeamento e modelos hidrogeológicos permite avaliar a resposta do aquífero ao rebaixamento e subsidiar o planejamento e a otimização dos sistemas de desaguamento.
+O GPR (Radar de Penetração no Solo) pode identificar reflexões associadas a estruturas e interfaces enterradas, permitindo estimar profundidades e produzir imagens em diferentes níveis do subsolo. A Magnetometria (MAG), especialmente o levantamento de gradiente magnético, é útil para investigar fornos, áreas de queima, objetos ferrosos e preenchimentos de fossas ou valas com propriedades magnéticas contrastantes em relação ao terreno adjacente. A Eletrorresistividade (RES) pode complementar o mapeamento de fundações e muros, que pode apresentar resistividade mais elevada, ou de escavações antigas preenchidas por materiais com propriedades elétricas diferentes do entorno.
+A integração dos métodos geofísicos com informações históricas, levantamento topográfico e interpretação arqueológica auxilia na delimitação de áreas prioritárias para escavação, no planejamento de intervenções e na preservação dos sítios. A escolha das técnicas deve considerar as dimensões e a profundidade dos vestígios, as condições do solo, de umidade e as interferências modernas. As anomalias identificadas representam alvos potenciais, com base em evidências complementares.
+A Batimetria, por meio de levantamentos com ecobatímetros monofeixe ou multifeixe, permite mapear a geometria e a profundidade do leito submerso. A repetição dos levantamentos possibilita identificar áreas de erosão e deposição, quantificar variações volumétricas e acompanhar a evolução do assoreamento. O Perfilador de Subfundo (Sub-Bottom Profiler – SBP) complementa essa investigação, permitindo identificar refletores associados a interfaces sedimentares, estimar a espessura de depósitos e caracterizar a geometria das camadas abaixo do leito.
+O Radar de Penetração no Solo (GPR), inclusive por meio de sistemas aerotransportados por drones, pode contribuir para a investigação da interface entre a coluna d'água e o fundo, bem como de estruturas sedimentares rasas, especialmente em ambientes de água doce com baixa condutividade elétrica. Sua aplicação depende das condições de propagação das ondas eletromagnéticas, particularmente da condutividade da água e dos sedimentos.
+A integração dessas técnicas permite acompanhar a evolução morfológica e sedimentar dos ambientes aquáticos, contribuindo para a identificação de zonas de acúmulo e remoção de sedimentos, a estimativa de volumes depositados e a avaliação da dinâmica hidrossedimentológica ao longo do tempo.
+APLICAÇÕES
+- Monitoramento de barragens, pilhas e taludes
+A Eletrorresistividade (RES) permite investigar a distribuição da resistividade elétrica dos materiais no subsolo, propriedade influenciada pela composição geológica, umidade, grau de saturação e salinidade da água presente nos poros e fraturas. A repetição dos levantamentos ao longo do tempo possibilita acompanhar a evolução das anomalias geoelétricas, identificando sua expansão, redução ou deslocamento, especialmente aquelas associadas a variações de saturação e à movimentação da água subterrânea. O método também pode contribuir para a investigação e o acompanhamento das superfícies freáticas, quando estas produzem contrastes elétricos identificáveis.
+O Potencial Espontâneo (SP) permite investigar variações naturais do potencial elétrico, incluindo aquelas associadas ao fluxo de água subterrânea por processos eletrocinéticos. O monitoramento por SP pode auxiliar na identificação de caminhos preferenciais de percolação e no acompanhamento de alterações nos padrões de fluxo, contribuindo para a avaliação do comportamento hidráulico de maciços, barragens e outras estruturas.
+O MASW (Multichannel Analysis of Surface Waves) permite caracterizar os materiais a partir da distribuição das velocidades das ondas cisalhantes (Vs), relacionadas às suas propriedades elásticas e à rigidez do maciço. A partir dos valores de Vs e da densidade dos materiais, é possível estimar o módulo de cisalhamento máximo (G₀) e elaborar modelos de rigidez em subsuperfície. A repetição dos levantamentos pode auxiliar na identificação de alterações nessas propriedades, potencialmente associadas a mudanças nas condições de saturação, compactação e integridade dos materiais.
+A Interferometria Sísmica, especialmente por meio da análise de ruído sísmico ambiental, permite acompanhar variações relativas das velocidades de propagação das ondas sísmicas no interior das estruturas, frequentemente expressas pelo parâmetro dv/v. Essas variações podem estar associadas a mudanças na rigidez dos materiais, nas condições de saturação e no estado de tensões. Por meio de sensores sísmicos instalados em pontos estratégicos, é possível realizar o monitoramento contínuo ou periódico dessas alterações, identificando tendências temporais e possíveis mudanças no comportamento mecânico de barragens, pilhas e taludes.
+A integração dos resultados geofísicos com inspeções de campo, instrumentação geotécnica e dados de engenharia contribui para identificar áreas prioritárias para investigação e apoiar decisões relacionadas à manutenção, ao controle de infiltrações e à gestão de riscos. Embora a geofísica amplie o conhecimento sobre as condições internas das estruturas, seus resultados devem ser interpretados em conjunto com outros dados, pois uma anomalia geofísica não representa, isoladamente, a confirmação de instabilidade ou de uma condição de risco.
+-  Monitoramento de plumas de contaminação
+O monitoramento geofísico de plumas de contaminação permite acompanhar a distribuição e a evolução de substâncias contaminantes no solo e na água subterrânea. Esse serviço é importante em áreas industriais, aterros sanitários, instalações de mineração, postos de combustíveis e locais com histórico de vazamentos ou disposição inadequada de resíduos. A investigação auxilia na identificação de possíveis caminhos de migração dos contaminantes, na avaliação da extensão das áreas afetadas e no acompanhamento de medidas de remediação, contribuindo para o planejamento de ações de controle ambiental.
+A Eletrorresistividade (RES) 2D e 3D permite mapear contrastes elétricos no subsolo que podem estar associados à presença de determinados contaminantes, especialmente quando estes alteram a concentração de íons dissolvidos na água subterrânea. A repetição dos levantamentos possibilita comparar os resultados ao longo do tempo e acompanhar mudanças na distribuição dessas anomalias. Os Métodos Eletromagnéticos (EM), como domínio do tempo (TEM/TDEM) e domínio da frequência (FDEM), investigam variações da condutividade elétrica do terreno e podem complementar o mapeamento de áreas potencialmente afetadas. A Polarização Induzida (IP) pode auxiliar na caracterização de alterações físico-químicas associadas à contaminação, enquanto o Radar de Penetração no Solo (GPR) permite investigar contrastes eletromagnéticos e identificar estruturas e caminhos preferenciais de migração, especialmente em terrenos de baixa condutividade elétrica. O Potencial Espontâneo (SP) pode contribuir para a identificação de padrões de fluxo subterrâneo e de anomalias elétricas associadas
+A integração dos resultados geofísicos com análises químicas da água e do solo, dados de poços de monitoramento e informações sobre o fluxo subterrâneo permite avaliar a evolução da contaminação e orientar a localização de pontos adicionais de amostragem. Levantamentos repetidos também podem auxiliar na avaliação das mudanças ocorridas durante processos de remediação. Entretanto, nem todos os contaminantes produzem contrastes geofísicos detectáveis, e materiais argilosos ou águas naturalmente salinas podem gerar respostas semelhantes às de uma pluma contaminante. Por isso, a geofísica deve ser utilizada como ferramenta complementar, sendo necessária a confirmação por amostragem e análises laboratoriais para determinar a composição e a concentração dos contaminantes
+- Monitoramento Microssísmico
+O monitoramento microssísmico permite registrar e analisar pequenos eventos sísmicos associados à movimentação de rochas, à propagação de fraturas e à redistribuição de tensões no maciço rochoso. É amplamente aplicado em operações de mineração subterrânea, escavações profundas, obras geotécnicas e reservatórios submetidos a alterações de pressão. O acompanhamento contínuo da atividade sísmica auxilia na identificação de mudanças no comportamento do maciço, na avaliação de áreas com maior concentração de eventos e na gestão da segurança operacional.
+O monitoramento é realizado por meio de sensores sísmicos instalados na superfície, em furos de sondagem ou no interior de minas e escavações, permitindo registrar e localizar eventos microssísmicos, estimar suas magnitudes e acompanhar sua distribuição espacial e temporal. Em operações de mineração subterrânea, por exemplo, o avanço das frentes de lavra pode provocar redistribuições de tensões e induzir processos de fraturamento no maciço rochoso. O monitoramento permite acompanhar a evolução da atividade microssísmica nas proximidades dessas escavações, auxiliando na identificação de setores com maior concentração de eventos e de possíveis alterações nas condições de estabilidade. O monitoramento microssísmico também pode ser empregado para avaliar os possíveis impactos do avanço da lavra sobre cavidades naturais e subterrâneas existentes nas proximidades. A evolução das escavações e das atividades de desmonte pode provocar alterações no estado de tensões e induzir processos de fraturamento no maciço rochoso. O acompanhamento da atividade microssísmica permite identificar e localizar eventos nas proximidades dessas cavidades, avaliar sua evolução espacial e temporal e investigar possíveis relações com o avanço da lavra, contribuindo para a avaliação de impactos e para a preservação da integridade dessas estruturas.
+A integração dos registros microssísmicos com dados geológicos, informações operacionais e instrumentos de monitoramento geotécnico contribui para a avaliação do comportamento do maciço e o planejamento de medidas preventivas. Os resultados podem subsidiar decisões relacionadas à sequência de lavra, ao dimensionamento de suportes e à gestão de riscos geotécnicos.
+[BLOCO 1] ABERTURA
+Pesquisa e Desenvolvimento
+Da investigação em campo ao desenvolvimento de novas soluções.
+Projetos geofísicos geram grandes volumes de dados e desafios que nem sempre podem ser resolvidos com ferramentas prontas.
+Por isso, a Neogeo mantém uma frente própria de Pesquisa & Desenvolvimento dedicada à criação de softwares, sistemas de aquisição e novas aplicações para processamento, interpretação e monitoramento geofísico.
+(QUERO CONHECER)
+[BLOCO 2] P&D NA PRÁTICA
+Tecnologia desenvolvida a partir de necessidades reais
+Quando o projeto exige uma nova resposta, buscamos uma nova forma de chegar até ela.
+Nossa atuação em P&D está conectada aos desafios encontrados nos projetos.
+Desenvolvemos ferramentas para otimizar rotinas, trabalhar com diferentes escalas de dados e adaptar sistemas às características específicas de cada investigação. A experiência adquirida em campo também alimenta pesquisas e novas aplicações da geofísica.
+[BLOCO 3] O QUE DESENVOLVEMOS
+Pesquisa que chega ao campo.
+Softwares e ferramentas próprias
+Desenvolvimento de soluções para apoiar o processamento, a análise e a interpretação de dados geofísicos.
+Sistemas personalizados de aquisição
+Montagem, configuração e otimização de sistemas desenvolvidos de acordo com necessidades específicas dos projetos.
+Novas aplicações geofísicas
+Pesquisa e adaptação de métodos para transformar conhecimento técnico e científico em aplicações práticas.
+Pesquisa científica
+Produção e divulgação de pesquisas em periódicos e eventos científicos nacionais e internacionais.
+(INICIATIVAS P&D)
+[BLOCO 4] GEOTRACK
+Tecnologia Neogeo
+GEOTRACK: monitoramento microssísmico desenvolvido pela Neogeo.
+O GEOTRACK é o sistema próprio da Neogeo para monitoramento microssísmico.
+A solução integra o registro multicanal de sinais sísmicos ao processamento dos dados, permitindo acompanhamento em tempo real e diferentes análises relacionadas ao comportamento da área monitorada.
+Entre os parâmetros e análises que podem fazer parte do monitoramento estão:
+- picos de velocidade e aceleração de partícula;
+- variação relativa da velocidade sísmica;
+- velocidade de propagação da onda S;
+- detecção de eventos sísmicos;
+- análises por métodos passivos de ondas de superfície;
+- interferometria sísmica.
+(QUERO CONHECER A SOLUÇÃO DE MONITORAMENTO)
+[BLOCO 5] MONITORAMENTO MICROSSÍSMICO
+Observar mudanças que acontecem ao longo do tempo.
+O monitoramento microssísmico permite acompanhar sinais e alterações associados ao comportamento de estruturas e áreas de interesse geotécnico.
+Parâmetros como níveis de vibração e variações na velocidade sísmica podem acrescentar novas informações ao acompanhamento das condições do meio e contribuir para análises relacionadas à gestão de riscos.
+Do campo à análise
+1. Instalação do sistema
+Implantação da infraestrutura e dos sensores necessários para o monitoramento.
+2. Registro contínuo
+Aquisição dos sinais sísmicos e detecção de eventos.
+3. Transmissão dos dados
+Envio das informações adquiridas para o servidor.
+4. Processamento e análise
+Tratamento e interpretação dos dados registrados.
+5. Resultados
+Organização das informações e emissão de relatórios técnicos.
+[BLOCO 6] CIÊNCIA E CONHECIMENTO
+Pesquisa científica
+Conhecimento técnico também precisa circular.
+A Pesquisa & Desenvolvimento da Neogeo também se conecta à produção científica.
+A empresa participa da divulgação de estudos em periódicos e eventos técnicos, levando questões observadas nos projetos para a pesquisa e aproximando o conhecimento acadêmico de aplicações práticas da geofísica.
+[BLOCO 7] PUBLICAÇÕES
+Nossas publicações
+Pesquisa produzida pela Neogeo.
+2023
+Influence of rainfall in a short-term seismic velocity monitoring at an urban landslide site in Minas Gerais, Brazil.
+Journal of Applied Geophysics, 214.
+2021
+Use of MASW for an earth dam characterization and shear modulus estimation in Belo Horizonte – MG, Brazil.
+Brazilian Journal of Geophysics, 39(2), 237–246.
+[BLOCO 8] CONTATO
+Seu projeto exige uma investigação fora do convencional?
+Conte para nossa equipe o que precisa ser investigado. Podemos entender o desafio, avaliar as informações disponíveis e identificar os caminhos técnicos mais adequados para o projeto.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 1] ABERTURA
+Segurança, Meio Ambiente e Saúde
+Fazer um bom trabalho também significa cuidar de como ele é feito.
+Na Neogeo, Segurança, Meio Ambiente e Saúde fazem parte da forma como planejamos e executamos nossas atividades.
+Trabalhamos para oferecer um ambiente seguro e saudável, prevenir acidentes e impactos ambientais e manter uma cultura de responsabilidade em todas as operações.
+[BLOCO 2] NOSSO COMPROMISSO
+Compromisso com SMS
+Segurança, responsabilidade e qualidade caminham juntas.
+Nosso compromisso com SMS está integrado à gestão da Neogeo e orienta a atuação das equipes dentro e fora de campo.
+Buscamos:
+- prestar serviços de qualidade atendendo aos requisitos de nossos clientes;
+- cumprir requisitos legais, regulamentos e padrões aplicáveis às nossas atividades;
+- trabalhar com a meta de zero danos pessoais e materiais;
+- prevenir acidentes de trabalho e doenças ocupacionais;
+- reduzir e controlar os impactos ambientais das nossas operações;
+- estimular comportamentos seguros e ambientalmente responsáveis;
+- promover a melhoria contínua das práticas de Segurança, Meio Ambiente e Saúde.
+[BLOCO 3] NOSSOS PILARES
+Responsabilidade presente em cada etapa.
+Segurança
+A prevenção orienta nossas atividades. Buscamos identificar e controlar riscos antes e durante a execução dos trabalhos, oferecendo condições seguras para nossas equipes e demais pessoas envolvidas nas operações.
+Saúde
+Valorizamos ambientes de trabalho saudáveis e práticas que contribuam para a saúde ocupacional e o bem-estar das pessoas.
+Meio Ambiente
+Planejamos nossas atividades buscando controlar seus aspectos e impactos ambientais e atuar de forma responsável nos locais onde estamos presentes.
+Melhoria contínua
+Objetivos, metas, procedimentos e práticas de SMS são acompanhados e revisados como parte do desenvolvimento contínuo da empresa.
+[BLOCO 4] SEGURANÇA COMEÇA NA GESTÃO
+Uma responsabilidade compartilhada
+Cultura de segurança se constrói todos os dias.
+A liderança da Neogeo é responsável por promover as condições necessárias para a saúde ocupacional, a segurança do trabalho e o controle dos aspectos ambientais relacionados às operações.
+Ao mesmo tempo, esperamos de todas as pessoas envolvidas em nossas atividades uma postura compatível com esses princípios.
+Comunicação, participação e prevenção fazem parte desse processo.
+[BLOCO 5] EM CAMPO
+SMS na operação
+Planejamento técnico também é planejamento seguro.
+Projetos geofísicos podem envolver diferentes ambientes, terrenos, equipamentos e condições operacionais.
+Por isso, os aspectos relacionados à segurança, à saúde das equipes e ao meio ambiente fazem parte do planejamento das atividades e precisam acompanhar cada projeto desde sua preparação até a execução em campo.
+[INSERIR IMAGENS DAS EQUIPES DA NEOGEO EM CAMPO / EPIs / OPERAÇÕES]
+[BLOCO 6] SUSTENTABILIDADE
+Responsabilidade ambiental
+Desenvolvimento técnico com atenção ao ambiente onde atuamos.
+A Neogeo busca executar suas atividades de forma ambientalmente responsável e reduzir os impactos relacionados às suas operações.
+Esse compromisso já foi reconhecido por duas premiações consecutivas de Performance Ambiental, segundo as informações institucionais da empresa.
+[INSERIR SELOS / PRÊMIOS DE PERFORMANCE AMBIENTAL]
+[BLOCO 7] POLÍTICA DE ÁLCOOL E DROGAS
+Ambientes de trabalho seguros e responsáveis
+A Política de Álcool e Drogas da Neogeo tem como objetivo preservar a saúde, a segurança e o bem-estar das pessoas envolvidas nas atividades da empresa.
+Entre suas diretrizes estão a proibição do uso, posse, distribuição ou venda de álcool e drogas ilícitas nas instalações da Neogeo, de clientes e fornecedores durante a jornada de trabalho, além da proibição de exercer atividades quando houver comprometimento da capacidade para o trabalho.
+A política também estabelece tratamento justo, confidencialidade e apoio às pessoas que enfrentem problemas relacionados ao uso de álcool ou drogas.
+(QUERO ACESSAR A POLÍTICA COMPLETA)
+[BLOCO 8] ÉTICA E RESPONSABILIDADE
+Segurança também passa pelas relações que construímos.
+O compromisso da Neogeo com uma atuação responsável se estende à forma como nos relacionamos com colaboradores, clientes, fornecedores e comunidades.
+Nossa Ouvidoria funciona como um canal para denúncias, reclamações, sugestões, solicitações de informação e elogios, orientada pelos princípios estabelecidos no Código de Ética e Conduta e nas políticas de Compliance da empresa.
+(QUERO ACESSAR A OUVIDORIA)
+[BLOCO 9] CONTATO
+Segurança faz parte de cada projeto que colocamos em campo.
+Quer conhecer melhor nossa atuação ou conversar sobre uma necessidade específica?
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 1] ABERTURA
+Parceiros
+Conexões que ampliam nossas possibilidades.
+A geofísica evolui a partir da combinação entre conhecimento, tecnologia e experiência.
+Por isso, construímos parcerias que complementam nossa atuação e ampliam as possibilidades técnicas disponíveis para os desafios de cada projeto.
+[BLOCO 2] NOSSA REDE
+Parcerias estratégicas
+Tecnologia e conhecimento trabalhando juntos.
+Nossos parceiros somam especialidades, tecnologias e experiências à atuação da Neogeo.
+Essa colaboração nos permite explorar diferentes abordagens e conectar cada demanda às soluções mais adequadas ao contexto técnico do projeto.
+[BLOCO 3] GROUNDRADAR
+Groundradar
+Tecnologia GPR para investigações de maior profundidade.
+A Groundradar é especializada no desenvolvimento e aplicação de tecnologias de Ground Penetrating Radar (GPR) para projetos de exploração mineral, geotecnia e outras investigações do subsolo.
+Entre suas tecnologias está o UltraGPR, desenvolvido para alcançar maiores profundidades de investigação em ambientes favoráveis à aplicação de radar.
+A empresa atua internacionalmente com desenvolvimento de sistemas próprios, aquisição, processamento e modelagem de dados GPR.
+Principais frentes
+- GPR aplicado à exploração mineral
+- Investigações geotécnicas
+- UltraGPR
+- Sistemas GPR personalizados
+- Aquisição e processamento de dados
+- Modelagem e interpretação
+(QUERO CONHECER AS GEOTECNOLOGIAS DE RADAR)
+[BLOCO 4] OUTROS PARCEIROS
+Uma rede que continua crescendo
+Especialidades diferentes para desafios diferentes.
+[INSERIR PARCEIROS APROVADOS PELA NEOGEO]
+[BLOCO 5] PARCERIAS NA PRÁTICA
+Mais possibilidades para construir a estratégia de cada projeto.
+Acesso a tecnologias especializadas
+Integração de ferramentas e sistemas desenvolvidos para aplicações específicas.
+Conhecimento complementar
+Conexão entre diferentes experiências e especialidades técnicas.
+Aplicação em diferentes cenários
+Mais possibilidades para avaliar métodos e estratégias de acordo com as características de cada investigação.
+[BLOCO 6] CONTATO
+Tem um desafio para investigar?
+Conte para nossa equipe o que o seu projeto precisa compreender. Vamos avaliar a demanda e identificar as tecnologias e soluções mais adequadas para o cenário.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 1] ABERTURA
+Blog Neogeo
+Conhecimento técnico para acompanhar o que acontece abaixo da superfície.
+Artigos, estudos, aplicações, Geotecnologias e conteúdos produzidos a partir da experiência da Neogeo em geofísica, mineração, geotecnia, engenharia e meio ambiente.
+[BLOCO 2] CONTEÚDO EM DESTAQUE
+[IMAGEM DE DESTAQUE]
+[Título do artigo em destaque]
+[Resumo curto do artigo em até duas ou três linhas, apresentando o assunto e o principal motivo para continuar a leitura.]
+(QUERO LER O ARTIGO)
+[BLOCO 3] ÚLTIMOS CONTEÚDOS
+Publicações recentes
+Novas leituras, estudos e perspectivas.
+Acompanhe os conteúdos mais recentes publicados pela Neogeo.
+[Imagem]
+[Categoria] [Data]
+[Título do artigo]
+[Breve descrição do conteúdo.]
+(QUERO LER O ARTIGO)
+[PAGINAÇÃO / CARREGAR MAIS]
+[BLOCO 4] CONHECIMENTO APLICADO
+Do campo para o conteúdo
+O que aprendemos nos projetos também pode gerar novas perguntas.
+A experiência adquirida em campo, o desenvolvimento de novas Geotecnologias e os desafios encontrados em diferentes projetos alimentam parte dos conteúdos publicados aqui.
+É um espaço para compartilhar conhecimento técnico, discutir aplicações da geofísica e acompanhar temas relacionados às áreas em que atuamos.
+[BLOCO 7] CONTATO
+Encontrou um tema que se conecta ao seu projeto?
+Nossa equipe pode ajudar a entender quais métodos, Geotecnologias e estratégias fazem mais sentido para a sua necessidade.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 1] ABERTURA
+Vamos entender o que o seu projeto precisa investigar.
+Conte para nossa equipe o objetivo do estudo, onde ele será realizado e o que você precisa compreender.
+Você não precisa chegar com o método geofísico definido. A partir das informações iniciais, nossa equipe poderá entender melhor a demanda e orientar os próximos passos.
+[BLOCO 2] FORMULÁRIO COMERCIAL
+Fale sobre seu projeto
+Para começar, precisamos entender a sua necessidade.
+Preencha as informações abaixo para que nossa equipe conheça o contexto inicial da sua demanda.
+Nome
+[Digite seu nome]
+Empresa
+[Digite o nome da empresa]
+E-mail corporativo
+[Digite seu e-mail]
+Telefone / WhatsApp
+[Digite seu telefone]
+Área de interesse
+[Selecione uma opção]
+- Geotecnia
+- Exploração Mineral
+- Engenharia
+- Hidrogeologia
+- Arqueologia
+- Monitoramento
+- Outra demanda
+- Ainda não sei / Preciso de orientação
+Local do estudo
+[Cidade / Estado]
+Conte um pouco sobre o seu projeto
+Descreva brevemente o que precisa ser investigado, o objetivo do estudo ou as principais informações que sua equipe busca obter.
+(QUERO ENVIAR MINHA SOLICITAÇÃO)
+[BLOCO 3] CONTATO DIRETO
+Prefere falar diretamente com a Neogeo?
+Nossos canais de contato.
+Telefone
+(31) 3296-2958
+E-mail
+contato@ngg.com.br
+Endereço
+Av. Prudente de Morais, 287, Salas 1601–1605  
+Santo Antônio — Belo Horizonte/MG  
+CEP 30350-093
+(QUERO ENTRAR EM CONTATO POR E-MAIL)
+[BLOCO 4] LOCALIZAÇÃO
+Onde estamos
+Belo Horizonte, Minas Gerais.
+Nossa sede está localizada no bairro Santo Antônio, em Belo Horizonte.
+[INSERIR MAPA / GOOGLE MAPS]
+(QUERO VER COMO CHEGAR)
+[BLOCO 5] NÃO SABE QUAL SOLUÇÃO PROCURAR?
+Comece pelo problema.
+A tecnologia vem depois.
+Se você ainda não sabe qual método ou solução é mais adequado para o seu projeto, não tem problema.
+Conte o que precisa identificar, caracterizar, monitorar ou compreender. A partir do contexto inicial, a equipe da Neogeo poderá avaliar a demanda e direcionar a conversa técnica.
+(QUERO FALAR SOBRE MEU PROJETO)
+[BLOCO 6] OUVIDORIA
+Ouvidoria
+Um canal independente para ouvir você.
+A Ouvidoria da Neogeo é destinada ao recebimento de denúncias, reclamações, sugestões, solicitações de informação e elogios.
+As manifestações são tratadas com independência, isenção e ética, seguindo os princípios do Código de Ética e Conduta e as políticas de Compliance da empresa.
+(QUERO ACESSAR O CÓDIGO DE ÉTICA E CONDUTA)
+O atendimento da Ouvidoria está disponível de segunda a sexta-feira, das 8h às 17h.
+Nome
+[Digite seu nome]
+Empresa
+[Digite o nome da empresa]
+E-mail
+[Digite seu e-mail]
+Tipo de manifestação
+[Selecione uma opção]
+- Denúncia
+- Reclamação
+- Sugestão
+- Solicitação de informação
+- Elogio
+- Outro
+Mensagem
+[Conte sua manifestação]
+(ENVIAR)
