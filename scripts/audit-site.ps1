@@ -311,7 +311,7 @@ foreach ($file in $files) {
 
   if ($rel -eq 'geotecnologias.html' -or $rel -eq 'solucoes.html') {
     if ($html -notmatch 'hub-hero--bg') { Write-Fail "$rel sem hero com fundo visual" }
-    if ($html -notmatch 'class="bg-visual"') { Write-Fail "$rel sem camada de fundo visual" }
+    if ($html -notmatch 'class="bg-visual') { Write-Fail "$rel sem camada de fundo visual" }
   }
 
   $bgHeroPages = @('pesquisa-desenvolvimento.html', 'sms.html', 'parceiros.html', 'blog.html', 'contato.html')
@@ -327,7 +327,7 @@ foreach ($file in $files) {
     if (([regex]::Matches($html, 'class="home-hero-arrow"')).Count -ne 2) { Write-Fail 'index.html sem duas setas no controle CONHECA MAIS' }
     if ($html -notmatch 'href="#homepage-content"') { Write-Fail 'index.html sem ancora do CONHECA MAIS para o Bloco 2' }
     if ($html -notmatch 'class="home-block2" id="homepage-content"') { Write-Fail 'index.html sem Bloco 2 identificado' }
-    if ($html -notmatch 'class="hero-media"') { Write-Fail 'index.html sem placeholder preto do Bloco 2' }
+    if ($html -notmatch 'class="hero-media') { Write-Fail 'index.html sem placeholder preto do Bloco 2' }
     if ($html -notmatch 'class="hero-box"') { Write-Fail 'index.html sem caixa azul do Bloco 2' }
     if ($html -match 'class="hero-scroll"|class="scroll-cue"|class="hero-stage"') { Write-Fail 'index.html ainda usa a estrutura antiga de hero unico' }
     $heroPos = $html.IndexOf('class="home-hero"')

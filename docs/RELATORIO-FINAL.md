@@ -183,15 +183,173 @@ Verificações desta rodada de tipografia e navegação (headless Chrome):
 - subpágina `geotecnologias/metodos-sismicos.html`: GEOTECNOLOGIAS ativo e “Métodos sísmicos” marcado no submenu;
 - menu mobile aberto em 390 px com submenu expandido, estado ativo e subitem atual destacados.
 
+## Imagens e ícones da homepage (13/11/2026)
+
+Rodada restrita à homepage: `index.html` e `styles/home.css`. Nenhuma outra página, copy, rota, header, footer, menu ou formulário foi alterado. O hero de abertura e o placeholder da equipe foram mantidos intactos.
+
+### Imagens inseridas (11)
+
+Todas usam container próprio com `overflow: hidden`, imagem absoluta, `width/height: 100%`, `object-fit: cover` e `border-radius: inherit`, preservando dimensões e recortes aprovados.
+
+| Arquivo | Seção | Container |
+| --- | --- | --- |
+| `01-neogeo-conhecimento-subsuperficie.png` | Bloco 2 — imagem principal com caixa azul | `.hero-media` |
+| `02-neogeo-experiencia-em-campo.png` | “Experiência em campo.” | primeiro `.bar-placeholder` |
+| `03-neogeo-conhecimento-para-interpretar.png` | “Conhecimento para interpretar.” | segundo `.bar-placeholder` |
+| `05-neogeo-estrategia-investigacao.png` | Geotecnologias — abertura | `.geo-header-media` |
+| `06-neogeo-cuidado-planejamento.png` | Como trabalhamos — cuidado/planejamento | `.work-wide-media` |
+| `07-neogeo-como-trabalhamos.png` | Como trabalhamos — imagem lateral | `.work-media` |
+| `08-neogeo-controle-qualidade.png` | Controle de qualidade | primeiro `.work-small-media` |
+| `09-neogeo-investigacao-orientada-objetivo.png` | Investigação orientada pelo objetivo | `.work-large-media` |
+| `10-neogeo-resultados-integrados.png` | Resultados integrados | segundo `.work-small-media` |
+| `11-neogeo-pesquisa-desenvolvimento.png` | P&D — fundo com texto sobreposto | `.pd-bg` |
+| `12-neogeo-contato.png` | Contato — bloco final | `.contato-media` |
+
+A caixa azul do Bloco 2 permanece no primeiro plano, sobre a imagem. O CTA do contato também permanece acima da foto.
+
+### Placeholders preservados
+
+- Hero fullscreen (`home-hero` / `.home-hero-media`): reservado para o vídeo institucional; nenhuma imagem foi inserida.
+- Fotografia da equipe (`.intro-media`): mantida preta, vazia e com as mesmas dimensões.
+- `.geo-visual` (6 ocorrências): sem arquivo correspondente; mantidos como estão.
+- Slots de logotipos de parceiros/clientes (10): sem arquivo correspondente; mantidos.
+
+### Ícones (17)
+
+Os 17 ícones dos círculos explicativos foram inseridos como **SVG inline** (mesmo desenho dos arquivos em `assets/icons`), para que `stroke="currentColor"` funcione e o ícone herde a cor do círculo. O diâmetro dos círculos não mudou.
+
+- Geotecnologias (6, círculo preto 54 px, ícone branco):
+  - Métodos elétricos e eletromagnéticos → `assets/icons/neogeo-metodos-eletricos-eletromagneticos.svg`
+  - Métodos sísmicos → `assets/icons/neogeo-metodos-sismicos.svg`
+  - Métodos potenciais → `assets/icons/neogeo-metodos-potenciais.svg`
+  - Radar e investigação de alta resolução → `assets/icons/neogeo-radar-investigacao-alta-resolucao.svg`
+  - Levantamentos aéreos com drones → `assets/icons/neogeo-levantamentos-aereos-drones.svg`
+  - Perfilagem geofísica → `assets/icons/neogeo-perfilagem-geofisica.svg`
+- Aplicações (6, círculo preto 46 px, ícone branco):
+  - Geotecnia → `assets/icons/neogeo-geotecnia.svg`
+  - Exploração Mineral → `assets/icons/neogeo-exploracao-mineral.svg`
+  - Engenharia → `assets/icons/neogeo-engenharia.svg`
+  - Hidrogeologia → `assets/icons/neogeo-hidrogeologia.svg`
+  - Arqueologia → `assets/icons/neogeo-arqueologia.svg`
+  - Monitoramento → `assets/icons/neogeo-monitoramento.svg`
+- Como trabalhamos (5, círculo cinza 56 px, ícone azul-marinho):
+  - Investigação orientada pelo seu objetivo → `assets/icons/neogeo-investigacao-orientada-objetivo.svg`
+  - Controle de qualidade nas etapas técnicas → `assets/icons/neogeo-controle-qualidade-etapas-tecnicas.svg`
+  - Conhecimento de diferentes especialidades → `assets/icons/neogeo-conhecimento-diferentes-especialidades.svg`
+  - Segurança e responsabilidade na operação → `assets/icons/neogeo-seguranca-responsabilidade-operacao.svg`
+  - Resultados integrados para seu objetivo → `assets/icons/neogeo-resultados-integrados-objetivo.svg`
+
+Cada ícone ocupa 56% do diâmetro, fica centralizado horizontal e verticalmente (desvio 0 px) e não encosta na borda.
+
+### Alterações técnicas
+
+- `styles/home.css`: padrão reutilizável `.media-cover`; enquadramentos individuais por `object-position`; `.pd` como camada relativa com `.pd-bg` absoluto em `opacity: 0.35`; `.pd-grid` em `z-index: 1`; CTA do contato em `z-index: 1`; `.circle-icon` em 56% com flex centralizador.
+- `index.html`: imagens reais nos 11 containers e 17 SVGs inline nos círculos; nenhuma copy, estrutura ou dimensão alterada.
+- `scripts/audit-site.ps1`: o guard do Bloco 2 passou a aceitar `class="hero-media ..."` (o placeholder continua obrigatório, agora com a classe compartilhada `.media-cover`).
+
+### Verificação
+
+- 11/11 imagens carregadas, 0 caminhos quebrados, todas com `object-fit: cover`.
+- 17/17 ícones renderizados e centralizados; círculos em 54 px (geo), 46 px (aplicações) e 56 px (processo).
+- Sem overflow horizontal em 390, 768, 1280 e 1440 px.
+- P&D: fundo preto preservado, imagem em 35% e conteúdo em 100%.
+- `scripts/audit-site.ps1`: **0 problemas**, 3 avisos esperados (formulários sem backend).
+- Build estático GitHub: **0 problemas**, 22 páginas e 912 referências relativas conferidas.
+- Build Cloudflare: a verificação para por ausência de `login.html` na raiz do projeto (pré-existente e fora do escopo desta rodada); o artefato estático em si não apresenta referências quebradas.
+
+## Etapa 2 — imagens nas páginas principais e refinamento global dos ícones (13/11/2026)
+
+Rodada restrita às páginas principais (homepage, A Empresa, hubs Geotecnologias e Aplicações, P&D, SMS, Parceiros, Blog e Contato) e aos estilos compartilhados. Nenhuma subpágina de Geotecnologias ou Aplicações foi alterada. Copy, rotas, header, footer, menu e formulários permaneceram intactos.
+
+### Imagens inseridas por página
+
+Todas usam o padrão `.media-cover` (container próprio com `overflow: hidden`, imagem absoluta `width/height: 100%`, `object-fit: cover`, `object-position: center` e `border-radius: inherit`). Os fundos usam `.bg-photo` (camada absoluta, `inset: 0`, `opacity: 0.35`) sobre base preta, com o conteúdo em `z-index` superior.
+
+| Página | Arquivo | Seção | Container |
+| --- | --- | --- | --- |
+| A Empresa | `a empresa/01-neogeo-a-empresa.png` | Hero | `.empresa-hero-bg` + `.bg-photo` |
+| A Empresa | `a empresa/02-neogeo-quem-somos-equipe.png` | Quem somos | `.empresa-intro-visual` |
+| A Empresa | `a empresa/03-neogeo-experiencia-construida-campo.png` | Nossa atuação | `.empresa-atuacao-media` |
+| A Empresa | `a empresa/04-neogeo-planejamento-interpretacao.png` | Do planejamento à interpretação | `.empresa-processo` + `.bg-photo` |
+| Geotecnologias | `geotecnologias/01-neogeo-geotecnologias.png` | Hero | `.bg-visual` + `.bg-photo` |
+| Geotecnologias | `geotecnologias/02-neogeo-como-investigamos.png` | Como investigamos | `.hub-intro-media` |
+| Aplicações | `aplicações/01-neogeo-aplicacoes.png` | Hero | `.bg-visual` + `.bg-photo` |
+| Aplicações | `aplicações/02-neogeo-onde-aplicamos.png` | Onde aplicamos | `.hub-intro-media` |
+| P&D | `ped/01-neogeo-pesquisa-desenvolvimento-novas-solucoes.png` | Hero | `.bg-visual` + `.bg-photo` |
+| P&D | `ped/02-neogeo-pd-na-pratica.png` | P&D na prática | 1º `.split-media` |
+| P&D | `ped/03-neogeo-geotrack-monitoramento-conceitual.png` | GEOTRACK | 2º `.split-media` |
+| P&D | `ped/04-neogeo-ciencia-conhecimento.png` | Ciência e conhecimento | 3º `.split-media` |
+| P&D | `ped/05-neogeo-contato-pd.png` | CTA final | `.page-cta-media` |
+| SMS | `sms/01-neogeo-seguranca-meio-ambiente-saude.png` | Hero | `.bg-visual` + `.bg-photo` |
+| SMS | `sms/02-neogeo-compromisso-sms.png` | Nosso compromisso | 1º `.split-media` |
+| SMS | `sms/03-neogeo-seguranca-gestao.png` | Segurança começa na gestão | `.feature-band .bg-visual` + `.bg-photo` |
+| SMS | `sms/04-neogeo-planejamento-seguro-campo.png` | Em campo | 2º `.split-media` |
+| SMS | `sms/05-neogeo-etica-responsabilidade.png` | Ética e responsabilidade (Ouvidoria) | 4º `.split-media` |
+| SMS | `sms/06-neogeo-contato-seguranca.png` | CTA final | `.page-cta-media` |
+| Parceiros | `parceiros/01-neogeo-parceiros.png` | Hero | `.bg-visual` + `.bg-photo` |
+| Parceiros | `parceiros/02-neogeo-parcerias-estrategicas.png` | Parcerias estratégicas | `.split-media` |
+| Parceiros | `parceiros/03-neogeo-groundradar-conceitual.png` | Faixa Groundradar | `.feature-band .bg-visual` + `.bg-photo` |
+| Parceiros | `parceiros/04-neogeo-contato-desafio.png` | CTA final | `.page-cta-media` |
+| Blog | `blog/01-neogeo-blog.png` | Hero | `.bg-visual` + `.bg-photo` |
+| Blog | `blog/02-neogeo-conhecimento-aplicado.png` | Do campo para o conteúdo | `.feature-band .bg-visual` + `.bg-photo` |
+| Blog | `blog/03-neogeo-contato-blog.png` | CTA final | `.page-cta-media` |
+| Contato | `contato/01-neogeo-pagina-contato.png` | Hero | `.bg-visual` + `.bg-photo` |
+
+Total: **27 imagens** distribuídas em 8 páginas. Nenhuma imagem foi inserida nas 13 subpáginas de Geotecnologias e Aplicações.
+
+### Ícones — nova linguagem sem fundo colorido
+
+- **Homepage — “Como investigamos”**: removidos os 6 blocos `.geo-visual` (caixas pretas com sombra azul). Cada item agora exibe apenas ícone, título, linha divisória azul e descrição. O grid, os títulos, as descrições e a linha azul (`border-bottom: 2px solid var(--color-brand-blue)`) foram preservados.
+- **Homepage — ícones explicativos**: `.geo-dot`, `.app-dot` e `.work-dot` deixaram de ter círculo/fundo; os SVGs são renderizados isolados em azul institucional (`--color-brand-blue`) sobre as seções claras. Tamanhos: 40 px (geotecnologias), 34 px (aplicações) e 40 px (como trabalhamos).
+- **A Empresa — processo**: os 5 círculos cinza foram removidos; cada etapa recebeu um SVG branco (44 px) sobre o fundo escuro.
+- **A Empresa — valores**: os 5 círculos cinza foram removidos; cada valor recebeu um SVG azul (32 px) sobre fundo branco.
+- Origem dos desenhos: `assets/icons/*.svg`, reutilizados como SVG inline com `stroke="currentColor"` para herdar a cor do contexto sem alterar a geometria original.
+- Elementos com outra função (numeração de etapas, botões, indicadores e ícones do footer) não foram alterados.
+
+### Confirmação da homepage
+
+- Caixas pretas e azuis de “Como investigamos” removidas.
+- Linha azul divisória entre título e descrição preservada em todos os itens.
+- Títulos e descrições originais integralmente preservados.
+- Hero de abertura reservado ao vídeo institucional mantido intacto, assim como as 11 imagens aprovadas na rodada anterior.
+
+### Placeholders preservados
+
+- **A Empresa**: os 8 cards de fotografia da equipe (`.empresa-team-photo`) permanecem vazios — não há arquivos identificados para pessoas específicas.
+- **Homepage**: `.intro-media` (fotografia da equipe) e `.home-hero-media` (vídeo) permanecem como estavam; slots de logotipos de clientes/parceiros seguem vazios.
+- **SMS**: a seção **Sustentabilidade** permanece sem imagem, conforme decisão anterior; **Política de Álcool e Drogas** continua centralizada e sem imagem de fundo.
+- **Blog**: `.featured-media` e os três `.post-media` permanecem vazios — não há artigos reais para associar.
+- **Parceiros**: os 6 `.logo-box` de “Outros parceiros” permanecem como placeholders.
+- **Subpáginas de Geotecnologias e Aplicações**: todos os placeholders seguem inalterados.
+
+### Alterações técnicas
+
+- `styles/pages.css`: novo `.bg-photo` (camada de foto com `opacity: 0.35`) e regras `.bg-visual.has-photo` / `.media-placeholder.has-photo` para ocultar as linhas decorativas quando há fotografia.
+- `styles/home.css`: `.geo-card` editorial sem card branco; `.geo-dot`/`.app-dot`/`.work-dot` sem fundo e em azul; tamanhos de SVG 40/34/40 px; removida a regra `.geo-visual`.
+- `styles/a-empresa.css`: `.empresa-processo` com `position: relative`, `isolation: isolate` e `overflow: hidden`; container em `z-index: 1`; ícones de processo e valores sem círculo, com `.icon-svg` dimensionado.
+- `index.html`: remoção dos 6 `.geo-visual`.
+- `a-empresa.html`: 4 imagens e 10 SVGs inline (5 processo + 5 valores).
+- Demais páginas principais: imagens nos containers mapeados e classes `media-cover`/`has-photo`/`bg-photo` conforme a seção.
+- `scripts/audit-site.ps1`: o guard de camada de fundo dos hubs passou a aceitar `class="bg-visual ..."` (variante com `has-photo`).
+
+### Validação desta etapa
+
+- `scripts/audit-site.ps1`: **0 problemas**, 3 avisos esperados (formulários `action="#"` em `contato.html`), 22 páginas.
+- 27/27 imagens novas com caminho válido e carregamento confirmado (`naturalWidth` 1536, `naturalHeight` 1024).
+- `scrollWidth == innerWidth` em 1440, 1920, 768, 390 e 375 px nas 9 páginas principais — sem rolagem horizontal.
+- Verificação visual em headless Chrome (1440, 1920, 768 e 390 px): heróis, splits, faixas de fundo e CTAs com imagem visível, texto legível e recorte `cover` sem distorção.
+- Nenhum arquivo das 13 subpáginas de Geotecnologias/Aplicações foi modificado.
+
 ## Pendências de conteúdo e integração
 
 1. **Potássio** não possui descrição técnica na fonte; a página exibe “Descrição técnica em elaboração.”
 2. **Investigação de áreas contaminadas** não possui copy dedicada na fonte; a página exibe o mesmo aviso.
-3. Não há fotos reais de campo, equipe ou projetos; os espaços visuais usam placeholders neutros.
+3. A homepage já usa as 11 fotos definitivas em `assets/images/pagina inicial`; ainda faltam a foto da equipe (`.intro-media`), o vídeo do hero e os logotipos de parceiros/clientes. Os antigos cards `.geo-visual` foram removidos na Etapa 2.
 4. Não há logotipos adicionais de clientes/parceiros além dos assets existentes.
 5. Os formulários de contato e Ouvidoria ainda usam `action="#"` e precisam de endpoint/backend.
 6. O Blog aguarda artigos reais.
 7. O PDF do Código de Ética e Conduta não está no projeto; o acesso é feito por solicitação em `contato@ngg.com.br`.
+8. As 11 fotos da homepage somam cerca de 28 MB (1,9–3,6 MB cada); recomenda-se otimização não destrutiva antes da publicação.
 
 ## Como executar
 

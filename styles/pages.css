@@ -111,6 +111,23 @@
     repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px 78px);
 }
 
+/* ---------- Fotografia real em camadas de fundo ---------- */
+.bg-photo {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.35;
+  pointer-events: none;
+}
+/* As linhas decorativas saem de cena quando há fotografia. */
+.bg-visual.has-photo > span { display: none; }
+.media-placeholder.has-photo::before,
+.media-placeholder.has-photo > span { display: none; }
+
 /* ---------- Hero com fundo visual e texto sobreposto ---------- */
 .page-hero--bg {
   position: relative;

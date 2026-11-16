@@ -331,9 +331,17 @@
 
 /* ---------- Processo ---------- */
 .empresa-processo {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
   background: #000;
   color: #fff;
   padding: clamp(4rem, 8vw, 7rem) 0;
+}
+
+.empresa-processo > .container {
+  position: relative;
+  z-index: 1;
 }
 
 .empresa-processo h2 {
@@ -357,12 +365,21 @@
 }
 
 .empresa-processo-icon {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 70px;
   height: 70px;
   margin: 0 auto 1rem;
-  border-radius: 50%;
-  background: #d9d9d9;
+  color: #fff;
+}
+
+.empresa-processo-icon .icon-svg {
+  display: block;
+  width: 44px;
+  height: 44px;
+  flex: none;
+  overflow: visible;
 }
 
 .empresa-processo-item h3 {
@@ -424,10 +441,20 @@
 }
 
 .empresa-valor-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 46px;
   height: 46px;
-  border-radius: 50%;
-  background: #e4e6e8;
+  color: var(--color-brand-blue);
+}
+
+.empresa-valor-icon .icon-svg {
+  display: block;
+  width: 32px;
+  height: 32px;
+  flex: none;
+  overflow: visible;
 }
 
 .empresa-valores strong {

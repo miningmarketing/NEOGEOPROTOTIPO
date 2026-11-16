@@ -391,21 +391,20 @@
   gap: 1.4rem;
 }
 .geo-card {
-  display: grid;
-  grid-template-columns: 1fr 0.95fr;
-  gap: 0.9rem;
-  background: #fff;
-  border-radius: 14px;
-  padding: 1.1rem;
-  min-height: 230px;
+  display: block;
+  background: transparent;
+  border-radius: 0;
+  padding: 0.15rem 0 1rem;
+  min-height: 0;
 }
 .geo-text { display: flex; flex-direction: column; }
 .geo-dot {
   width: 54px;
   height: 54px;
-  border-radius: 50%;
-  background: #000;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-brand-blue);
   margin-bottom: 0.85rem;
   flex: none;
 }
@@ -423,12 +422,6 @@
   font-size: 0.78rem;
   line-height: 1.5;
   color: var(--color-text-gray);
-}
-.geo-visual {
-  background: #000;
-  border-radius: 10px;
-  box-shadow: 9px 9px 0 var(--color-brand-blue);
-  min-height: 150px;
 }
 
 /* ---------- Aplicações ---------- */
@@ -467,8 +460,10 @@
 .app-dot {
   width: 46px;
   height: 46px;
-  border-radius: 50%;
-  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-brand-blue);
   flex: none;
 }
 .app-card h3 {
@@ -522,9 +517,10 @@
 .work-dot {
   width: 56px;
   height: 56px;
-  border-radius: 50%;
-  background: #8b9095;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-brand-blue);
   margin: 0 auto 0.9rem;
 }
 .work-step h3 {
@@ -657,6 +653,73 @@
   align-items: flex-end;
   justify-content: center;
   padding: 2rem;
+}
+
+/* =====================================================================
+   IMAGENS REAIS E ÍCONES (HOMEPAGE)
+   Containers mantêm dimensões e recortes; a imagem é independente.
+   ===================================================================== */
+.media-cover {
+  position: relative;
+  overflow: hidden;
+}
+.media-cover > img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: inherit;
+}
+
+/* Enquadramentos individuais para preservar pessoas e equipamentos. */
+.bar-placeholder--experiencia > img { object-position: center 32%; }
+.bar-placeholder--interpretar > img { object-position: center 38%; }
+.geo-header-media > img { object-position: center 58%; }
+.work-wide-media > img { object-position: center 48%; }
+.work-small-media--qualidade > img { object-position: center 42%; }
+.work-large-media > img { object-position: center 45%; }
+.work-small-media--resultados > img { object-position: center 38%; }
+.contato-media > img { object-position: center 30%; }
+
+/* Ícones explicativos isolados, sem fundo colorido. */
+.geo-dot .circle-icon,
+.app-dot .circle-icon,
+.work-dot .circle-icon {
+  display: block;
+  width: 40px;
+  height: 40px;
+  flex: none;
+  overflow: visible;
+}
+.app-dot .circle-icon { width: 34px; height: 34px; }
+
+/* P&D: imagem de fundo com opacidade somente na camada da imagem. */
+.pd {
+  position: relative;
+  overflow: hidden;
+}
+.pd-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  opacity: 0.35;
+  pointer-events: none;
+}
+.pd-grid {
+  position: relative;
+  z-index: 1;
+}
+
+/* O CTA do contato permanece acima da imagem. */
+.contato-media .btn {
+  position: relative;
+  z-index: 1;
 }
 
 /* ---------- Footer ---------- */

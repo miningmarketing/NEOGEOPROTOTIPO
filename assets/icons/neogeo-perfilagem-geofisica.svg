@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.8"
+  stroke-linecap="round"
+  stroke-linejoin="round">
+  <path d="M7 19H25M39 19H57"/>
+  <path d="M25 19V56H39V19"/>
+  <path d="M32 8V33"/>
+  <path d="M27 8H37"/>
+  <rect x="29" y="33" width="6" height="14" rx="2"/>
+  <path d="M7 31C13 27 19 33 25 30M39 30C45 27 51 33 57 29"/>
+  <path d="M7 43C13 39 19 45 25 42M39 42C45 39 51 45 57 41"/>
+  <path d="M7 55C13 51 19 57 25 54M39 54C45 51 51 57 57 53"/>
+  <path d="M19 36C16 38 16 42 19 44M45 36C48 38 48 42 45 44"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.8"
+  stroke-linecap="round"
+  stroke-linejoin="round">
+  <rect x="8" y="9" width="12" height="12" rx="2"/>
+  <rect x="8" y="26" width="12" height="12" rx="2"/>
+  <rect x="8" y="43" width="12" height="12" rx="2"/>
+  <path d="M14 21V26M14 38V43"/>
+  <path d="M20 15H27M20 49H27M27 15V49M20 32H33"/>
+  <circle cx="45" cy="32" r="12"/>
+  <path d="M39 32L43 36L51 28"/>
+</svg>

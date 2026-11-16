@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.8"
+  stroke-linecap="round"
+  stroke-linejoin="round">
+  <path d="M7 14L23 8L41 14L57 8V50L41 56L23 50L7 56Z"/>
+  <path d="M23 8V20M23 40V50M41 14V24M41 44V56"/>
+  <circle cx="16" cy="34" r="3"/>
+  <circle cx="32" cy="26" r="3"/>
+  <circle cx="48" cy="38" r="3"/>
+  <path d="M19 32L29 27M35 28L45 36"
+        stroke-dasharray="2 4"/>
+  <path d="M12 45L17 43M46 20L52 18"/>
+</svg>
